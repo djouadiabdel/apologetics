@@ -1,3 +1,63 @@
+# My Talmud — Jewish Messianic Debate
+
+**Folder:** 05 - Debates  
+**Status:** Active / Expanding  
+**Links:** [[Master Index]] | [[Option D: He simply does not address it]] | [[The Crucifixion — The Burden of Proof]] | [[Is paulien creed pre-paulien?]]
+
+---
+
+## Quick Navigation
+
+| Section | Core Move |
+|---|---|
+| [The Two-Coming Framework](#the-two-coming-framework) | Sanhedrin 98a admits two portraits |
+| [Isaiah 53](#isaiah-53) | Targum Jonathan reads it as messianic |
+| [Daniel 9](#daniel-9) | Messiah cut off before 70 AD — window closed |
+| [The Empty Tomb](#the-empty-tomb) | Cover story concedes the tomb was empty |
+| [Paul and James](#paul-and-james) | Hostile conversions require explanation |
+| [500 Witnesses](#500-witnesses) | Named, living, checkable |
+| [No Alternative Candidate](#no-alternative-candidate) | The silence is the argument |
+| [Josephus and Tacitus](#josephus-and-tacitus) | Hostile non-Christian confirmation |
+| [The Closing Statement](#the-closing-statement) | Cumulative case summary |
+
+---
+
+## The One-Paragraph Version
+
+"The prophecies fall into two categories — identification prophecies that
+tell you who the Messiah is, and completion prophecies that tell you what
+he ultimately accomplishes. The identification prophecies had to be
+fulfilled at the first coming to establish identity — and they were. The
+completion prophecies describe the full scope of his mission — they will
+happen. This is not invented to rescue a failed candidate. The same
+prophets wrote both portraits and they cannot be one event — a fact the
+Talmud itself struggled with. Two visits resolves what one visit cannot."
+
+---
+
+## The One Line That Ends It
+
+> "You have no pre-70 AD Messiah candidate. You have no Temple. You have
+> no functioning atonement system. You have no explanation for the empty
+> tomb. You have a checklist built after 70 AD to exclude Jesus. You have
+> an Isaiah 53 reading abandoned from your own ancient tradition. And you
+> have a 2,000-year-old punishment with no end date. At some point the
+> weight of all of this stops being an open question and starts being an
+> answer you are refusing to accept."
+
+---
+
+## The Final Challenge (Use This to Close)
+
+> "One name. Pre-70 AD. Fits the sequence. Not Jesus. Go."
+
+The silence after that question is not a gap in the argument. It is the argument.
+
+---
+
+
+
+
 The Jewish Objection and the Christian Answer Side by Side
 
 Jewish objection:
