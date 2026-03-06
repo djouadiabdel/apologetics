@@ -8,17 +8,17 @@
 
 ## Quick Navigation
 
-| Section | Core Move |
-|---|---|
-| [The Two-Coming Framework](#the-two-coming-framework) | Sanhedrin 98a admits two portraits |
-| [Isaiah 53](#isaiah-53) | Targum Jonathan reads it as messianic |
-| [Daniel 9](#daniel-9) | Messiah cut off before 70 AD — window closed |
-| [The Empty Tomb](#the-empty-tomb) | Cover story concedes the tomb was empty |
-| [Paul and James](#paul-and-james) | Hostile conversions require explanation |
-| [500 Witnesses](#500-witnesses) | Named, living, checkable |
-| [No Alternative Candidate](#no-alternative-candidate) | The silence is the argument |
-| [Josephus and Tacitus](#josephus-and-tacitus) | Hostile non-Christian confirmation |
-| [The Closing Statement](#the-closing-statement) | Cumulative case summary |
+| Section                                                                          | Core Move                                    |
+| -------------------------------------------------------------------------------- | -------------------------------------------- |
+| [The Two-Coming Framework](#the-two-coming-framework)                            | Sanhedrin 98a admits two portraits           |
+| [[The Divine Messiah in the Old Testament Isaiah 53, Isaiah 9-6, and Micah 5-2]] | Targum Jonathan reads it as messianic        |
+| [[Daniel 9]]                                                                     | Messiah cut off before 70 AD — window closed |
+| [The Empty Tomb](#the-empty-tomb)                                                | Cover story concedes the tomb was empty      |
+| [Paul and James](#paul-and-james)                                                | Hostile conversions require explanation      |
+| [500 Witnesses](#500-witnesses)                                                  | Named, living, checkable                     |
+| [No Alternative Candidate](#no-alternative-candidate)                            | The silence is the argument                  |
+| [Josephus and Tacitus](#josephus-and-tacitus)                                    | Hostile non-Christian confirmation           |
+| [The Closing Statement](#the-closing-statement)                                  | Cumulative case summary                      |
 
 ---
 
