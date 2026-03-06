@@ -2,7 +2,7 @@
 
 **Folder:** 08 - Islam Debates  
 **Status:** Complete  
-**Links:** [[Master Index]] | [[My Talmud]] | [[Word of God solved]] | [[The word of god defense fallacies]]
+**Links:** [[Master Index]] | [[My Talmud]] | [[Word of God solved]] | [[The word of god defense fallacies]]  [[The Dawa Dilemma — Islam False Either Way]]
 
 ---
 
