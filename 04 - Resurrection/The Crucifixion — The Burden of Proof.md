@@ -1,3 +1,11 @@
+
+`## Connected Files 
+- [[Master Index]] 
+- [[Paul Was Not a Liar]] 
+- [[Is paulien creed pre-paulien?]] 
+- [[the Gospel writers were accurate reporters]]`
+
+
 The Crucifixion — The Burden of Proof
 The Islamic Claim
 
