@@ -1,5 +1,7 @@
 Here is what genuinely silenced him or exposed him — specific, documented cases where he either gave no real answer or the answer collapsed under basic scrutiny.
 
+[[Ibn Taymiyya Walks into ad hoc]]
+
 ***
 
 ## **1. The Ante-Nicene Fathers — His Biggest Silence**
