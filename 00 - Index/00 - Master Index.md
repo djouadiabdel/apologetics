@@ -35,13 +35,15 @@ File | Core Claim
 ---
 
 ## 📜 Historical Evidence & Resurrection
-File | Core Claim
----|---
-[the Gospel writers were accurate reporters](the%20Gospel%20writers%20were%20accurate%20reporters) | Eyewitness reliability
-[The Crucifixion — The Burden of Proof](The%20Crucifixion%20—%20The%20Burden%20of%20Proof) | Death is historically certain
-[Is paulien creed pre-paulien?](Is%20paulien%20creed%20pre-paulien%3F) | 1 Cor 15 creed within 2-5 years
-[Paul Was Not a Liar](Paul%20Was%20Not%20a%20Liar) | Paul's testimony is credible
-[Paul Invented Christianity](Paul%20Invented%20Christianity) | The opposing argument refuted
+| File                                                                                               | Core Claim                      |
+| -------------------------------------------------------------------------------------------------- | ------------------------------- |
+| [the Gospel writers were accurate reporters](the%20Gospel%20writers%20were%20accurate%20reporters) | Eyewitness reliability          |
+| [The Crucifixion — The Burden of Proof](The%20Crucifixion%20—%20The%20Burden%20of%20Proof)         | Death is historically certain   |
+| [Is paulien creed pre-paulien?](Is%20paulien%20creed%20pre-paulien%3F)                             | 1 Cor 15 creed within 2-5 years |
+| [Paul Was Not a Liar](Paul%20Was%20Not%20a%20Liar)                                                 | Paul's testimony is credible    |
+| [Paul Invented Christianity](Paul%20Invented%20Christianity)                                       | The opposing argument refuted   |
+| [[Ehrman's Real Arguments — What He Actually Says]]                                                |                                 |
+|                                                                                                    |                                 |
 
 ---
 
