@@ -53,7 +53,23 @@ Chapter 208 is the first time he knows it _just barely_ in time — the loss is 
 Your divergence story's Kamogawa-doctor scene is the third iteration of this same pattern — except this time, the doctor arrives and Kamogawa knows it _early enough to act._ The doctor doesn't break Kamogawa. The doctor gives him the chapter 208 moment before the chapter 1209 moment. That's the arc.
 
 **Add Chapter 208 to your reading list**, right after the Date fight chapters (~195–207), as the emotional template for every Kamogawa scene you write.
+
 ---
+# Opening image of our arc 1
+**Chapter 510** — the fishing trip chapter — as the literal visual of your opening image. Morikawa drew exactly what you described: the gym celebrating on Hiroko's boat after Sawamura. That chapter is the source panel. Your opening image already exists in the manga. You are not inventing it. You are revealing what was always inside it.
+
+**Already on your list — now read these first:**
+
+- **Chapters 503–504** — Hiroko collapses, Ippo almost quits. This is your arc's emotional DNA. Read Hiroko's exact words when she talks him back into boxing. In your version, those same words land differently — she means them, and they cost her something she never shows him.
+    
+- **Chapter 510** — The fishing trip after Sawamura. This is literally your opening image. Read it and notice what Morikawa chose to show and what he left in silence.
+    
+
+**Add to your list:**
+
+- **Chapter 1** — Re-read just the boat scene. Ippo waiting for his father who doesn't come. The cap. How old he is. What the boat smells like in Morikawa's panels. Your closing image rhymes with this page directly.
+    
+- **Chapter 1225** — Kazuo's full story. You need this before wri
 
 ## Regret Line 2 — The One Your Story Needs (Chapter 1197)
 

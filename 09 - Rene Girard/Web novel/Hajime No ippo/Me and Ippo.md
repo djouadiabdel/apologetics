@@ -1,11 +1,11 @@
-|Your experience|Ippo's experience|
-|---|---|
-|Needed Aya's gaze to feel real|Needs the ring to feel real|
-|_"I saw no value in me for her"_|Cannot imagine value outside the gym|
-|Her love made you the sensitive man|The ring makes him the man who stands up|
-|Feared she would find someone better|Fears retirement means he was never real|
-|Performance and genuine feeling got tangled|Pure fighter identity and actual self got tangled|
-|When she looked at you with love, you existed|When the crowd sees him rise, he exists|
+| Your experience                               | Ippo's experience                                 |
+| --------------------------------------------- | ------------------------------------------------- |
+| Needed Aya's gaze to feel real                | Needs the ring to feel real                       |
+| _"I saw no value in me for her"_              | Cannot imagine value outside the gym              |
+| Her love made you the sensitive man           | The ring makes him the man who stands up          |
+| Feared she would find someone better          | Fears retirement means he was never real          |
+| Performance and genuine feeling got tangled   | Pure fighter identity and actual self got tangled |
+| When she looked at you with love, you existed | When the crowd sees him rise, he exists           |
 
 
 | Alberto's pattern                                                        | Kamogawa's pattern                                                                     |
