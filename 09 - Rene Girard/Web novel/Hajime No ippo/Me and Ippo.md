@@ -1,3 +1,4 @@
+
 | Your experience                               | Ippo's experience                                 |
 | --------------------------------------------- | ------------------------------------------------- |
 | Needed Aya's gaze to feel real                | Needs the ring to feel real                       |

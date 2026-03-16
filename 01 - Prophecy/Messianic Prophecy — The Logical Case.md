@@ -95,20 +95,20 @@ that must all be true of the same person. [web:800][web:803]
 
 Each condition narrows the field:
 
-| Prophecy | Reference | Requirement |
-|---|---|---|
-| Born in Bethlehem | Micah 5:2 | Specific village, not Jerusalem |
-| From David's line | 2 Samuel 7:12-13 | Verifiable genealogy required |
-| Appears before 70 AD | Daniel 9:26 | Hard chronological deadline |
-| Cut off / killed | Daniel 9:26 | Death is part of the mission |
-| Betrayed for 30 silver pieces | Zechariah 11:12 | Specific amount |
-| Enters Jerusalem on a donkey | Zechariah 9:9 | Specific action |
-| Hands and feet pierced | Psalm 22:16 | Written 1,000 years before crucifixion existed |
-| Lots cast for his clothing | Psalm 22:18 | Specific detail, hostile parties |
-| No bones broken | Psalm 34:20 | Specific physical detail |
-| Buried in a rich man's tomb | Isaiah 53:9 | After criminal execution |
-| Rises from the dead | Psalm 16:10 | "You will not let your Holy One see decay" |
-| Gentiles stream to his name | Isaiah 49:6 | Global reach |
+| Prophecy                      | Reference        | Requirement                                    |
+| ----------------------------- | ---------------- | ---------------------------------------------- |
+| Born in Bethlehem             | Micah 5:2        | Specific village, not Jerusalem                |
+| From David's line             | 2 Samuel 7:12-13 | Verifiable genealogy required                  |
+| Appears before 70 AD          | Daniel 9:26      | Hard chronological deadline                    |
+| Cut off / killed              | Daniel 9:26      | Death is part of the mission                   |
+| Betrayed for 30 silver pieces | Zechariah 11:12  | Specific amount                                |
+| Enters Jerusalem on a donkey  | Zechariah 9:9    | Specific action                                |
+| Hands and feet pierced        | Psalm 22:16      | Written 1,000 years before crucifixion existed |
+| Lots cast for his clothing    | Psalm 22:18      | Specific detail, hostile parties               |
+| No bones broken               | Psalm 34:20      | Specific physical detail                       |
+| Buried in a rich man's tomb   | Isaiah 53:9      | After criminal execution                       |
+| Rises from the dead           | Psalm 16:10      | "You will not let your Holy One see decay"     |
+| Gentiles stream to his name   | Isaiah 49:6      | Global reach                                   |
 
 **The logical point:**
 Any single prophecy could be coincidence. Any two could be coincidence.

@@ -73,10 +73,11 @@ as a live title and pointing the reader to the Torah for context.
 
 The word **Israel** is Hebrew: **יִשְׂרָאֵל** (*Yisra'el*)
 
-| Component | Hebrew | Root | Meaning |
-|---|---|---|---|
-| *Yisra-* | יִשְׂרָ | שָׂרָה (*sarah*) | to struggle, wrestle, strive, contend |
-| *-el* | אֵל | אֵל | God |
+| Component | Hebrew  | Root             | Meaning                               |
+| --------- | ------- | ---------------- | ------------------------------------- |
+| *Yisra-*  | יִשְׂרָ | שָׂרָה (*sarah*) | to struggle, wrestle, strive, contend |
+| *-el*     | אֵל     | אֵל              | God                                   |
+|           |         |                  |                                       |
 
 **Israel = "He who wrestles with God" / "He who strives with God"**
 
