@@ -1,8 +1,21 @@
+[[The Job of the Messiah — Built From the Ground Up]]
+[[THE SEVEN TITLES OF JESUS — WHO HE CLAIMED TO BE AND WHY IT MATTERS]]
+[[ISAIAH 9-6 IN HEBREW PROVES DIVINE IDENTITY]]
 ## The Titles of Jesus: A Case from the Tanakh
 
 This is not a catalogue of names. It is a prosecution. The Tanakh creates a series of requirements — specific, testable, historically anchored — for a figure it anticipates. Each title below is a constraint. The question, put plainly to both a Jew and a Muslim, is this: **which candidate passes all of them?**
 
 Spoiler: the field narrows to one.
+
+|Title|Core OT Source|The Key Claim|
+|---|---|---|
+|**Messiah**|Daniel 9:25-26, Isaiah 61:1|He is the Anointed One whose timeline of arrival was fixed centuries before he came jesusfilm+1|
+|**Son of Man**|Daniel 7:13-14|He is the cosmic figure who receives God's throne and the worship of all nations therestlesstheologian+1|
+|**Son of God**|Psalm 2:7, 2 Samuel 7:14|He shares a unique eternal relationship with the Father — not biological, but ontological desiringgod+1|
+|**King of Israel**|Isaiah 9:6-7, Jeremiah 23:5-6|The eternal Davidic king whose very name in Jeremiah is "YHWH Our Righteousness" biblenotes+1|
+|**Rabbi**|—|He teaches as the lawgiver himself, not as someone quoting a chain of tradition [desiringgod](https://www.desiringgod.org/messages/son-of-god-son-of-man-king-of-israel)​|
+|**Jesus of Nazareth**|Isaiah 11:1, Zechariah 6:12|His name means "YHWH saves" and his hometown connects to the "Branch" (Netzer) prophecies [jesusfilm](https://www.jesusfilm.org/blog/old-testament-prophecies/)​|
+|**Lamb of God**|Isaiah 53, Exodus 12|The entire sacrificial system — 1,500 years of it — was a shadow pointing to him [jewsforjesus](https://jewsforjesus.org/learn/top-40-most-helpful-messianic-prophecies)​|
 
 ---
 
@@ -210,3 +223,4 @@ The cumulative argument is not "Jesus resembles the Messiah in some ways." It is
 **For a Muslim**: You accept Jesus as _Al-Masih_, as a word from God, as born of a virgin, as exalted to God's presence. You accept more about Jesus than any other religion except Christianity. But you have stripped out the reasons the Tanakh gives for every one of those distinctions. _Al-Masih_ means something — and what it means comes from the Torah and Psalms, not from the Qur'an. If the Torah and Psalms are the word of God (which Islam affirms), then the Messiah who comes from them is one who bears sin, is pierced, is exalted through death, and receives a kingdom over all nations. The Islamic Jesus checks every box except the ones that explain why he deserves the others.
 
 The titles do not merely describe Jesus. They demand him.
+

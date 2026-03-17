@@ -212,3 +212,7 @@ The Torah itself — before any New Testament, before Paul, before Jesus was bor
 - Who is personally sent by Yahweh to dwell among his people
     
 - Whose throne is eternal
+
+
+
+
