@@ -1,43 +1,110 @@
-Start with him arriving. Don't start with the date already in motion. Write the thirty seconds before he sits down — what he does with his hands when there's no bag to hit, no rope to skip, no rod to hold wrong. That physical detail will carry the whole chapter's emotional weight if you let it.
+The birds sing. They always do, and they always wake me up.
 
+The world starts to feel alive. It always does, and it always wakes me up.
 
+But this morning my body is speaking before I am fully awake, and it is not speaking about pain. It is something else. Something I do not have a word for yet. The light comes through the curtain the same way it always does and the street sounds the same as it always does and I am the same person in the same bed — but something underneath all of that is different. Like a note played slightly wrong. Almost right. Not right.
 
+My hands are itching.
 
-The date 
-the fight of only thinking of boxing, the father rode, his hands, kumi mirroring, and her question of what is strong.
+I look at them. Both of them, lying there on top of the blanket. Just hands. My hands. They have never done this before — not at seven in the morning, not outside the ring, not without a reason. In the gym they speak to me because I train them to. I build the language, session by session, until they know what I want before I think it. But this? This is them speaking on their own. And I don't know what they are saying.
 
-Ippo does not know who he is outside the ring — and for the first time, someone is looking at him and asking.
+Kumi's name is on my phone.
 
-**Stay in the room longer** — when Kumi asks the question, don't let Ippo answer quickly. Let him sit with it. Let the silence get long enough to be uncomfortable for both of them.
+Her message from last night. _Deal._ One word. I read it and set the phone face-down on the mattress and look at the ceiling.
 
-**Memory layer** — something on the date — a smell, an object, the way she holds something — pulls him back to the boat, to his father's hands, to the knot. Let one image compound into another.
+I think about her. She was at my last fight sitting in the third row. I saw her once between rounds — just for a second — and she was not watching the ring. She was watching my corner. Watching Coach's face to understand what was happening to me without her choosing it. Her brother. Me. The gym, the fights, the damage. I remember once Mashiba nodded at me outside the gym. Not a greeting exactly. Just an acknowledgment. Like one animal recognizing another. He did not smile. But it meant something. Mashiba is something — I know that, she knows that — She never asks me how his fights went. She already knows. She watches them alone, I think, before she talks to anyone about them.
 
-**Slow the transitions** — between arriving and sitting down, between ordering and talking, between the question and the silence — write the small moments. His hands on the table. Whether he knows what to do with them when he is not fighting.
+but she watches him take hits the same way she watches me take them, and there is nothing she can do but watch. She has no power to change any of it. Only to be present for it. 
 
-**Give the biggest moment the most space** — Kumi's question is the point. Everything before it is setup. When it arrives, stay there. Don't rush to the ending.
+We have a plan today. A real one. Not the gym, not the boat — just the two of us, somewhere, doing something that is not about boxing.
 
+And I am lying in bed unable to move.
 
+This is new. Every morning of my life I have woken up wanting to do something — run, train, work, move. The desire to act has always been the first thing there, before thought, before anything. But today I am just lying here, and the only part of me that wants anything is my hands, and they are itching toward something I cannot name.
 
-**The three movements of Chapter 3:**
+---
 
-The date has to move like this — Ippo arrives already somewhere else. He is physically present and mentally in the gym. That's not a flaw to fix, that's the wound on display. The reader sees it before Kumi names it.
+I find myself thinking about Sendo.
 
-Then the memory layer arrives not because Ippo summons it but because something small forces it. The way Kumi holds her cup. The shape of her hands. Something that has nothing to do with boxing pulls him suddenly to the boat, the knot, his father's hands moving without looking. That image compounds into the rod. The rod that felt wrong. Too light. Like pretending.
+The night before the first title fight. I was sitting on the floor of this same room — almost in a ball, back against the bed, knees up. Scared. My fists were shaking. But when I reached inside myself to find the fear, to examine it, what I found underneath it was not dread. It was hunger. All I could think about was winning. Defeating Sendo at Korakuen Hall. Lifting the belt. I was not thinking about what could go wrong. I was thinking about what winning would feel like, and the thought was so real I could almost touch it.
 
-Then Kumi asks the question and the chapter stops moving forward and goes deep instead.
+Sendo has something. I have always known this without being able to say what it is. A confidence that is not arrogance — something more settled. When I think of him I think of a person who knows exactly what he is and does not apologize for it. I wanted to be more like that. I still do.
 
-**The specific problem you need to solve:**
+But then there is Date.
 
-Kumi's question cannot arrive too clean. "What is strong?" lands differently depending on what precedes it. She needs to get there through something — a small observation she makes about him, something she notices across the table that she almost doesn't say. Her asking has to cost her something too. She is not a therapist. She is a woman sitting across from someone she loves who keeps answering questions she hasn't asked.
+Date is different.
 
-**The silence after the question is the chapter's real scene.**
+When I think of Sendo, my hands feel ready. When I think of Date, they go quiet. Not afraid exactly — something worse. Uncertain. I felt his punches and I felt his determination and I spoke to him face to face and I understood, in a way I had not understood about any opponent before, that I was looking at something I could not yet match. Not in strength. In form. In the idea of himself that he carried into every exchange.
 
-Don't let Ippo answer. Don't let him not-answer in a way that resolves it. Let him start three different answers internally — the boxing answer, the father answer, the nothing answer — and find that none of them fit what she's actually asking. The silence gets long. Kumi doesn't fill it. That's what makes her different from everyone else in his life. Everyone else fills the silence with boxing. She just waits.
+Here is what troubles me: I cannot remember the fight clearly.
 
-He will eventually say something that sounds like an answer but is actually a deflection. She will know. The reader will know. He will almost know.
+The Sendo fight I remember — pieces of it, moments, the feeling of landing, the feeling of being hit, the noise of the crowd at specific points. But the Date fight is gone. Like trying to read something in a dream. I know it happened. I have the evidence of it — the loss, the way my body felt after, what the doctor said. But the memory of the rounds themselves is like water. I watch myself sometimes on tape because it is the only way to know what I did.
 
-**The closing image:**
+What does that mean?
 
-Not resolution. His hands on the table on the walk home or the ride back. He looks at them the way he looks at them in the dark at night. But now the question is different. Before it was _what are these hands for._ After Kumi it is something closer to — _what are these hands for that isn't this._
+Is it that the mind protects you from the things that are too much? Or is it that Date hit me in a way that took something, and that thing has not come back? I don't know. What I know is that when I think of him now, lying in this bed, my hands twitch. Not the itch of wanting to fight. Something more complicated. The itch of unfinished business. Of a question my body is still asking even though it does not know the answer yet.
 
-He can't complete it yet. That incompleteness is what you need.
+Date is the answer to: _how far do you want to go?_
+
+And I do not know yet what I am willing to pay to go there.
+
+---
+
+The room is quiet. Same room as always. Every corner of it has seen a version of me — the boy who came home from his first gym session and could not stop smiling, the one who lost to Date and sat here for a long time not moving, the one who got up the next morning and ran anyway. This room knows things about me that I have not said out loud to anyone.
+
+I look at it. The bed, the ceiling, the window, the corner where I used to stack manga as a kid. A whole life contained in one small space.
+
+My hands are still itching.
+
+I don't move.
+
+I think about what Coach said. _Rest. Let the body recover. Don't force it._ I have heard him say versions of that sentence many times and I have always believed him, because Coach is almost never wrong about the body. He understands mine better than I do sometimes. He sees things from the outside that I cannot feel from within — bad habits in the shoulders, tension I carry without knowing, the way I drop my right hand after a combination. He watches me the way my mother watches me. With a kind of attention that has no agenda except to see clearly.
+
+So I know he is right about rest.
+
+But I am still lying here and my hands are still itching and I cannot tell if what I feel is the body asking for something it needs or just the mind refusing to be quiet. I have never been good at knowing the difference. In the ring it doesn't matter — you act, you react, you don't think about it. Outside the ring I never know what anything means.
+
+I turn onto my side. Look at the wall.
+
+There is a small mark on the paint near the baseboard, dark, from something years ago. I have looked at that mark ten thousand times from this same position and I have never thought about it before. It is just part of the room. Part of the ordinary geography of my life. I stare at it now like it might tell me something.
+
+It doesn't.
+
+I think about Kumi.
+
+I think about her waiting somewhere — at the station maybe, or at the place we said we would meet, checking her phone, not impatiently, she is never impatient, but present. She is always fully present in a way I am not. When Kumi listens to you she is actually listening. Not waiting for her turn to speak. Not halfway somewhere else. I have never told her I notice that. I don't say those things out loud.
+
+What will she ask me today?
+
+She asked yesterday what I was going to do. About everything. And I answered with boxing and she let me and we moved on and I felt the relief of not having to answer the real question. But the real question is still there. It was there on the phone last night. It was in the pause before she said _I'm sure you can figure it out._ Five words that meant something else entirely.
+
+She is not angry. Kumi is almost never angry. But there is something she wants me to understand that I keep failing to understand, and I think she is running out of gentle ways to say it, and I think today she might say it plainly, and I don't know if I am ready to hear it plainly.
+
+I sit up.
+
+Not all the way. Just enough. I put my feet on the floor and sit on the edge of the mattress and look at my hands again — open, resting on my knees, the itch still there, quieter now, like it has been acknowledged and is waiting.
+
+The floor is cold under my feet.
+
+I sit there for a long time. Not thinking about anything in particular. Just sitting. Feeling the weight of my own body, the soreness in the leg, the morning light shifting slowly across the wall. A car outside. Somewhere down the street a door opening and closing. Life going on at its ordinary pace, indifferent to the fact that I am sitting here on the edge of my bed not knowing what I am.
+
+_Rest_, Coach said.
+
+But Kumi is waiting.
+
+But my hands —
+
+I look at them one more time. I don't ask them anything. I just look. And something in me stops arguing.
+
+I stand up.
+
+The room holds its breath.
+
+I am meant for boxing. For suffering. For the long road toward something I can only see the edges of. These hands have always known it, even when I didn't.
+
+But today there is also Kumi. And for once — just for this morning, just for the walk to wherever she is waiting — I want to try to be someone whose hands reach toward something other than the ring.
+
+I don't know if I can.
+
+But I can at least stand up and find out.
+

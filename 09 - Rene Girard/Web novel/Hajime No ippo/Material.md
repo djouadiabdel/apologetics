@@ -253,3 +253,46 @@ Kamogawa built the ceiling. Nobody built the floor. That is the wound. That is t
 **Deep** — A man learning that he is not the sum of what others needed him to be. Not the champion Kamogawa needed. Not the gentle giant the gym needed. Not the hero the fans needed. Not even the student Takamura needed to push. Just Ippo. Whatever that actually is.
 
 The story ends not when Ippo wins a fight. It ends when Ippo can answer — even quietly, even without words — the question: _who is Ippo when nobody is watching and nothing is required of him?_
+
+
+## The Dopamine Architecture (Session 4) — applied to Ippo
+
+This is directly useful for your novel's structure. His three rules:
+
+**1. Reward system** — Ippo must win small victories regularly. Your story is a redemption arc but readers need dopamine hits along the way. Every chapter needs a small win, a revelation, or a power moment — even in a literary story. The fight scenes you said feel easy? Those are your dopamine injections. Space them correctly.
+
+**2. Curiosity loops** — end every chapter on an open question. Not a cheap cliffhanger — a _meaningful_ one. "What did Kamogawa actually see in Ippo that night?" Left unanswered, it pulls the reader forward. Your story has natural mystery built in — Ippo's CTE, Kamogawa's regret, Takamura's eye — use these as slow-burning open loops across chapters.
+
+**3. Constant progression** — readers need to feel Ippo moving somewhere even when he is suffering. His recovery from CTE, his rediscovery of his own body, his slowly rebuilding identity — these must feel like levels going up, not just suffering. Each chapter should end with Ippo slightly different than he began.
+
+
+_Makunouchi Ippo retired undefeated in everyone's eyes — except his own. Now 34, with hands that shake and a self that was never built, he has one question left: who is Ippo when there is no fight to define him?"_ 
+
+
+- Post daily at **16:00 Webnovel server time**.
+    
+- End every chapter with a soft call: _"If this moved you, support with a Power Stone."_
+    
+- Tags matter: for your story use — Boxing, Slice of Life, Sports, Redemption, Psychological, Fanfiction, HajimeNoIppo. Research top fanfic tags this week.
+
+**Reward system** — the small win does not need to be a fight victory. It can be: Ippo throws one clean punch in the mirror and his body remembers. That is a dopamine hit. One moment, 600 words, complete.
+
+**Curiosity loop** — end the moment before it resolves. Ippo's hands stop shaking for exactly three seconds. Then the chapter ends. The reader needs to know: will it happen again? That open question costs you zero extra words.
+
+**Constant progression** — each moment shows Ippo 1% different from the last chapter. Not dramatically different. Just: he stayed in the gym five minutes longer than yesterday. The reader tracks that accumulation unconsciously and it feels like movement.
+
+
+A **scene** is the whole date. Ippo and Kumi arrive, sit down, talk, leave. That could be 5,000 words.
+
+A **moment** is one thing that happens _inside_ the date that actually matters.
+
+**what is the one thing that happens in this chapter that Ippo will remember?**
+
+**When you reach the moment:** slow down. This is where you spend your words. Everything before it was at normal pace. The moment itself gets half the chapter's attention. Stay in Ippo's body. What does he feel physically first, before he understands it mentally. The shaking hands stopping. The breath that comes differently. The thing Kumi does with her eyes. Write what his body knows before his mind catches up.
+
+
+You write the room. You write the furniture. Then Ippo reaches the window.
+
+You slow down. You write what he sees.
+
+Then the chapter ends before he fully understands it.
