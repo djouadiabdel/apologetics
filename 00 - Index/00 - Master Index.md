@@ -72,21 +72,21 @@ File | Core Claim
 ## 🕌 Islam Debates
 File | Core Claim
 ---|---
-[Hadith issues](Hadith%20issues) | Hadith transmission problems
-[Ibn Taymiyya Walks into ad hoc](Ibn%20Taymiyya%20Walks%20into%20ad%20hoc) | Ibn Taymiyya's ad hoc reasoning
-[The Sana'a manuscript](The%20Sana'a%20manuscript) | Quranic textual variants
-[The word of god defense fallacies](The%20word%20of%20god%20defense%20fallacies) | Circular reasoning exposed
-[Why Al-Jawab al-Sahih Is Ad Hoc](Why%20Al-Jawab%20al-Sahih%20Is%20Ad%20Hoc) | Ibn Taymiyya's response fails
-[Word of God solved](Word%20of%20God%20solved) | The divine speech problem resolved
+[Hadith issues](Hadith%20issues.md) | Hadith transmission problems
+[Ibn Taymiyya Walks into ad hoc](Ibn%20Taymiyya%20Walks%20into%20ad%20hoc.md) | Ibn Taymiyya's ad hoc reasoning
+[The Sana'a manuscript](The%20Sana'a%20manuscript.md) | Quranic textual variants
+[The word of god defense fallacies](The%20word%20of%20god%20defense%20fallacies.md) | Circular reasoning exposed
+[Why Al-Jawab al-Sahih Is Ad Hoc](Why%20Al-Jawab%20al-Sahih%20Is%20Ad%20Hoc.md) | Ibn Taymiyya's response fails
+[Word of God solved](Word%20of%20God%20solved.md) | The divine speech problem resolved
 [The Word of God — Asharite Collapse](The%20Word%20of%20God%20—%20Asharite%20Collapse) | Asharite position self-destructs
-[Zikr is Torah](Zikr%20is%20Torah) | Quran calls the Torah zikr — preservation confirmed
-[The Yellow Cow](The%20Yellow%20Cow) | Color contradiction in the surah that confirms the Torah
-[Israel — The Quran's Embedded Problem](Israel%20—%20The%20Quran's%20Embedded%20Problem) | Israel etymology, Quran uses name 43x, wrestling encounter
-[The Islamic Dilemma — The Complete Argument](The%20Islamic%20Dilemma%20—%20The%20Complete%20Argument) | Zikr, yellow cow, preservation — Horn 1 of the trap
+[Zikr is Torah](Zikr%20is%20Torah.md) | Quran calls the Torah zikr — preservation confirmed
+[The Yellow Cow](The%20Yellow%20Cow.md) | Color contradiction in the surah that confirms the Torah
+[Israel — The Quran's Embedded Problem](Israel%20—%20The%20Quran's%20Embedded%20Problem.md) | Israel etymology, Quran uses name 43x, wrestling encounter
+[The Islamic Dilemma — The Complete Argument](The%20Islamic%20Dilemma%20—%20The%20Complete%20Argument.md) | Zikr, yellow cow, preservation — Horn 1 of the trap
 [The Fruit Test — Muhammad's Curses and the Prophet Standard](The%20Fruit%20Test%20—%20Muhammad's%20Curses%20and%20the%20Prophet%20Standard) | Jesus's word test applied, Bayesian analysis
-[False Prophet Test — Deuteronomy 18](False%20Prophet%20Test%20—%20Deuteronomy%2018) | Torah's own test applied to Muhammad
-[The Dawa Dilemma — Islam False Either Way](The%20Dawa%20Dilemma%20—%20Islam%20False%20Either%20Way) | Corruption escape creates worse problem — Islam false on both horns
-[All Prophets Were Muslim — The Retroactive Absorption Argument](All%20Prophets%20Were%20Muslim%20—%20The%20Retroactive%20Absorption%20Argument) | Semantic trick exposed — prophets taught what Islam calls shirk
+[False Prophet Test — Deuteronomy 18](False%20Prophet%20Test%20—%20Deuteronomy%2018.md) | Torah's own test applied to Muhammad
+[The Dawa Dilemma — Islam False Either Way](The%20Dawa%20Dilemma%20—%20Islam%20False%20Either%20Way.md) | Corruption escape creates worse problem — Islam false on both horns
+[All Prophets Were Muslim — The Retroactive Absorption Argument](All%20Prophets%20Were%20Muslim%20—%20The%20Retroactive%20Absorption%20Argument.md) | Semantic trick exposed — prophets taught what Islam calls shirk
 
 ---
 

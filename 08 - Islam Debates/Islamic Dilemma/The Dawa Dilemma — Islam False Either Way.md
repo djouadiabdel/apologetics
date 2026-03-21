@@ -2951,7 +2951,7 @@ foundation for their method with Muhammad.
   in same surah that confirms Torah — Horn 1
 - [[Word of God solved]] — Asharite collapse,
   Quran describes Incarnation
-- [[Hadith Issues]] — transmission reliability
+- [[Hadith issues]] — transmission reliability
   affecting prophetic claim credibility
 - [[The Divine Messiah in the Old Testament
   Isaiah 53, Isaiah 9-6, and Micah 5-2]]

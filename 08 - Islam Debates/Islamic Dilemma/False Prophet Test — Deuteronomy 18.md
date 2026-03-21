@@ -340,7 +340,7 @@ Torah authority
   uses Torah's own language without understanding it
 - [[The Yellow Cow]] — Quran contradicts the Torah
   it confirmed in the same surah
-- [[Hadith Issues]] — transmission problems that
+- [[Hadith issues]] — transmission problems that
   affect prophetic claim reliability
 - [[Why Al-Jawab al-Sahih Is Ad Hoc]] — Ibn
   Taymiyya's escape attempts
