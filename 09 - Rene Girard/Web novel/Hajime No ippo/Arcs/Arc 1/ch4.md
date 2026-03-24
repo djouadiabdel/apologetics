@@ -1,3 +1,5 @@
+Ch4
+
 I was in the ring.
 
 Not fighting. Just standing in the center of it, in the dark, with the ropes around me and nowhere to go. And someone was on the floor. I could not see who. I could only see the hand — palm up, fingers slightly open, the way hands go when they stop deciding anything.

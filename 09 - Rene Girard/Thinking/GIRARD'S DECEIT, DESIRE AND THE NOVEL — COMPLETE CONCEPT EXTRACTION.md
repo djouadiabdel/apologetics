@@ -1,7 +1,5 @@
 # GIRARD'S "DECEIT, DESIRE AND THE NOVEL" — COMPLETE CONCEPT EXTRACTION
 **Source**: René Girard, *Deceit, Desire and the Novel: Self and Other in Literary Structure* (Johns Hopkins University Press)
-**Extraction by**: AI research agent
-**Purpose**: Exhaustive concept map with page references, literary examples, and autobiographical applications
 
 ---
 
@@ -23,6 +21,27 @@
 | XII | The Conclusion | pp. 290–314 |
 
 **PDF offset**: Book page N ≈ PDF page N+11 (book p. 1 = PDF p. 12)
+
+## CROSS-CUTTING THEMES
+
+### Theme A: The Structure of Desire
+Concepts 1–9, 13, 17–18, 21–22 — The mechanics of triangular desire from its simplest form (external mediation) to its most extreme (double mediation, apocalyptic escalation).
+
+### Theme B: The Self Under Mediation
+Concepts 5, 6, 8, 11, 14, 15, 19, 20, 46 — What happens to identity, perception, and experience when all desire is borrowed.
+
+### Theme C: Power, Strategy, and Concealment
+Concepts 23, 24, 25, 27, 28, 30, 31, 32 — How internal mediation transforms every social relationship into a strategic game.
+
+### Theme D: Extremes — Masochism, Sadism, Apocalypse
+Concepts 33, 34, 35, 44, 45, 47 — The endgame of mimetic desire when no external check remains.
+
+### Theme E: Escape and Conversion
+Concepts 7, 16, 29, 48, 49, 50, 51, 52, 53, 54 — The conditions and structure of genuine liberation from triangular desire.
+
+### Theme F: The Novel as Diagnostic Instrument
+Concepts 7, 29, 41, 42, 50, 51, 54 — How the novelistic form itself enacts the diagnosis and (potential) cure of metaphysical desire.
+
 
 ---
 
@@ -541,25 +560,7 @@
 
 ---
 
-## CROSS-CUTTING THEMES
 
-### Theme A: The Structure of Desire
-Concepts 1–9, 13, 17–18, 21–22 — The mechanics of triangular desire from its simplest form (external mediation) to its most extreme (double mediation, apocalyptic escalation).
-
-### Theme B: The Self Under Mediation
-Concepts 5, 6, 8, 11, 14, 15, 19, 20, 46 — What happens to identity, perception, and experience when all desire is borrowed.
-
-### Theme C: Power, Strategy, and Concealment
-Concepts 23, 24, 25, 27, 28, 30, 31, 32 — How internal mediation transforms every social relationship into a strategic game.
-
-### Theme D: Extremes — Masochism, Sadism, Apocalypse
-Concepts 33, 34, 35, 44, 45, 47 — The endgame of mimetic desire when no external check remains.
-
-### Theme E: Escape and Conversion
-Concepts 7, 16, 29, 48, 49, 50, 51, 52, 53, 54 — The conditions and structure of genuine liberation from triangular desire.
-
-### Theme F: The Novel as Diagnostic Instrument
-Concepts 7, 29, 41, 42, 50, 51, 54 — How the novelistic form itself enacts the diagnosis and (potential) cure of metaphysical desire.
 
 ---
 

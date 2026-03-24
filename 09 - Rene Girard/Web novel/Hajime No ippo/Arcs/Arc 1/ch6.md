@@ -1,3 +1,4 @@
+ch6
 The silence sat between them.
 
 Ippo looked at the table. He looked at his hands on the table. The knuckles, the way the skin pulls across them when he spreads his fingers flat, the geography of scar tissue that has its own logic now, its own weather. He pulled them back.

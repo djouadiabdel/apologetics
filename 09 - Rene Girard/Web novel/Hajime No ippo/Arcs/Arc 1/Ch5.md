@@ -1,3 +1,5 @@
+Ch5
+
 High on his thoughts, Ippo marched to the date spot. His steps were meticulous, precise — part of training, and a part of rest is to walk a certain way. But Ippo chose to walk as if it was another morning run, each step carrying weight, a weight he used to feel and shift into the strength behind every punch, every dash, every evasion.
 
 In the city, people who see him do not recognise him instantly. He is walking like a boxer with intent, but that intent is shadowed by the air around him. A featherweight champion still looks like a normal person walking by. He is holding weapons as hands, but he does look normal, does look like a human. Everyone knows this. Everyone internalises it.

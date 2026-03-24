@@ -45,9 +45,9 @@ Before any historical argument is made, it is essential to define precisely what
 
   
 
-|   |
-|---|
-|⚑  THE FOUR REQUIREMENTS<br><br>The Muhammad of Islam must: (1) bear the name Muhammad with the correct vowelization, (2) have been born in Mecca and lived there for 52 years, (3) have received all 114 suras of the Quran, and (4) have accomplished all of this before 632 AD. Satisfying three out of four is not sufficient. A generic Arab leader named Muhammad proves nothing.|
+|                                                                                                                                                                                                                                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⚑  THE FOUR REQUIREMENTS<br><br>The Muhammad of Islam must: (1) bear the name Muhammad with the correct vowelization, (2) have been born in Mecca and lived there for 52 years, (3) have received all 114 suras of the Quran, and (4) have accomplished all of this before 632 AD. Satisfying three out of four is not sufficient. A generic Arab leader named Muhammad proves nothing. |
 
   
 

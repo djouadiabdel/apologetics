@@ -2,7 +2,7 @@
 **Source:** `/home/user/workspace/Do-you-have-access-ot-everything-in-the-chat-and-e.md`  
 **Total lines read:** 7361  
 **Date extracted:** March 2026  
-**Subject:** 26-year-old Algerian medical resident — conversation with AI spanning creative projects, Girardian self-analysis, theological journey, emotional revelations, and daily life.
+**Subject:** 22-year-old Algerian medical studebnt — conversation with AI spanning creative projects, Girardian self-analysis, theological journey, emotional revelations, and daily life.
 
 ---
 

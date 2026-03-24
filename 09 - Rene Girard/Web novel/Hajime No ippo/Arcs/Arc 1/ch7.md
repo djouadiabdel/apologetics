@@ -1,3 +1,5 @@
+CH7
+
 The date went well. We talked about many things and for once I felt like Ippo — even when he is thinking of boxing — he was there. He looked at me not as a ring, not as a square battlefield where everyone bleeds, but just as a person. And I loved that.
 
 But I feel embarrassed that I told him what I told him. That I did what I did. This reminds me of the day I said I would always go to my brother's matches and support him even if it hurts — and the experience never got better. It hurt more than I could handle every single time. Every punch he takes, every punch he throws, the blood on his face, the bruises, his legs trembling, shaking, unable to stand after absorbing everything the fight gave him. That in itself hurts to see. And I fear I will deal with the same thing with Ippo. That I will commit to something far more dangerous than I will ever be able to handle.

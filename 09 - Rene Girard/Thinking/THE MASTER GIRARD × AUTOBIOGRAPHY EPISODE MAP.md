@@ -1,7 +1,7 @@
 # THE MASTER GIRARD × AUTOBIOGRAPHY EPISODE MAP
 ### A Complete Creative Roadmap — 6 to 12 Months of Content
 
-**For:** Mounsaf — 26-year-old Algerian medical resident, Girardian autobiographer, anime interpreter, aspiring psychiatrist, former Muslim, theological wanderer.
+**For:** Abdelmouaiz — 22-year-old Algerian medical, Girardian autobiographer, anime interpreter, aspiring psychiatrist, former Muslim, theological wanderer.
 **Built from:** 67 Girard concepts (from *Deceit, Desire and the Novel*) × 110 autobiographical seeds (from the 7000-line conversation).
 **Purpose:** Every episode, essay, and Door video you could make from the material you already have.
 
@@ -1533,7 +1533,7 @@ If you're starting from zero on Ep 10, read Chapter I (pp. 1–52) and Chapter X
 The episode order suggested here (10→24) follows a thematic arc: from the discovery of the mechanism (Ep 10–13) through its application to identity, relationships, vocation (Ep 14–22) to the threshold of transformation (Ep 23–24). You can reorder these — but the arc should move from diagnosis toward conversion, not from conversion toward diagnosis.
 
 ### On your voice
-The AI prompts above ask for a narrator who "discovers this, not teaches it." This is the most important instruction. You are not a Girard expert explaining a theory. You are a 26-year-old Algerian medical resident who read a book and could not stop seeing himself in it. The episodes work because of that specificity. Every time the script becomes a lecture, pull it back to the personal.
+The AI prompts above ask for a narrator who "discovers this, not teaches it." This is the most important instruction. You are not a Girard expert explaining a theory. You are a 22-year-old Algerian medical resident who read a book and could not stop seeing himself in it. The episodes work because of that specificity. Every time the script becomes a lecture, pull it back to the personal.
 
 ### On Girard concepts not yet matched to personal material
 The following concepts are "future territory" — they don't have strong enough seed matches yet, but life will provide the material eventually:
