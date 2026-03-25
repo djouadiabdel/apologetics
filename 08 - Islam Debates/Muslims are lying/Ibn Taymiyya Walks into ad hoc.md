@@ -48,7 +48,7 @@ The problem is threefold:
 
 ## **Isaiah 9:6 — The Name He Cannot Explain Away**
 
-> *"For to us a child is born, to us a son is given... and His name will be called: **Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.**"*
+> *"For to us a child is born, to us a son is given... and His name will be called: **Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace."*
 
 Ibn Taymiyya has to deal with this verse in *Al-Jawab al-Sahih* because it is perhaps the strongest single Trinitarian passage in the entire Old Testament. [muslimhope](https://www.muslimhope.com/RebuttalToAlJawabAsSahih3_UniversalityOfMohammedsProphethood.html)
 

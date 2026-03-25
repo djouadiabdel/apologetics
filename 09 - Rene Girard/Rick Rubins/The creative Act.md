@@ -75,7 +75,7 @@ The reason you're not elite YET is because you're 22 and you've been doing this 
 The showing up without the pull is what makes you elite. The pull just makes certain days feel better than others.
 
 ---
-
+How to learn the book:
 
 **Link 1 → You are not the source.** "The Source of Creativity" (p.17) + "The Vessel and the Filter" (p.23). This is the root. Everything else collapses without it.
 
@@ -100,3 +100,5 @@ The showing up without the pull is what makes you elite. The pull just makes cer
 **Link 11 → Art may not pay. That's normal.** "The Art Habit (Sangha)" (p.201) + "Success" (p.127). Page 201-202 says directly: pursue a career that provides security while keeping art central. Medicine IS that career.
 
 **Link 12 → The cycle.** "Harmony" (p.222) + "Why Make Art?" (p.219). The work is never finished. Each piece is a station on a journey, not a destination.
+
+
