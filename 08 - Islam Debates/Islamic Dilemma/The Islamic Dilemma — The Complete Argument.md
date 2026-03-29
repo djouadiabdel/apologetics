@@ -23,6 +23,9 @@ followers to verify truth from a corrupted source. There is no
 exit from this fork. Every escape attempt is closed by another
 Quranic verse.
 
+
+
+
 ---
 
 ## Layer 1 — The Quran Explicitly Confirms the Torah and Gospel
