@@ -68,3 +68,5 @@ Lorsque l'ange Gabriel dit à Marie que la puissance du Très-Haut la **"couvrir
 3. La conclusion logique de la pureté
 
 Le "saut" logique vers la sans-péché de Marie s'appuie sur la comparaison entre l'ombre (l'Ancien Tabernacle) et la réalité (Marie) :
+
+
