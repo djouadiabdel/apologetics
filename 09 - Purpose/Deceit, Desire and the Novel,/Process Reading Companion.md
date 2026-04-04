@@ -839,75 +839,75 @@ This is calibrated to reading alongside 5th-year medical school. Adjust as neede
 
 For fast lookup while reading. Full explanations are in your concept extraction document — this is just the index.
 
-| # | Concept | Ch | Pages | One-Line Definition |
-|---|---------|-----|-------|-------------------|
-| 1 | Triangular Desire | I | 1–3 | Desire runs through a mediator, not straight to the object |
-| 2 | The Mediator | I | 2–3 | The model who certifies the object's value |
-| 3 | External Mediation | I | 9–10 | Distant mediator, no rivalry, heroic enthusiasm |
-| 4 | Internal Mediation | I | 9–12 | Close mediator, rivalry inevitable, resentment |
-| 5 | Vanity / Vaniteux | I | 6–7 | Desire permanently outsourced to Others |
-| 6 | Bovarysm | I | 5–6 | Living through a borrowed template |
-| 7 | Romantic vs. Novelistic | I | 16–17 | Concealing mediation vs. exposing it |
-| 8 | Ressentiment | I | 11–12 | Admiration curdled into hatred |
-| 9 | Snobbism | I | 24–25 | Desiring acceptance from those who despise you |
-| 10 | Deviated Transcendency | II | 58–62 | Religious impulse redirected toward human idols |
-| 11 | Psychological Circle | II | 71–74 | Condemning in others what you secretly practice |
-| 12 | Crystallization | I | 18–19 | Imagination coating the object with projected fantasy |
-| 13 | Metaphysical Desire | II | 53–55 | Wanting the mediator's BEING, not the object |
-| 14 | Ontological Sickness | II | 55–58 | Modern emptiness masked by grandiosity |
-| 15 | Broken Promise of Individualism | II | 56–57 | Autonomy fails → desperate mediation |
-| 16 | Affective Memory | II | 80–82 | Involuntary memory escaping the triangle |
-| 17 | Law of Increasing Intensity | III | 83–84 | Closer mediator = more intense + emptier desire |
-| 18 | Metaphysical Disappointment | III | 88–89 | Possession instantly destroys object's value |
-| 19 | Polymorphosis of Self | III | 92–93 | No stable identity — shifts per mediator |
-| 20 | Decomposition of Self | III | 90–91 | Multiple isolated selves, no continuous "I" |
-| 21 | Contagion of Desire | IV | 96–99 | Desire spreads through imitation |
-| 22 | Double Mediation | IV | 99–104 | Both parties imitate each other simultaneously |
-| 23 | Coquetry | IV | 105–106 | Arousing desire in order to refuse it |
-| 24 | Master/Slave Dialectic | IV | 109–112 | Concealing desire = power |
-| 25 | Two Beings Never Love at Once | IV | 108 | Desire never synchronizes |
-| 26 | True vs. Social Nobility | V | 116–117 | Authentic desire vs. borrowed desire |
-| 27 | Hypocrisy as Strategy | V | 125–130 | Concealment as rational survival |
-| 28 | Negative Imitation | IV/VI | 100–101 | Rebellion imitates through opposition |
-| 29 | Cervantine Irony | VI | 139–143 | Author's converted distance from hero |
-| 30 | Askesis for Desire | VII | 153–157 | Self-denial to intensify desire |
-| 31 | Underground Mysticism | VII | 155–157 | Saint's techniques, sinner's goals |
-| 32 | Duty to Desire | VII | 158–162 | Desiring as compulsory social obligation |
-| 33 | Masochism as Intensified Mediation | VIII | 176–184 | Rejection confirms mediator's divinity |
-| 34 | Masochism ≠ Desiring Suffering | VIII | 182–184 | Pain is the price, not the goal |
-| 35 | Sadism as Reverse | VIII | 184–192 | Same triangle, inverted position |
-| 36 | Closed Cultures | IX | 193–197 | Mediated universes, mutually impenetrable |
-| 37 | Organic Falsehood | IX | 197–198 | Pre-conscious perceptual distortion |
-| 38 | Snobbism as Ontological Hunger | IX | 202–210 | Coveting the aristocrat's being |
-| 39 | Jealousy as Engine of Love | IX | 211–220 | Rival creates/resurrects desire |
-| 40 | Retrospective Illusion | IX | 220–228 | Desire visible only in retrospect |
-| 41 | Novelist as Converted Subject | X | 229–235 | Author = former subject of mediation |
-| 42 | Revelation vs. Disguise | X | 235–245 | Transposition as form of desire |
-| 43 | The Double | X | 245–255 | Your own desire externalized as threat |
-| 44 | Apocalyptic Escalation | XI | 256–262 | Civilizational mimetic collapse |
-| 45 | Stavrogin as Empty Center | XI | 262–268 | Pure mediator with void inside |
-| 46 | Underground Man as Modern Type | XI | 270–278 | Paradigm of internal mediation |
-| 47 | The Skandalon | XI | 278–289 | Mediator as simultaneous obstacle and magnet |
-| 48 | Redemptive Characters | XI | 280–289 | Escape from triangle through grace |
-| 49 | Novelistic Conversion | XII | 290–294 | Death of mediated self at threshold of crisis |
-| 50 | Oedipus Pattern | XII | 299–300 | Novelist discovers own guilt |
-| 51 | Universal Self | XII | 297–298 | Most particular = most universal |
-| 52 | Complete Inversion | XII | 294 | Deception→Truth, Agitation→Repose, Hatred→Love |
-| 53 | Death/Resurrection of Self | XII | 301–307 | Conversion as death and rebirth |
-| 54 | Novel and Religion | XII | 307–314 | Novel as secular sacred narrative |
-| 55 | Democracy as Universal Mediation | V | 119–121 | Equality universalizes rivalry |
-| 56 | Passionate Person vs. Vaniteux | VI | 139–141 | Exception reveals the rule |
-| 57 | Corruption of Language | VI | 139–141 | Words inverted by vanity |
-| 58 | Essential Quid Pro Quo | VI/X | 231–233 | Structural misunderstanding reveals perceptual gulf |
-| 59 | Three Moments of Revelation | X | 237–240 | Illusion → chaos → structural truth |
-| 60 | Bad Faith | X | 234–235 | Desire concealment becomes automatic |
-| 61 | Nietzschean Temptation | XI | 273–275 | Worshipping one's own nothingness |
-| 62 | Kirillov's Suicide | XI | 275–278 | Pride's self-destruction |
-| 63 | "I Am Alone, They Are Everyone" | XI | 260–262 | Universal formula of underground anguish |
-| 64 | Beloved Persecutor | XI | 262–263 | Insult as concealed adoration |
-| 65 | Hero Becomes Novelist | XII | 296–298 | Convergence at conversion |
-| 66 | Self-Centeredness = Other-Centeredness | XII | 298–299 | Egotism is servitude to the Other |
-| 67 | The Desengaño | XII | 292 | Disenchantment as universal conversion structure |
+| #   | Concept                                | Ch    | Pages   | One-Line Definition                                        |
+| --- | -------------------------------------- | ----- | ------- | ---------------------------------------------------------- |
+| 1   | Triangular Desire                      | I     | 1–3     | Desire runs through a mediator, not straight to the object |
+| 2   | The Mediator                           | I     | 2–3     | The model who certifies the object's value                 |
+| 3   | External Mediation                     | I     | 9–10    | Distant mediator, no rivalry, heroic enthusiasm            |
+| 4   | Internal Mediation                     | I     | 9–12    | Close mediator, rivalry inevitable, resentment             |
+| 5   | Vanity / Vaniteux                      | I     | 6–7     | Desire permanently outsourced to Others                    |
+| 6   | Bovarysm                               | I     | 5–6     | Living through a borrowed template                         |
+| 7   | Romantic vs. Novelistic                | I     | 16–17   | Concealing mediation vs. exposing it                       |
+| 8   | Ressentiment                           | I     | 11–12   | Admiration curdled into hatred                             |
+| 9   | Snobbism                               | I     | 24–25   | Desiring acceptance from those who despise you             |
+| 10  | Deviated Transcendency                 | II    | 58–62   | Religious impulse redirected toward human idols            |
+| 11  | Psychological Circle                   | II    | 71–74   | Condemning in others what you secretly practice            |
+| 12  | Crystallization                        | I     | 18–19   | Imagination coating the object with projected fantasy      |
+| 13  | Metaphysical Desire                    | II    | 53–55   | Wanting the mediator's BEING, not the object               |
+| 14  | Ontological Sickness                   | II    | 55–58   | Modern emptiness masked by grandiosity                     |
+| 15  | Broken Promise of Individualism        | II    | 56–57   | Autonomy fails → desperate mediation                       |
+| 16  | Affective Memory                       | II    | 80–82   | Involuntary memory escaping the triangle                   |
+| 17  | Law of Increasing Intensity            | III   | 83–84   | Closer mediator = more intense + emptier desire            |
+| 18  | Metaphysical Disappointment            | III   | 88–89   | Possession instantly destroys object's value               |
+| 19  | Polymorphosis of Self                  | III   | 92–93   | No stable identity — shifts per mediator                   |
+| 20  | Decomposition of Self                  | III   | 90–91   | Multiple isolated selves, no continuous "I"                |
+| 21  | Contagion of Desire                    | IV    | 96–99   | Desire spreads through imitation                           |
+| 22  | Double Mediation                       | IV    | 99–104  | Both parties imitate each other simultaneously             |
+| 23  | Coquetry                               | IV    | 105–106 | Arousing desire in order to refuse it                      |
+| 24  | Master/Slave Dialectic                 | IV    | 109–112 | Concealing desire = power                                  |
+| 25  | Two Beings Never Love at Once          | IV    | 108     | Desire never synchronizes                                  |
+| 26  | True vs. Social Nobility               | V     | 116–117 | Authentic desire vs. borrowed desire                       |
+| 27  | Hypocrisy as Strategy                  | V     | 125–130 | Concealment as rational survival                           |
+| 28  | Negative Imitation                     | IV/VI | 100–101 | Rebellion imitates through opposition                      |
+| 29  | Cervantine Irony                       | VI    | 139–143 | Author's converted distance from hero                      |
+| 30  | Askesis for Desire                     | VII   | 153–157 | Self-denial to intensify desire                            |
+| 31  | Underground Mysticism                  | VII   | 155–157 | Saint's techniques, sinner's goals                         |
+| 32  | Duty to Desire                         | VII   | 158–162 | Desiring as compulsory social obligation                   |
+| 33  | Masochism as Intensified Mediation     | VIII  | 176–184 | Rejection confirms mediator's divinity                     |
+| 34  | Masochism ≠ Desiring Suffering         | VIII  | 182–184 | Pain is the price, not the goal                            |
+| 35  | Sadism as Reverse                      | VIII  | 184–192 | Same triangle, inverted position                           |
+| 36  | Closed Cultures                        | IX    | 193–197 | Mediated universes, mutually impenetrable                  |
+| 37  | Organic Falsehood                      | IX    | 197–198 | Pre-conscious perceptual distortion                        |
+| 38  | Snobbism as Ontological Hunger         | IX    | 202–210 | Coveting the aristocrat's being                            |
+| 39  | Jealousy as Engine of Love             | IX    | 211–220 | Rival creates/resurrects desire                            |
+| 40  | Retrospective Illusion                 | IX    | 220–228 | Desire visible only in retrospect                          |
+| 41  | Novelist as Converted Subject          | X     | 229–235 | Author = former subject of mediation                       |
+| 42  | Revelation vs. Disguise                | X     | 235–245 | Transposition as form of desire                            |
+| 43  | The Double                             | X     | 245–255 | Your own desire externalized as threat                     |
+| 44  | Apocalyptic Escalation                 | XI    | 256–262 | Civilizational mimetic collapse                            |
+| 45  | Stavrogin as Empty Center              | XI    | 262–268 | Pure mediator with void inside                             |
+| 46  | Underground Man as Modern Type         | XI    | 270–278 | Paradigm of internal mediation                             |
+| 47  | The Skandalon                          | XI    | 278–289 | Mediator as simultaneous obstacle and magnet               |
+| 48  | Redemptive Characters                  | XI    | 280–289 | Escape from triangle through grace                         |
+| 49  | Novelistic Conversion                  | XII   | 290–294 | Death of mediated self at threshold of crisis              |
+| 50  | Oedipus Pattern                        | XII   | 299–300 | Novelist discovers own guilt                               |
+| 51  | Universal Self                         | XII   | 297–298 | Most particular = most universal                           |
+| 52  | Complete Inversion                     | XII   | 294     | Deception→Truth, Agitation→Repose, Hatred→Love             |
+| 53  | Death/Resurrection of Self             | XII   | 301–307 | Conversion as death and rebirth                            |
+| 54  | Novel and Religion                     | XII   | 307–314 | Novel as secular sacred narrative                          |
+| 55  | Democracy as Universal Mediation       | V     | 119–121 | Equality universalizes rivalry                             |
+| 56  | Passionate Person vs. Vaniteux         | VI    | 139–141 | Exception reveals the rule                                 |
+| 57  | Corruption of Language                 | VI    | 139–141 | Words inverted by vanity                                   |
+| 58  | Essential Quid Pro Quo                 | VI/X  | 231–233 | Structural misunderstanding reveals perceptual gulf        |
+| 59  | Three Moments of Revelation            | X     | 237–240 | Illusion → chaos → structural truth                        |
+| 60  | Bad Faith                              | X     | 234–235 | Desire concealment becomes automatic                       |
+| 61  | Nietzschean Temptation                 | XI    | 273–275 | Worshipping one's own nothingness                          |
+| 62  | Kirillov's Suicide                     | XI    | 275–278 | Pride's self-destruction                                   |
+| 63  | "I Am Alone, They Are Everyone"        | XI    | 260–262 | Universal formula of underground anguish                   |
+| 64  | Beloved Persecutor                     | XI    | 262–263 | Insult as concealed adoration                              |
+| 65  | Hero Becomes Novelist                  | XII   | 296–298 | Convergence at conversion                                  |
+| 66  | Self-Centeredness = Other-Centeredness | XII   | 298–299 | Egotism is servitude to the Other                          |
+| 67  | The Desengaño                          | XII   | 292     | Disenchantment as universal conversion structure           |
 
 ---
 

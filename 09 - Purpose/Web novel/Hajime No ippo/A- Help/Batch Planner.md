@@ -1,3 +1,12 @@
+**A few chapters after that — The name drop**
+
+Fujii mentions him by name in conversation with Mari. Casual. "Ah, [name] wrote something interesting about the last fight." Mari responds with something that reveals she's been watching him too — maybe skeptically. This tells the reader that the existing cast is already aware of him as a person, not just a presence. The reader is now where Fujii and Mari are — noticing him, forming an opinion, waiting to see what he becomes.
+
+**Then when you're ready — The door opens**
+
+His first real scene. And because you've been planting seeds, the reader doesn't feel ambushed by a new character. They feel like they're finally getting to meet someone they've been glimpsing in the periphery.
+
+
 # THE BATCH PLANNING GUIDE
 
 ## Use this after finishing a batch of chapters. Paste it to Claude with your notes.
