@@ -112,6 +112,7 @@ And you agree with all of that.
 
 And it still got you.
 
+===
 It still made you feel something. Something you can't fully name. Something that kept you turning pages at 2am even though you could see every plot twist coming from three chapters away. And that's the part that bothers you, right? Not that it's bad. But that it works anyway. That the feeling is real even when the story is ridiculous.
 
 And they too, they read it, they deeply enjoyed something about it but it feels bad to says so.
@@ -123,6 +124,8 @@ Not to defend the manga. Not to tell you it's secretly a masterpiece. But becaus
 And once you see it, you'll see it in every harem manga, every love triangle, every story where some ordinary guy has five women fighting over him for no apparent reason.
 
 The obstacle IS the desire. Make it forbidden and you make it irresistible. And I am going to explain this to you, why is it the case.
+
+===
 
 | Beat              | Type      | Visual                                                                              |
 | ----------------- | --------- | ----------------------------------------------------------------------------------- |

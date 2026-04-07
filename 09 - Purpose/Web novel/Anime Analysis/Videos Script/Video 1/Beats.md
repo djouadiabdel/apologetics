@@ -30,8 +30,8 @@
 
 ## BEAT 3: CAR CRASH LINE
 
-**Start:** "That's not a premise. That's a car crash."  
-**End:** (end of sentence)
+**Start:** "That's not a premise. That's a car crash."   0.38
+**End:** (end of sentence) 2.09
 
 **Type:** T (text on screen) OR M (wide panel of all three characters sitting together awkwardly)  
 **Visual Option A:** Text on black: "That's not a premise. That's a car crash."  
@@ -49,6 +49,8 @@
 **Visual:** Panel showing one of the "trashy" dramatic moments — maybe a kiss, a confrontation, crying  
 **Transform:** Slow push-in  
 **Length estimate:** 8-12 seconds
+
+
 
 ---
 
@@ -99,12 +101,14 @@
 **Visual:** Optional text: "The Protagonist Problem" OR just 1 second of black  
 **Length estimate:** 2-3 seconds
 
+2.09
+
 ---
 
 ## BEAT 9: NATSUO DESCRIPTION (ROAST MODE)
 
-**Start:** "Natsuo Fujii. The protagonist..."  
-**End:** "...That's the whole package."
+**Start:** "Natsuo Fujii. The protagonist..."   2.15
+**End:** "...That's the whole package." 3.01
 
 **Type:** M → M → M (montage of boring Natsuo moments)  
 **Visuals:** Panels of Natsuo doing generic things — writing, running, looking determined, helping someone  
@@ -116,8 +120,8 @@
 
 ## BEAT 10: NATSUO ROAST CONTINUES
 
-**Start:** "He's not funny. He's not intimidating. He's not mysterious..."  
-**End:** "...And somehow every woman who enters a scene with him develops feelings within three chapters."
+**Start:** "He's not funny. He's not intimidating. He's not mysterious..."   3.02
+**End:** "...And somehow every woman who enters a scene with him develops feelings within three chapters." 3.22
 
 **Type:** M (montage, faster pace)  
 **Visuals:** Quick cuts of different women blushing at Natsuo, confessing, looking at him longingly  
@@ -129,8 +133,8 @@
 
 ## BEAT 11: BLAME THE AUTHOR
 
-**Start:** "Your first reaction is to blame the author..."  
-**End:** "...Standard harem writing. Move on."
+**Start:** "Your first reaction is to blame the author..."  3.23 
+**End:** "...Standard harem writing. Move on."3.27
 
 **Type:** M (single dismissive panel, could be Natsuo surrounded by girls, presented flatly)  
 **Visual:** A typical harem moment — Natsuo in the center, girls around him  
@@ -141,8 +145,8 @@
 
 ## BEAT 12: THE STOP / PIVOT
 
-**Start:** "Look, there is something that makes me stop thinking like that."  
-**End:** "...rooted in the question of WHY DO WE DESIRE THINGS?"
+**Start:** "Look, there is something that makes me stop thinking like that."   3.28
+**End:** "...rooted in the question of WHY DO WE DESIRE THINGS?" 4.23
 
 **Type:** M (the central triangle — THIS IS A KEY VISUAL)  
 **Visual:** A panel showing Natsuo, Rui, and Hina together OR back-to-back panels of Rui and Hina looking at Natsuo  
