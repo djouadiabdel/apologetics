@@ -24,18 +24,7 @@ Je ne connaitre pas si mon explication est suffisament pour rendre l'idee de jes
 
 
 ----
-### words of description to use 
-
-**doucereux** 
-
-**en stuc** 
-
-**s'égarer** — to go astray, to get lost, to wander off. Raymond suggests the dog could have simply _s'égarer_. It works for animals, people, and thoughts — a gentle word for losing your way, not dramatic but disoriented. Example: _Ses pensées s'égaraient dans le silence de la nuit._
-
-**une traînée** — a trail, a streak. The dog leaves behind "une traînée de petites gouttes." It's a visual trace word — a smear, a line left behind by something being dragged. Example: _Une traînée de lumière passait sous la porte._
-
-**gémir** — to moan, to whimper. Salamano's dog "a gémi sourdement" — the last sound of the chapter. It's the animal/body version of grief, wordless pain. Example: _Le vent gémissait dans les branches nues._
-
+###
 
 ----
 Alors le question est directement presente comme un conclusion, si la desire est d'une facon au autre est d'imitation, On retrouve le désir selon l’Autre, eset ce que si possible d'avoir cette desire qu'il n'etait pas medier par les autre, ou d'autre mot, un desire reel? and quel est le prix qu'on doit payee pour l'obtenir
@@ -173,3 +162,52 @@ Lorsque les personnes qu'il aide cessent de le **vénérer** comme un dieu, son 
 
 
 _La Dynamique de la Validation Externe et la Blessure Narcissique : Une Lecture Girardienne de la Dépendance Interpersonnelle._ (The Dynamics of External Validation and Narcissistic Injury: A Girardian Reading of Interpersonal Dependence).
+
+
+----
+
+
+
+Alors, le premier problème dont on va parler aujourd'hui, qu'on va étudier à la racine en général, c'est que le roman de Camus est un peu bizarre. D'habitude, on a l'habitude d'apprendre des choses des romans classiques qui sont parfaits, impersonnels, qui ont des lois strictes qu'on ne peut pas perturber. Mais tout ce qu'on va lire dans ce roman est problématique : tout cela est dirigé par l'idée du mensonge romantique. Et je n'aime pas ça, parce que je pense que l'histoire entière est rédigée en opposition à ce style parfaitement rédigé.
+
+Pour moi, un bon roman ou une bonne nouvelle, c'est une très bonne représentation humaine du système du désir. Et je suis en train de dire que pour rendre les choses simples, le désir est tellement basique qu'une personne doit être capable de désirer tout ce qu'elle aime, comme un acte complètement spontané.
+
+Alors, Meursault est un anti-héros. Dans l'histoire de Camus, il a une fonction très complexe, mais le système de son désir, la motivation sensorielle de ses actions est sans mensonge. Tout prend la forme d'une participation purement sensorielle. C'est un peu bizarre, parce que Meursault, le personnage de Camus, aime Marie simplement parce qu'il la sent, parce qu'il touche ses cheveux et sent qu'ils sont beaux. Il fait des actions physiques poussé par ses impulsions.
+
+En même temps, la structure et l'ergonomie de la prose occultent le fait que la société veut que Meursault ait une "âme". On exige de lui d'avoir une âme, et cette idée d'avoir une âme est problématique dans le livre. Meursault n'aime pas ça, parce qu'il agit simplement comme une personne normale guidée par ses sens.
+
+Je ne connais pas exactement tous les détails de ce portrait dans le roman, et il y a bien sûr beaucoup plus de fragmentation dans ma compréhension de cette œuvre, mais oui, c'est l'idée.
+
+-----
+Aujourd'hui, j'aimerais parler de la **structure du désir**. Il existe deux formes de médiation : la **médiation externe** (le modèle est loin) et la **médiation interne** (le modèle est proche). Plus le modèle est proche de nous, plus l'intensité du désir est élevée, ce qui finit par se transformer en une véritable torture. Le succès de l'autre nous renvoie à notre propre manque ; ses réussites nous donnent l'impression que nos propres efforts sont vains ou inutiles.
+
+ L'exemple de Higoruma (Jujutsu Kaisen)
+
+On peut illustrer cela avec le personnage de **Higoruma** dans _Jujutsu Kaisen_. Ce personnage cherche à incarner un idéal : celui du juge parfaitement honnête. Mais en marchant après cet idéal absolu, il finit par ressentir un vide profond, un néant dans son âme. C'est l'illustration de l'homme qui, en cherchant une perfection extérieure, se retrouve face à son propre vide intérieur.
+ La Déception Métaphysique et le Scrolling
+
+Vient ensuite la **déception métaphysique**. C'est le sentiment du _"Ce n'est que ça ?"_. On croit qu'en possédant un objet ou en atteignant un titre, on obtiendra la plénitude du médiateur. C’est ce mécanisme qui rend le **scrolling addictif** : on cherche désespérément dans la vidéo suivante la satisfaction que la précédente n'a pas pu nous donner.
+
+La Polymorphose du Moi et le "Projet"
+
+Dostoïevski a beaucoup écrit sur la **polymorphose du moi** : cette tendance du sujet à changer de personnalité selon ses médiateurs. Pour protéger mon âme contre cette instabilité, j'utilise la notion de **"projet"**. Le projet sert d'ancre pour éviter que le moi ne devienne liquide et ne se dissolve dans l'imitation des autres.
+La Critique de la Morale du "Feel Good"
+
+Un système moral basé sur l'idée que _"le bien est ce qui fait du bien sur le moment"_ est profondément défaillant. On devient alors esclave de l'orgueil, du snobisme et de la validation d'autrui. Cette moralité ne mène qu'à une déception métaphysique constante et à un sentiment de vide.
+Application au TDAH (ADHD)
+
+Enfin, ce système explique les effets intenses du **TDAH**. La distractibilité est une **prolifération de médiateurs** qui réclament tous notre attention en même temps. Cela rend le moi encore plus polymorphe et, une fois l'excitation passée, le sentiment de vide n'en est que plus intense.
+
+
+----
+Aha, l'impression que notre moi de passe et future est alien, c'est a cause de sa? Explique le bien avec un system de cause et conseqeuence
+en context religioux, qu'est ce que en peut dire de cela? idol comme le mot en anglais idol?
+Est alors L'homme, quand dit girard que l'homme possede cette bessoin inne d'adoration?
+
+alors la chaine est comme ca: Homme toujour doit avoir un dieu, il regard a un person est il admirer comme un dieu parceque cette person a un chose que nous pouvons le describte comme un pleine ceur ou nous avons un vide ontologic, nous cherchon devans notre ame un vide, et suspect que les autres avoir un pleinitude total, et le mediation commence, le chte de l'idole commence et elle finit toujour par decevoir attente metahpysique qu'un deception quand on obtenir un chose ou par un maladie ontologique total? Et alors en finalement en peut dire que tous en train de fair et comme un system d'avoir un MOI, notre moi change courament avec le mediator parceque nous ponson que nous somme just existant si on avoir un chose que les autres a, alors le moi is aalways related to others?
+
+Est-ce que c'est le moment de dire que le MOI multiple dont Girard parle, c'est à cause que nous supposons qu'un MOI est une relation avec l'image que nous peignons, comme la chose qu'on imagine qu'on va être après avoir accompli une chose liée à un médiateur ? Alors dans un sens, tout ce que nous sommes, c'est une somme de médiations qui vont jamais devenir vraies. Et le moment qu'on les obtient, la déception métaphysique nous frappe et ça meurt. Alors nous n'atteignons jamais un MOI qu'on peut regarder dans le futur et sentir "oui, ça c'est moi" ?
+
+ALors le concept de coquetterie, c'est comme en desirer un chose, mais c'est un pretexte d'un autre chose qu'on etait medier par, c'est le person qui hmm entir précieuse?
+
+

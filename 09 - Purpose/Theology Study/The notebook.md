@@ -1,0 +1,20 @@
+Yes — one physical notebook, handwritten, for the whole arc. Here's what I'd actually suggest for structure, because an unstructured notebook becomes a journal and loses its teeth:
+
+Divide each entry into three parts. **First, the passage** — write out the key verse or two from the Scripture you read before the video, in your own hand. The physical act matters. **Second, the insight** — one paragraph on what the BibleProject session or the Orthodox reading actually said. Not a transcript, a distillation. If you can't compress it to a paragraph you didn't understand it yet. **Third, the question or connection** — one sentence: what does this raise, what does it connect to, what would you ask a priest. That third part is where the notebook becomes _yours_ and not just notes.
+
+By year four you'll have a single bound record of how your reading of Scripture developed under the Fathers' guidance. That is genuinely something — both as formation and, practically, as evidence to a seminary admissions committee that you've been doing serious work for years before arriving.
+
+One small practical thing: date every entry, and at the top of each entry note which course/module/session and which Orthodox reading you're on. Future you will want to find things.
+
+
+Here's how I'd actually split it. Same notebook, but two different entry types, clearly marked at the top of each entry so you can flip through later and immediately see which track you were on.
+
+**BibleProject entries** are primarily _textual_ — you're learning to read Scripture literarily, catching design patterns, hyperlinks, ancient Near Eastern context. So the entry is anchored to the biblical passage. Top of page: date, course name, session number, Scripture reference. Then your three parts — the passage written out, the literary insight from the session, the question or connection. These entries will be dense with arrows, underlines, little diagrams of chiastic structures, Hebrew words you learned. They're working notes on _the text itself_.
+
+**Orthodox reading entries** are primarily _theological and formational_ — you're not decoding a passage, you're sitting under a Father or a dogmatic theologian. So the entry is anchored to the idea, not a verse. Top of page: date, book, chapter or section. Then: the core claim in your own words (one paragraph, harder than it sounds), one sentence on how it corrects, deepens, or reframes something you read in BibleProject recently, and one sentence on what it means for your prayer or your life. That last sentence is the whole point. Hopko and Athanasius aren't meant to be studied the way you study pathophysiology — they're meant to reshape you, and the notebook has to have a place where that reshaping gets recorded, or it evaporates.
+
+The reason to keep them in one notebook rather than two is exactly the cross-pollination you want. When you're reading _On the Incarnation_ and Athanasius says something that suddenly illuminates the cosmic-temple reading of Genesis 1 you did three weeks ago in Heaven and Earth — you want to be able to flip back four pages and write a margin note connecting them. Two notebooks kills that. One notebook with clearly distinguished entry types keeps the conversation between the two tracks alive on the same pages.
+
+Practical tip: use a different colored pen or a small symbol in the top corner for each type. Something like a ✝ for Orthodox entries and a 📖 or just "BP" for BibleProject entries. Stupidly simple, but in year three when you're flipping through 400 pages looking for "that thing Lossky said about Ezekiel," you'll thank yourself.
+
+And one more thing worth saying plainly: don't write every day. Some days the session doesn't generate a real insight, or you're tired, or you just watched and absorbed. Forcing an entry on those days produces garbage that clutters the notebook. Write when you have something to write. Aim for maybe four or five entries a week, not seven. The notebook should be a record of thinking, not a compliance log.
