@@ -1,8 +1,37 @@
-- _On the Incarnation_ — Athanasius. Start here. The logic of why God became man. Everything else builds on this.
+0- _On the Incarnation_ — Athanasius. Start here. The logic of why God became man. Everything else builds on this.
 - _The Orthodox Way_ — Kallistos Ware. Accessible bridge between devotional and theological.
 - _Exposition of the Orthodox Faith_ — John of Damascus. The first real systematic Orthodox theology.
 - _Centuries on Charity_ — Maximus the Confessor. Harder, but by then you'll be ready.
 - _The Mystical Theology of the Eastern Church_ — Vladimir Lossky. Graduate level. Save for residency.
+
+- **Dead Sea Scrolls (the missing piece for your thesis)** Your plan jumps from Hebrew Bible straight to Matthew without the crucial Second Temple bridge. The DSS are exactly what show the diversity of messianic expectations _before_ Christianity and Islam. Add these (start after you finish the Genesis blocks):
+    - _The Complete Dead Sea Scrolls in English_ – Geza Vermes (read the messianic/apocalyptic sections first: 4Q521, 1QSb, 4Q246 "Son of God" text, War Scroll, etc.)
+    - James VanderKam – _The Dead Sea Scrolls Today_ (short, excellent overview)
+    - Richard Hess – _Israel’s Messiah in the Bible and the Dead Sea Scrolls_
+- **Historical-critical / scholarly layer** BibleProject is great for literary/theological reading but stays mostly at the "what does this mean in the big story?" level. To reach expert depth you'll eventually need:
+    - Scholarly commentaries (e.g., on Isaiah, Genesis, or messianic texts)
+    - Books on Second Temple Judaism and messianism
+
+### Recommended Adjustments to Your Plan
+
+Keep most of what you have — it's good. Just layer these in:
+
+**Phase 1 (next 6–12 months – while finishing med school)**
+
+- BibleProject sequence as planned (start with _Art of Biblical Words_ + Genesis 1–11)
+- Add 20 min Hebrew daily
+- Start Athanasius _On the Incarnation_ + Kallistos Ware
+- After Genesis, insert: short intro to DSS messianism (VanderKam book + 2–3 key scrolls)
+
+**Phase 2
+
+- Continue BibleProject (Matthew + later books)
+- Write your commentaries/notes as planned
+- Add the heavier patristic books (John of Damascus, Maximus, Lossky)
+- Deep dive into DSS + scholarly works on messianic prophecy
+- Begin comparative reading on Islamic messiah views (Quran + hadith on Isa, contrasted with DSS/Hebrew Bible)
+
+
 
 **Worth buying physical (eventually, not now):**
 

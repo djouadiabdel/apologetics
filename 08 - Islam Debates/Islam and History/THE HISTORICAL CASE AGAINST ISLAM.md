@@ -524,15 +524,15 @@ Beyond the qira'at differences, the physical manuscript tradition of the Quran i
 
 ## The Six Major Manuscripts
 
-|   |   |
-|---|---|
-|MANUSCRIPT|PROBLEM|
-|Samarkand Codex (Tashkent)|8th–9th century. Missing large sections. Contains consonantal variants.|
-|Topkapi Palace manuscript|8th century. Incomplete. Disagreements with Hafs text.|
-|Husseini manuscript|8th–9th century. Shows erasures and additions in different ink.|
-|Paris/BNF manuscripts|8th–9th century. Multiple erasure points and textual corrections.|
-|British Library fragments|8th century. Fragmentary. Contains variant consonantal forms.|
-|Sana'a palimpsest|Late 7th–early 8th century. Most devastating: lower text erased and overwritten.|
+|                            |                                                                                  |     |
+| -------------------------- | -------------------------------------------------------------------------------- | --- |
+| MANUSCRIPT                 | PROBLEM                                                                          |     |
+| Samarkand Codex (Tashkent) | 8th–9th century. Missing large sections. Contains consonantal variants.          |     |
+| Topkapi Palace manuscript  | 8th century. Incomplete. Disagreements with Hafs text.                           |     |
+| Husseini manuscript        | 8th–9th century. Shows erasures and additions in different ink.                  |     |
+| Paris/BNF manuscripts      | 8th–9th century. Multiple erasure points and textual corrections.                |     |
+| British Library fragments  | 8th century. Fragmentary. Contains variant consonantal forms.                    |     |
+| Sana'a palimpsest          | Late 7th–early 8th century. Most devastating: lower text erased and overwritten. |     |
 
   
 

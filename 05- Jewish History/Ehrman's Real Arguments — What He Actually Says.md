@@ -1,6 +1,6 @@
 
 tags: [apologetics, textual-criticism, Ehrman, NT-reliability, historical-Jesus]
-related: [[Textual Variants]], [[Canon Formation]], [[Documents/apologetics/03 - Historical Evidence/1 Corinthians 15 — The Earliest Creed|1 Corinthians 15 — The Earliest Creed]], [[Naturalism as a Presupposition — Not a Conclusion]], [[Documents/apologetics/04 - Resurrection/Resurrection — Minimal Facts|Resurrection — Minimal Facts]]
+related: [[Textual Variants]], [[Canon Formation]], [[Documents/apologetics/03 - Historical Evidence/WHy trust/1 Corinthians 15 — The Earliest Creed|1 Corinthians 15 — The Earliest Creed]], [[Naturalism as a Presupposition — Not a Conclusion]], [[Documents/apologetics/04 - Resurrection/Resurrection — Minimal Facts|Resurrection — Minimal Facts]]
 ## Argument 1 — Copies of Copies
 ...your full notes...
 → connects to: [[Codex Sinaiticus and Vaticanus]], 
@@ -13,7 +13,7 @@ related: [[Textual Variants]], [[Canon Formation]], [[Documents/apologetics/03 -
 ## Argument 11 — Hallucination Hypothesis
 ...
 → connects to: [[Documents/apologetics/04 - Resurrection/Resurrection — Minimal Facts|Resurrection — Minimal Facts]], 
-  [[Documents/apologetics/03 - Historical Evidence/1 Corinthians 15 — The Earliest Creed|1 Corinthians 15 — The Earliest Creed]]
+  [[Documents/apologetics/03 - Historical Evidence/WHy trust/1 Corinthians 15 — The Earliest Creed|1 Corinthians 15 — The Earliest Creed]]
 
 ## The Meta-Point
 → connects to: [[Naturalism as a Presupposition — Not a Conclusion]]

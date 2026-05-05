@@ -1,4 +1,4 @@
-
+ 
 - **Qu'est-ce que l'auteur essaie de rendre impossible à nier?**
 - **Qu'est-ce qui doit être vrai AVANT que cette affirmation fonctionne?**
 - **Qu'est-ce qui s'effondre si ce prérequis est faux?**
@@ -158,6 +158,9 @@ Lorsque les personnes qu'il aide cessent de le **vénérer** comme un dieu, son 
 
 - **Lisez les pages 262 à 268 (Chapitre XI).** Girard y analyse le personnage de Stavroguine, défini comme un « centre vide ». C'est le médiateur pur : il n'a aucune vie intérieure propre, mais il fascine tous les autres personnages qui projettent sur son vide une image de perfection divine.
 - **Le roman à étudier :** _Les Démons_ (aussi traduit par _Les Possédés_) de Dostoïevski. Stavroguine est exactement l'archétype de ce faux dieu. L'émotion à capter ici est le désespoir secret du Cartographe : il sait qu'il est vide à l'intérieur, et c'est pour fuir ce vide terrifiant qu'il a besoin que la jeune fille le regarde comme un dieu.
+
+
+
 
 
 

@@ -9,6 +9,7 @@
 
 [[SURAH 7-157 — THE TRAP THAT DISMANTLES ISLAMIC APOLOGETICS "Whom They Find Written With Them in the Torah and the Injil"]]
 
+
 # THE QURAN CONFIRMS THE BIBLE — The Argument Muslims Cannot Escape
 
 ## The Core Claim This Document Proves

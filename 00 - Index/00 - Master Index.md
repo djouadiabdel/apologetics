@@ -64,8 +64,8 @@ File | Core Claim
 ## 💬 Debates
 File | Core Claim
 ---|---
-[My Talmud](My%20Talmud) | Full Jewish messianic debate exchange
-[The rest of my talmud unfinished](The%20rest%20of%20my%20talmud%20unfinished) | Continuation
+[My Talmud](My%20Talmud.md) | Full Jewish messianic debate exchange
+[The rest of my talmud unfinished](The%20rest%20of%20my%20talmud%20unfinished.md) | Continuation
 
 ---
 
