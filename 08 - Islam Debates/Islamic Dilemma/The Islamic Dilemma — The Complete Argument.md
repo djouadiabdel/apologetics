@@ -6,7 +6,73 @@
 [[The Yellow Cow]] | [[Word of God solved]] | [[Zikr is Torah ]] | [[The Dawa Dilemma — Islam False Either Way]]  [[The Dawa Dilemma — Islam False Either Way]]
 
 ---
+- The Quran calls itself **muṣaddiq** (attests-as-true, not "confirms the gist") of the Torah and Injīl — and its own usage proves the full sense: Yahya confirming a Word from Allah, Jesus announcing Ahmad. No partial reading available.
+- **muṣaddiq + abrogation** only ever lifts a _law_ (3:50, strengthened by 5:43–48 giving each their legal right) — never denies a _fact_. So don't confuse legally-abrogated with factually-false.
+- The Quran treats the **7th-century** Torah as authentic — 5:43–48, 10:94 ("if you are in doubt, ask those reading the scripture"). Every escape from this either confirms it or empties the verse.
+- **The flip / the fork**, held in reserve: loose _muṣaddiq_ makes the Quran the judge of the Bible → not confirmation, but replacement → the word self-destructs.
+_The covenant verse, 3:81._ I gave this short shrift earlier. It's actually one of the stronger confirmation texts and it's _underused_, so your brother may not have a rehearsed answer. Allah takes a covenant with the prophets: "whatever I give you of scripture and wisdom, then a messenger comes _muṣaddiq_ of what is with you — you must believe and support him." The recognition mechanism is built in: the prophets vouch for the later messenger _because he confirms what they have._ If the later messenger contradicts what they have, the covenant's own logic flags him as false. This is the same _muṣaddiq_ engine, but now Allah himself stakes the messenger's credentials on confirmation. Worth having ready.
 
+_1. "Bayna yadayhi doesn't mean 'in their present hands.'"_ Jake used this and it's correct Arabic — _bayna yadayhi_ (3:3, 5:48) means "before it / preceding it," not "between their two hands / in their current possession." **Do not argue the grammar; you'll lose it.** But you don't need it. Your 7th-century-authenticity point doesn't rest on _bayna yadayhi_ — it rests on **10:94 (present-tense "those who _are reading_")** and **5:43 + the stoning hadith ("bring the Torah," present, physical, in-hand).** So when he plays the _bayna yadayhi_ card, concede it instantly — "fine, that phrase means 'preceding,' I don't need it" — and pivot to 10:94 and "bring the Torah." Conceding the scaffolding to keep the load-bearing point is exactly the discipline your brother already taught you by accident.
+
+_2. "muṣaddiq confirms the prophets/message, not the books."_ This is the real scholarly retreat (you saw versions of it in Daniel and Jake). He'll say: the Quran confirms the _line of prophets and the core monotheist message_, not the _text_ of Torah/Injīl. Counter: 10:94 doesn't say "ask those who carry the prophetic message" — it says _fasʾali alladhīna yaqraʾūna al-kitāb_, "ask those who **read the book**." Reading is a _text_ act. And the stoning hadith is "bring the _Torah_" — a physical book — not "recall the message." He's forced back to the text whether he likes it or not.
+
+_3. "Confirmation is of the Arabic Quran's agreement, judged BY the Quran."_ The circular move: "the Quran confirms whatever in the Bible agrees with the Quran." Your flip already kills this — that's not confirmation, it's the Quran judging the Bible, which empties _muṣaddiq_. Have it loaded.
+
+_4. The Dead Sea Scrolls counter you must be honest about._ I gave you the scrolls as a clean kill. Be precise, because a sharp interlocutor will correct you: the DSS overwhelmingly confirm textual _stability_ of the Hebrew Bible, but there _are_ minor textual variants and the scrolls don't cover the entire OT, and they're Jewish (not Christian) scriptures, so they don't directly address the Injīl. So state it carefully: "the scrolls show the Torah the Jews held in the 7th century is substantially the text from centuries before Islam — there's no corruption window for the _Torah_." Don't claim more than that. If you overclaim "the scrolls prove the whole Bible is uncorrupted," he'll find the seam and use it to discredit the rest. Claim exactly what's true and no more — that's the epistemic discipline that keeps you from becoming Avery.
+
+----
+### The argument's logical shape
+
+You're running a **dilemma**, which is good because it forces the interlocutor to pick a horn rather than wave the question away:
+
+**Premise 1:** Q 3:55 and Q 61:14 say Jesus's true followers were made dominant/victorious over those who disbelieved.
+
+**Premise 2:** "Followers of Jesus" must refer to one of:
+
+- (a) Trinitarian Christians (the historically dominant group)
+- (b) A non-Trinitarian, proto-Islamic monotheist community
+- (c) An eschatological/cumulative reading where "victory" is fulfilled in Islam from the 7th century onward
+
+**The dilemma:**
+
+- If **(a)**, then the Qur'an is endorsing the very community whose theology it elsewhere condemns (Q 5:72-73, Q 4:171). Self-contradiction.
+- If **(b)**, then we need historical evidence of this community. There is none.
+- If **(c)**, then "made victorious _until the Day of Resurrection_" requires explaining what happened in the 600-year gap, during which the wrong group was dominant. The "until" language doesn't fit a delayed victory.
+
+### How to deploy it in conversation
+
+**Step one — get them to commit to who the followers are.** Don't let them stay vague. Ask directly: _"In Q 3:55, who are 'those who follow you'? Are they the Christians, or are they a different group?"_
+
+This is the critical move. Most Muslim interlocutors will instinctively say "the true followers, who were Muslims" — which commits them to horn (b). A more sophisticated interlocutor will say "Christians, but in a limited sense" or shift to (c). Either way, you've narrowed the field.
+
+**Step two — once they're on horn (b), ask for the community.** _"Can you name them? Where did they live? What did they write? Who wrote about them? Six centuries is a long time — surely if they were 'made victorious,' we'd have something."_
+
+The honest answer is silence, or a gesture toward Ebionites/Arians. Be ready: Ebionites affirmed the crucifixion and were marginal heretics, not victorious. Arians believed Jesus was a pre-existent divine being and accepted his death and resurrection — not Muslims.
+
+**Step three — if they shift to (c), press the "until."** Q 3:55 says _ilā yawm al-qiyāma_ — "until the Day of Resurrection." This is continuous language, not delayed-fulfillment language. The verse doesn't say "your followers will eventually triumph" — it says they will be above the disbelievers _until_ the end. A 600-year gap where the wrong followers were dominant is not "until."
+
+**Step four — if they shift to (a), close the trap.** _"So the Qur'an is saying Trinitarian Christians are the true followers of Jesus, made superior by God? Then why does the same Qur'an condemn them in Q 5:72-73?"_
+
+### What to watch out for
+
+**The "two Pauls" / al-Qurtubī move.** Like the caller in the stream tried. This doesn't actually answer your argument — even if there are two Pauls in the _tafsīr_, you're not asking about Paul, you're asking about _any_ identifiable proto-Muslim community. Redirect: _"Set Paul aside. Who are the victorious followers?"_
+
+**The Ḥanīf appeal.** They may invoke pre-Islamic Arabian monotheists (Waraqa ibn Nawfal, Zayd ibn ʿAmr). Response: these were isolated individuals, not a community, not "victorious," not followers of Jesus specifically, and there are only a handful of them mentioned in Islamic sources themselves. This doesn't satisfy the verse.
+
+**The "true Christians are Muslims" move.** They may say the disciples and earliest followers were Muslims (per Q 3:52, 5:111) and that's who the verse refers to. Response: fine — but then where are those Muslim disciples in the historical record? The disciples we _can_ document (through Acts, the epistles, the apostolic fathers, the second-century writers) preached Christ crucified, risen, and divine. If the "real" Muslim disciples existed, they left no trace, and the "fake" Trinitarian disciples were the ones who were actually victorious. That inverts the verse.
+
+**The taḥrīf escape.** They may say the historical record is corrupted — the Trinitarian victory is a falsified history. Response: this is unfalsifiable and proves too much. Every piece of evidence becomes "corrupted" the moment it contradicts the thesis. Also, the corruption would have to extend to pagan Roman sources, Jewish sources, and archaeology — none of whom had reason to invent Christianity.
+
+### One methodological note
+
+This argument is most powerful when paired with the _positive_ case for Acts that Eric was making — because together they form a pincer. Acts gives you the _actual_ historically attested followers of Jesus, who preached the death and resurrection. Q 61:14 promises _victorious_ followers. The only victorious followers we can find are the ones whose message Islam rejects. So either the Qur'an is endorsing the wrong group, or the promised group is missing from history.
+
+Run the positive case first ("here is who the disciples actually were and what they preached, with this much evidence"), then run the dilemma ("so where are the Muslim disciples your book requires?"). The order matters — the historical case establishes the baseline against which the absence becomes visible.
+
+One last thing: you're doing this well. The instinct to ask "_identify_ the referent before debating the verse" is exactly right. Most apologetic exchanges fail because both sides argue past each other on vague terms. Pinning down who "the followers" are is the move that turns a fuzzy verse into a hard dilemma.
+
+
+----
 ## The Argument in One Paragraph
 
 The Quran repeatedly, explicitly, and without qualification affirms

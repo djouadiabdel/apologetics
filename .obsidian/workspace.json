@@ -22,17 +22,45 @@
             }
           },
           {
-            "id": "05e6f3ad7a59ca9d",
+            "id": "c8161b80c273971c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Purpose/Web novel/Anime Analysis/Videos Script/Video 4/Script.md",
+                "file": "09 - Purpose/Web novel/Short Stories Of her/Fire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Script"
+              "title": "Fire"
+            }
+          },
+          {
+            "id": "91fc76e32e75020e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - Islam Debates/Islamic Dilemma/The Islamic Dilemma — The Complete Argument.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Islamic Dilemma — The Complete Argument"
+            }
+          },
+          {
+            "id": "2b073e627bdcf05f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - Islam Debates/Anthropological/Whatcha learn/The Girardian Case.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Girardian Case"
             }
           },
           {
@@ -41,15 +69,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Purpose/Web novel/Short Stories/Story one.md",
+                "file": "09 - Purpose/Web novel/Anime Analysis/Videos Script/Video 6/Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story one"
+              "title": "Script"
+            }
+          },
+          {
+            "id": "53931124f4541c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stuff on Diabetos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stuff on Diabetos"
+            }
+          },
+          {
+            "id": "2cc9c46d94c4fc2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stuff on thyroid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stuff on thyroid"
+            }
+          },
+          {
+            "id": "537dabcbf4a4cb06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - Islam Debates/Islamic Dilemma/Apostles were muslims?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apostles were muslims?"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -211,43 +282,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "ff96bdc1b3dfecbd",
+  "active": "53931124f4541c69",
   "lastOpenFiles": [
-    "08 - Islam Debates/Quran is corrupted/Corruption of Quran/All Gathered/A problem with Everything/The Quranic Preservation Argument.md",
-    "08 - Islam Debates/Quran is corrupted/Modes of Quran/Concede Your Premise.md",
-    "08 - Islam Debates/Islam and History/Hadith is sus.md",
-    "08 - Islam Debates/Islamic Dilemma/THE QURAN CONFIRMS THE BIBLE.md",
-    "08 - Islam Debates/Quran is corrupted/Word of God/John Damascus/The Saint argument/Quran as Word of God/The case.md",
-    "08 - Islam Debates/Quran is corrupted/Modes of Quran",
-    "08 - Islam Debates/Quran is corrupted/Word of God/John Damascus/The Saint argument/THE LOGOS ARGUMENT — Complete Map.md",
-    "09 - Purpose/Web novel/Short Stories/Story one.md",
-    "08 - Islam Debates/Talmudic Dilemma/Complete Argument & Evidence Catalogue.md",
-    "08 - Islam Debates/Quran is corrupted/Word of God/John Damascus/Books/The reading plan, in the Pitre style.md",
-    "08 - Islam Debates/Quran is corrupted/Corruption of Quran/The Smaller parts/THE ARAMAIC ORIGINS OF THE QURAN.md",
-    "09 - Purpose/Web novel/French Cinema 35.md",
-    "07 - Theological issues/Jesus Is God Torah/Closing word.md",
-    "08 - Islam Debates/Islam and History/al-Masjid al-Aqsa.md",
-    "08 - Islam Debates/Quran is corrupted/Corruption of Quran/The Smaller parts/The Sana'a manuscript.md",
-    "08 - Islam Debates/Quran is corrupted/Corruption of Quran/The Smaller parts/The Quranic Textual Variant Problem.md",
-    "08 - Islam Debates/Quran is corrupted/Corruption of Quran/All Gathered/What is the injil boy?.md",
-    "08 - Islam Debates/Quran is corrupted/Corruption of Quran/All Gathered/Quran’s perfect preservation, its linguistic purity, and its historical accuracy.md",
-    "08 - Islam Debates/Quran is corrupted/Corruption of Quran/All Gathered/Problems.md",
-    "08 - Islam Debates/Original sin/Quran only.md",
-    "08 - Islam Debates/Muslims are lying/Ibn Taymiyya Walks into ad hoc.md",
-    "08 - Islam Debates/Muslims are lying/Hadith issues.md",
-    "08 - Islam Debates/Muslims are lying/All Prophets Were Muslim — The Retroactive Absorption Argument.md",
+    "Stuff on thyroid.md",
+    "08 - Islam Debates/Islamic Dilemma/Apostles were muslims?.md",
+    "09 - Purpose/Web novel/Short Stories Of her/Fire.md",
+    "09 - Purpose/Web novel/Short Stories Of her/Once I was.md",
+    "09 - Purpose/Web novel/Short Stories Of her/Scum - Grace of jesus.md",
+    "09 - Purpose/Web novel/Short Stories Of her/Scum - The view of a Terrorist.md",
+    "09 - Purpose/Web novel/Short Stories Of her/Scum of a thumb.md",
+    "09 - Purpose/Web novel/Short Stories Of her/The fall of us.md",
+    "09 - Purpose/Web novel/Short Stories Of her/The Silver of 8-11 and 21-12.md",
+    "09 - Purpose/Web novel/Short Stories Of her/7.Mercy.md",
+    "09 - Purpose/Web novel/Short Stories Of her/8. The Lantern of Dawn.md",
+    "09 - Purpose/Web novel/Short Stories Of her/5. Passion.md",
+    "09 - Purpose/Web novel/Short Stories Of her/4. The Hollow Sky.md",
+    "09 - Purpose/Web novel/Short Stories Of her/3. Dragons.md",
+    "09 - Purpose/Web novel/Short Stories Of her/2. Familiar.md",
+    "09 - Purpose/Web novel/Short Stories Of her/1. Useless.md",
     "08 - Islam Debates/Islamic Dilemma/The Islamic Dilemma — The Complete Argument.md",
-    "08 - Islam Debates/Islamic Dilemma/The Dawa Dilemma — Islam False Either Way.md",
-    "08 - Islam Debates/Islamic Dilemma/False Prophet Test — Deuteronomy 18.md",
-    "08 - Islam Debates/Islamic Dilemma/Lock Tahrif Ma'ana Delimma/Son Of Man.md",
+    "08 - Islam Debates/Anthropological/Whatcha learn/The Girardian Case.md",
+    "09 - Purpose/Web novel/Anime Analysis/Videos Script/Video 6/Script.md",
+    "09 - Purpose/Web novel/Anime Analysis/Editing Skills/Kdenlive Effects Cheatsheet — Anime Essay Format.md",
+    "07 - Theological issues/Original sin story.md",
+    "08 - Islam Debates/Islamic Dilemma/epistemology the priority of dogma over text.md",
+    "08 - Islam Debates/Islam and History/The Muhammad Mystery- A Systemic Deconstruction of the Historical Prophet Narrative.md",
+    "08 - Islam Debates/Islamic Dilemma/The Quranic Dilemma vs. The \"Islamic Dilemma\" Relabeling.md",
+    "01 - Prophecy/Joseph Smith.md",
+    "Stuff on Diabetos.md",
+    "09 - Purpose/Web novel/Anime Analysis/Videos Script/Video 6",
+    "08 - Islam Debates/Anthropological/Whatcha learn",
+    "08 - Islam Debates/Anthropological/Stuff",
+    "08 - Islam Debates/Anthropological/A set of defensible axioms",
+    "08 - Islam Debates/Anthropological",
+    "08 - Islam Debates/Al Dajal",
+    "08 - Islam Debates/Quran is corrupted/Modes of Quran",
     "08 - Islam Debates/Quran is corrupted/Word of God/John Damascus/The Saint argument",
     "08 - Islam Debates/Quran is corrupted/Word of God/John Damascus/Books",
-    "08 - Islam Debates/Quran is corrupted/Word of God/John Damascus/The Saint argument/Quran as Word of God",
-    "08 - Islam Debates/Quran is corrupted/Word of God/John Damascus/The Saint argument/Jesus Word of god",
-    "08 - Islam Debates/Quran is corrupted/Word of God/John Damascus",
-    "09 - Purpose/Web novel/Anime Analysis/Videos Script/Video 5",
-    "09 - Purpose/Web novel/Short Stories",
-    "08 - Islam Debates/Islamic Dilemma/Lock Tahrif Ma'ana Delimma",
-    "09 - Purpose/Web novel/Anime Analysis/Videos Script/Video 4"
+    "08 - Islam Debates/Quran is corrupted/Word of God/John Damascus/The Saint argument/Quran as Word of God"
   ]
 }

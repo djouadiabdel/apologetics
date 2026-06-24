@@ -1,0 +1,11 @@
+This is the sharp one, and I'm glad you flagged it, because most people stop exactly where you stopped and conclude "so it's a wash." It is not a wash, and here's the move you're missing.
+
+You're treating Christendom's violence as evidence _against_ Christianity. Girard treats it as evidence _for_ his thesis — and this is the cleverest turn in his whole system, so slow down on it.
+
+Ask the question precisely: _where did the Inquisition's critics get their language?_ When you say "the Inquisition was monstrous, burning heretics was an atrocity, the witch trials persecuted the innocent" — what tradition handed you the words _innocent victim, scapegoat, persecution_? You're condemning Christendom **using the Gospel's own revelation.** The standard by which we now see the Inquisition as evil is the standard the Gospel introduced — the visibility of the innocent victim. Christendom betrayed its own text, and the text is precisely what lets us _name_ the betrayal.
+
+So the asymmetry is this: Christianity contains a self-detonating charge. The Gospel reveals the innocent victim, which means any time the Christian community scapegoats, _its own scripture convicts it._ The text is at war with the institution. That's why Christian history is full of reformers, abolitionists, and dissenters who fought Christendom **with the Bible in their hands** — Las Casas defending the Indians, abolitionists quoting Scripture against slavery. The antidote was always inside the text.
+
+Now the question to put to Islam is not "did Muslims do bad things" (everyone did) and not "is Christianity innocent" (it isn't). The question is: **does the founding text contain the resource that exposes and condemns its own sacred violence — or does it sacralize that violence as permanent divine command?** That's the fault line. Christendom's violence _contradicts_ its founding text and is judged by it. The Sharia's penalties _are_ the founding text, enacted. One betrays its source; the other obeys it.
+
+So your instinct — "this defeats the point" — is exactly backwards, and seeing _why_ it's backwards is the whole argument. Christendom's sin doesn't level the field. It demonstrates the thesis: the field is uneven precisely because one text turns on its own people's violence and the other ratifies it.

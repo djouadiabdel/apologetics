@@ -1,0 +1,15 @@
+**A set of defensible axioms** — each one survives a sharp interlocutor, none of them overclaim, and they build in order.
+
+If you want a single sentence to carry all eight: _Every culture is built on a victim; the only question is whether your holy book hides him, commands his removal, or stands him up and calls him innocent._
+
+
+1. _Human communities have always restored their own unity by turning on a victim and then telling themselves the victim deserved it._ (Anthropological, demonstrable across cultures — this is the floor, and it's not specifically Christian.)
+2. _A text reveals its true relation to violence not by its ingredients but by its point of view — whether it narrates from the side of the accusing crowd or the side of the accused victim._ (Literary, checkable in any text.)
+3. _Myth narrates from the crowd's side: the victim is guilty, the community innocent, the mechanism hidden._ (Definitional, demonstrable.)
+4. _The biblical trajectory inverts this: it narrates from the victim's side, names the victim innocent, and progressively exposes the mechanism — and it does this even against its own community, which is why no human group would have produced it as self-flattery._ (The strong claim, but defensible because the texts accuse Israel, accuse the disciples, accuse the reader.)
+5. _Every religious-legal system — prohibition, ritual, penalty — exists to manage the violence the founding murder once resolved; the Law is protective, not evil._ (Concedes the value of law, denies you the cheap "law bad" position, and is pure Girard.)
+6. _Traditions can relate to their own violence in three ways: hide it (myth), expose and end it (Gospel), or sacralize it as permanent divine command (sacred law). The decisive question about any tradition is which of the three its founding text does._ (The fault line, framed as structure, not as moral scoring.)
+7. _A tradition's violence in history does not by itself indict its text; what matters is whether the founding text contains the resource to condemn that violence or the command that authorizes it. Christendom's atrocities are judged by the Gospel; the question for any rival tradition is whether its atrocities are judged by its scripture or commanded by it._ (This is the axiom that absorbs the Inquisition objection — it makes Christian failure into evidence for the thesis rather than against it.)
+8. _Therefore the difference between traditions is not "who behaved better" but "whose founding text turns on its own people's violence" — a difference of trajectory and self-critique, not of body count._ (The conclusion, and the guardrail against the fight you can't win.)
+
+Notice what these axioms refuse to do: they never say Islam is cruel, never say Christians were innocent, never rank the niceness of Gods. Every one of them stays on structure  point of view, mechanism, trajectory, self-critique. That's the only ground where the argument is locked, and it's the ground that doesn't cost you your mother or hand your friend the easy rebuttal.
