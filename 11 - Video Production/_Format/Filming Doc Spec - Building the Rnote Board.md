@@ -13,21 +13,17 @@ Output is a PDF he imports into Rnote and annotates live while filming. One PDF 
 
 ---
 
-## 1. The density rule, which is the whole thing
+## 1. Two kinds of content, which is the whole thing
 
-**Wrong:** a nearly empty page with two words and blank space. He gets to the page, there is nothing on it, and he stalls.
+There is no word limit. Words on the board are good. The question is what kind.
 
-**Right:** a dense page he can retrieve an entire beat from at a glance.
+**Cold content: the evidence.** Citations, verses, Greek and Hebrew forms, dates, lists, pairings, numbers. Anything he must not misremember mid-sentence. Written as fragments and columns, never as prose. Dense. A page should let him retrieve the whole beat at a glance.
 
-The distinction is not how much is on the page. It is **fragment versus sentence**.
+**Hot content: the speech triggers.** Short phrases written verbatim, positioned where they fire. The refrain. The loop-opener. The line addressed to the viewer. The gear-shift. These exist so that reaching that spot on the page makes him *say a specific thing*, not merely recall a fact. Hot content is meant to be spoken close to word for word, so writing it in full is correct.
 
-Everything he will say out loud goes on the page. Every citation, every Greek or Hebrew word, every date, every list, every pairing, every number. If he would have to recall it mid-sentence, it is on the board.
+**Absent: connective prose and the conclusion.** The sentences joining two facts, and the verdict the facts prove. He supplies both live. If the page states the insight there is nothing to discover on camera and the delivery flattens.
 
-What does not go on the page:
-
-- Connective prose. The sentences that join two facts.
-- The conclusion. The thing the two facts prove.
-- Anything in paragraph form.
+That is the split. Cold content stops him stalling. Hot content stops him droning. My earlier draft had only cold content and a word limit, and both were wrong.
 
 Look at `James 2 part 2 - Filming Script v2` test one. The argument is two lists side by side. James's works are 2:16 clothe and feed, 2:25 Rahab, 1:27 orphans and widows. Paul's works of the law are circumcision, food, sabbath, calendar. Put both columns on the board complete. Do not put "so they mean different things by the same word" on the board. He says that. The columns being adjacent is what lets him say it well.
 
@@ -75,22 +71,27 @@ Studied from Hormozi and Morgan. These are the moves that make a listener conced
 
 ---
 
-## 4. The Girardian layer, and the line through it
+## 4. The serial frame, which is the actual upgrade
 
-He asked for the mechanism that makes a viewer feel desire. It is real, it is in both those channels, and it has an honest form and a dishonest one. The line matters more here than anywhere else, because this channel's subject is the mechanism itself.
+The six-move spine is an **essay** frame. It states a difficulty, turns it, tests the turn, lands. It resolves, and it resolves well. What it does not do is pull forward.
 
-**The mechanics as those videos run them:**
+Hormozi and Morgan run a **serial** frame. It is weaker as argument and far stronger as flow. The upgrade is not to abandon the spine. It is to lay these six devices over it, as hot content on the board.
 
-- *Model and obstacle.* Morgan displays the Dubai palm, the mansions, the forty million, then says he now prefers to sit like a goblin in a flat in London. Object shown, then partially withdrawn. The viewer wants what he has and also wants what he wants.
-- *Manufacture the lack, then sell the sedative.* "You've sat here fifteen minutes, this is a sign you really want this, and the reason is it sedates some pain you might not be aware of." Name a pain, confirm it, position the product as its resolution.
-- *Rivalry framing.* "Everyone's broke, everyone's struggling." The viewer is set against a mass so that distinction itself becomes the object of desire.
-- *Mediated scarcity.* "It's a 2.5 billion dollar company, it's out of my control." A third party controls availability, so wanting it feels urgent rather than chosen.
+**The refrain.** One formula, repeated verbatim three or more times across the video. Morgan: "Money is made when value is created. Value is created when pain is alleviated. Pain is alleviated when problems are solved." He says it nearly word for word each time. It becomes the thing the viewer leaves with, and for the speaker it is a rhythmic home to return to when a beat ends and the next has not started yet. **Every episode needs one, chosen before filming, printed on the board at each recurrence.**
 
-**The line.** Hormozi states the honest version at 13:46 of the first transcript: "if you can articulate someone's problem better than they can, they will inherently believe that you can solve it." Naming a desire or a fear the viewer already carries is diagnosis. Installing one they did not arrive with is manufacture.
+**Announced position.** "That's step one." "Now step four is." "The next one people get hung up on is." The viewer always knows where they are in the structure, and the speaker never has to invent a transition. Print the position line at the top of every beat.
 
-**The test, to apply per beat:** would this be true and worth saying to someone who will never subscribe, never buy, never come back? If yes, it is diagnosis. If it only functions as pressure toward an action, it is manufacture, and on this channel it is self-refuting, because the content would be performing the mechanism it exists to expose.
+**The forward loop.** "I'll tell you about that business in a second." "I want to break this loop because I know the next objection." Open before you close. This is what makes a long video feel like it is going somewhere rather than accumulating. Print the loop-opener at the *end* of the beat that opens it.
 
-The v2 landing passes cleanly. "You cannot detect the demon's faith by checking your beliefs" names a real anxiety with precision and offers no relief for sale. Build toward that, and use the first four mechanics only in their diagnostic form.
+**Narrated reasoning.** "Why did I start with sell expensive stuff? Let's dive in." "Let me explain something." "Here's a fun one." They say what they are about to do before doing it. This is the single best fluency device in either channel, because it gives the mouth something true to say while the mind assembles the next move. Print two or three of these per page as bare stems.
+
+**The viewer as character.** "You're probably thinking." "In case you hadn't noticed." "You silly boy." "You've sat here fifteen minutes." The viewer is addressed and predicted, not just spoken to. The v2 script does this in the address and then drops it. It should recur at least once per pressure test.
+
+**Gear-shift words.** So. Now. Here's the thing. The point is. Watch what he does. Short verbal connectives that buy a half second and signal a turn. Print them at the seams.
+
+**Applied to James part 2**, the refrain is already sitting in the script unused as a refrain: *"Perfect belief. Zero communion."* Four words, lands after 2:19, and it could return at the end of test two and again in the landing. Said three times it becomes the episode's handle.
+
+**One line to hold.** These devices are neutral machinery, but two things in those channels are not: manufacturing a lack and then selling its sedative, and rivalry framing that sets the viewer against a mass so distinction becomes the object of desire. Hormozi states the honest version himself, that articulating someone's problem better than they can makes them believe you can solve it. Naming a desire the viewer already carries is diagnosis. Installing one is manufacture. The per-beat test: would this be true and worth saying to someone who will never subscribe, never buy, never return? The v2 landing passes cleanly. On a channel whose subject is mimetic desire, the manufacture version would be self-refuting.
 
 ---
 
@@ -99,13 +100,15 @@ The v2 landing passes cleanly. "You cannot detect the demon's faith by checking 
 Rnote annotation over an imported PDF. Build the PDF to be drawn on.
 
 - **One beat per page.** Page turn equals beat change. Camera framing stays stable, he never hunts.
-- **Header band:** the beat name, two to five words, 36pt or larger. This is what he underlines as he opens the beat.
-- **Body: the evidence, at full density.** Fragments, columns, verse pairs, term glosses, lists. Sized so the whole beat is retrievable in one glance. This is the part my first draft got wrong by leaving it empty.
-- **One deliberate drawing zone per page.** A bounded empty area, roughly a quarter of the page, where the live diagram gets built. Label it with a small grey cue describing what he is building. The rest of the page is dense.
-- **Foot strip:** the citations and numbers he must not recall from memory.
-- **No paragraphs anywhere.** A full sentence outside a scripture quotation means the spec has been violated.
+- **Header band:** the announced position and the beat name. "Test one. Two words, not one." Large.
+- **Left and centre: cold content at full density.** Fragments, columns, verse pairs, term glosses, lists.
+- **Right margin or a tinted strip: hot content.** The narrated-reasoning stems, the viewer-address line, the gear-shift words. Visually distinct from the cold content so the eye can find either one on purpose. Different colour or a ruled box.
+- **The refrain gets its own band**, same position on every page where it recurs, so it is spatially memorable.
+- **One drawing zone per page.** A bounded empty area, roughly a quarter page, for the live diagram. Small grey cue naming what he is building.
+- **Foot strip:** citations and numbers, and the loop-opener that hands off to the next page.
+- **No connective prose.** Hot content is short spoken phrases, not paragraphs. If a sentence explains rather than fires, it belongs in the research doc.
 
-The drawing zone is what keeps his hand moving, which is what keeps him fluent. The dense body is what keeps him from stalling. Both are required. Empty pages and prose pages fail in opposite directions.
+The drawing zone keeps his hand moving. The cold content stops him stalling. The hot content stops him droning. All three are required.
 
 ---
 
@@ -169,22 +172,32 @@ PAGE 4 — THE TURN
 ```
 
 ```
-PAGE 6 — PRESSURE, TEST ONE
+PAGE 6 — PRESSURE, TEST ONE          [cold + hot together]
 
-  header:  TWO WORDS, NOT ONE
+  header:  TEST ONE.  DOES THE OTHER WORD HOLD UP?
 
-  body:    JAMES, works                 PAUL, works of the law
-           2:16  clothe, feed           circumcision
-           2:25  Rahab hides spies      food laws
-           1:27  orphans, widows        sabbath
-                                        calendar
-           every one a mercy            every one a boundary marker
-           done to a body               between Jew and Gentile
+  COLD                                     HOT  (say these)
+  JAMES, works      PAUL, works of law     "Watch what James counts
+  2:16 clothe,feed  circumcision            as a work. Every single
+  2:25 Rahab        food laws               time he gives an example."
+  1:27 orphans,     sabbath
+       widows       calendar                "If faith is two different
+                                             objects, works had better
+  mercy done        boundary marker          be too, or the fix is
+  to a body         Jew from Gentile         half a fix."
 
-  zone:    [empty, bottom band]  cue: "two circles, then the gap between"
+  refrain band:    PERFECT BELIEF.  ZERO COMMUNION.        (2nd of 3)
+
+  zone:    [empty, bottom]  cue: "two circles, then the gap"
 
   foot:    2:16 | 2:25 | 1:27
+           loop out: "that's one word. Now the two witnesses,
+                      and the pairing should be insane."
 ```
+
+Read the hot column and notice what it is doing. "Watch what James counts as a work" is narrated reasoning, it announces the move before making it. "Or the fix is half a fix" is a gear-shift with a bit of bite. The refrain lands for the second of three times, in the same screen position it occupied on page 4. The loop out at the foot means he never has to invent the transition to test two.
+
+None of it is the conclusion. The board still does not say that James and Paul mean different things by the same word. He says that, and the two columns sitting side by side are what make saying it easy.
 
 ```
 PAGE 8 — PRESSURE, TEST THREE
