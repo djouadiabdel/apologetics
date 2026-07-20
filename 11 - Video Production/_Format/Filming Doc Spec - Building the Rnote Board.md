@@ -1,7 +1,7 @@
 ---
 type: format-spec
 status: active
-thesis: "The board carries every piece of information he will say, at full density, in fragments arranged spatially. What it strips is sentence form and conclusions, never content."
+thesis: "The board carries cold content (evidence he must not misremember) and hot content (phrases that fire delivery). It never carries connective prose or the conclusion. Cold stops him stalling, hot stops him droning, and he supplies the verdict live."
 links: "[[Homily Format - The Video Spine]], [[YouTube System — Packaging, Titles, Intros]]"
 ---
 
@@ -220,3 +220,144 @@ PAGE 8 — PRESSURE, TEST THREE
 ```
 
 Note what is absent from all three. Page 4 does not say the Paul conflict dissolves. Page 6 does not say they mean different things. Page 8 does not say Paul freezes the frame and James runs the tape. Those are the best lines in the script and he says them. The board only puts the evidence at the right distance apart so that saying them is easy.
+
+---
+
+## 9. Quote bank
+
+Verbatim from Alex Hormozi and Charlie Morgan long-form videos, kept here so this file works without the transcripts. Use as pattern models, never as phrasing to copy onto his board. His register is different and the theft is structural, not lexical.
+
+### The refrain, repeated verbatim across a video
+
+> "Money is made when value is created. Value is created when pain is alleviated. And pain is alleviated when problems are solved." — Morgan, said three times, near word for word each time
+
+> "Latency beats magnitude seven days a week and twice on Sunday." — Hormozi
+
+> "The best niche is the niche that you've stuck to for three years. The worst niche is the one you've just picked." — Morgan
+
+### Announced position
+
+> "So the first step is to pick a market, not a model."
+> "So that's step one."
+> "Now step four is."
+> "The next one that people get hung up on is."
+> "Number one is that you will learn more from fewer high value clients."
+
+### Forward loop
+
+> "I'll tell you about that business and how to start one in a second. But the real question is what explains this jump from minus twenty to a hundred?"
+> "Here's a fun one. I want to break this loop because I know the next one that comes up."
+> "However, the jump from 250 to a mill is a little different, and I will endeavour to explain."
+> "There's one unique thing you can do to start all of these successfully. I'll explain that in a second here."
+
+### Narrated reasoning, the fluency device
+
+> "Why did I start with sell really expensive stuff or sell really cheap stuff? Let's dive in."
+> "Now I'll give you a personal story and then I'm going to sell you on why I think this is actually useful."
+> "Let me do the math for you because this is important."
+> "Let me give you a metaphor. Think of it like this."
+> "I want to drive this point home and give you a lot of reasons to show why it is superior."
+> "Let me explain something." / "Let me learn you some stuff."
+
+### The viewer as a character
+
+> "You freaky weirdo. You've sat here for fifteen minutes and listened to me talk about time, decision making, reading, and you're still engaged."
+> "The problem, as you've probably observed, because I know you've been doing this, you silly boy."
+> "In case you hadn't noticed, in case you hadn't observed, everyone's broke."
+> "How many books have you read cover to cover without pictures in them? I'm just going to let you sit with that one for a second."
+> "You're probably not all that worried about making this jump because you're just worried about how to make your next rent payment."
+
+### Refusing the softening
+
+> "You must confront the high price. You have to confront it."
+> "This is not a fun thing to do, but it is necessary."
+> "I'm not here on this video to protect your emotional state."
+
+Abdel's own, stronger: *"Now the problem, and I am not going to soften it, because everybody softens it and you can always tell."*
+
+### Restating at lower abstraction
+
+> "That's literally what a business is."
+> "What really is your brain from a decision making capacity? At first principle, it's just a collection of information."
+> "A business is a machine. It's a system. And every system has an input and an output."
+
+Abdel's own: *"A body without a spirit is not a person doing badly. It is a corpse."*
+
+### The absurd boundary case
+
+> "It's still just not worth my time, bro. It is worth your time if I give you a trillion dollars."
+> "If I said to you, look, it's going to take a hundred years, you wouldn't be interested."
+
+### Number instead of adjective
+
+> "I got something in the like forty five thousand dollars a month in cash. He paid me in cash."
+> "That's three hundred and fifty sales that I'd have to make in order to get fifteen grand."
+> "Sixty thousand outreaches would make us a million dollars."
+> "Day one you do 200 outreaches. You might get a call booked on day seven. They might not show until day ten. They might not buy until day twenty."
+
+Abdel's equivalents: three lines apart, thirty years later, five verses before.
+
+### Naming the mechanism
+
+> "There is this thing in business called sales latency."
+> "And this is called immersion."
+> "What you're looking to do here is form a critical hypothesis."
+
+Abdel's: `nekra`, `prosōpolēmpsia`, `dipsychos`, `anulus aureus`.
+
+### Self lowering before the claim
+
+> "When I was sixteen years old I was an idiot. Like genuine, level stupid young boy."
+> "I've tried them all desperately when I was here."
+> "Maybe you just hate me. Maybe you're watching this cathartically because I'm making a fool of myself."
+
+Abdel's: *"it is the thing that has bothered me all week."*
+
+### Adjacency doing the argument
+
+> "Either sell extremely expensive stuff to a select few, or sell something super cheap to everyone. The middle is where people die." — Hormozi
+> "DIY, hardest to sell, easiest to scale. DFY, easiest to sell, hardest to scale." — Morgan
+
+Abdel's: Abraham and Rahab, Genesis 15 and Genesis 22, James's works and Paul's works of the law.
+
+### The analogy that carries the argument
+
+> The hundred metre race where everyone starts at zero, and the advantage is starting at ten. — Morgan on market choice
+> Changing your Olympic sport every three months and expecting gold. — Morgan on business hopping
+> Panning for gold in a river basin. — Morgan on sifting information
+> Tesla Roadster at $250,000, then the S, then the Model 3. — Hormozi on starting high and working down
+
+### The math walked through out loud
+
+Both do this and it is the most persuasive block in either video, because it converts a claim into arithmetic the viewer can check.
+
+> Hormozi: 100 buyers. 90 buy the $100 thing at 40% margin, that's $3,600. 10 buy the $1,000 thing at 100% margin, that's $10,000. "So you actually make three times the profit on your expensive thing."
+> Morgan: 20 calls booked, 60% show, so 12 meetings, 15% close, so 2 clients, times $4,000, so $8,000 a month.
+
+The scripture equivalent is verse arithmetic: how many verses apart, how many years between the two readings of one sentence, how many times a word appears.
+
+### Closing loop into the next episode
+
+> "Thank you for coming to my TED talk." — Hormozi, deflating on purpose
+> Morgan ends by naming what the viewer will comment, which manufactures the comment.
+
+Abdel's, better: *"the body is dead in verse 26, and in chapter 3 we find out which organ killed it."*
+
+---
+
+## 10. Build procedure
+
+Run this in order. Do not skip step 1.
+
+1. **Read the research doc and the filming script if one exists.** If there is no research doc, stop and say so. The board cannot be built from nothing and inventing evidence is the failure mode to avoid above all others.
+2. **Extract the thesis in one sentence.** If it is not stated explicitly anywhere, ask.
+3. **Choose the refrain.** Four to eight words, drawn from the material rather than invented. It must be sayable three times without wearing out. This is the single highest leverage decision in the build.
+4. **List the beats** against the six moves, and assign pages. Eight to nine standard, twelve is the ceiling.
+5. **For each beat, sort the material into cold and hot.** Cold is everything he must not misremember. Hot is the phrases that fire delivery. Anything that is neither is connective prose and belongs only in the research doc.
+6. **Find the adjacencies.** Any beat containing a distinction becomes two columns. If a beat has no adjacency and no diagram, ask whether it is a beat.
+7. **Place the refrain** at its recurrences, same screen position every time.
+8. **Write the loop-outs** at the foot of every page except the last.
+9. **Mark the drawing zone** on each page with a cue naming what gets built.
+10. **Check the landing is sparse.** It is the only page that should be, because the hand stopping is the signal.
+11. **Audit against the hard rules.** No conclusions on the page. No paragraphs. NIV. No em-dashes, ellipses, or dramatic colons. Every citation visible.
+12. **Render.** `.md` into `<Series>/Filming/`, then PDF via the playwright chromium in `~/carousels/node_modules`. A4, wide right margin as annotation gutter. No other PDF toolchain is installed.
