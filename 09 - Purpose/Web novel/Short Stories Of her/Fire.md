@@ -47,7 +47,7 @@ it isn't a wound held up
 for a verdict.  
 it's me in the furnace.
 
-and if you ever read this —  
+and if you ever read this 
 look close.
 
 the face coming back  

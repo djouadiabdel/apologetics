@@ -16,8 +16,8 @@ Islam from the outside. It does not assume the Bible is
 reliable. It does not assume Christianity is true.
 
 It takes the Muslim's own escape from the Islamic Dilemma
-— "the Quran generally confirms and consciously edits the
-prior scriptures" — and shows that this escape creates a
+ "the Quran generally confirms and consciously edits the
+prior scriptures"  and shows that this escape creates a
 problem worse than the one it was trying to solve.
 
 The argument works entirely from:

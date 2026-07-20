@@ -1,3 +1,13 @@
+is Allah's Knowledge the same as Allah's Power? No, they're distinct. Is Allah's Speech a second god beside Allah? No, it's Allah's
+
+things that are really distinct, all eternal, all uncreated, all fully divine, subsisting in the one God, and it is NOT multiple gods.
+
+To affirm what's true about Allah even when your mind can't conceive the how the sin of the Jahmiyya
+
+The whole deen is 'affirm the real distinct attributes of God, bila kayf, and whoever denies them because his reason can't hold them is a Jahmi doing ta'til.' You just did ta'til on the Trinity. By your own creed, that's the one move you're not allowed to make
+
+----
+
 Yes. This is the right next step. Let me build it for you carefully.
 
 What I'll give you is a **structured map of the argument** — the axioms the Muslim grants, the moves you make in order, every escape route they will try, and exactly how each escape is closed. This is the document you write into your notebook and study until it becomes second nature.
