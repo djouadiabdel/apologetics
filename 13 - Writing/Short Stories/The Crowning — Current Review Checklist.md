@@ -12,7 +12,7 @@ When you report back, give me the chapter, the old line, and your new line—or 
 
 ## [[The Crowning — Novella/01 — The Warmth|I. The Warmth]]
 
-After she puts her hand on the wall instead of in his, what does his unused hand physically do? Add one literal movement only if you can see it. Do not explain it.
+Resolved: after she puts her hand on the wall instead of in his, the unused hand goes to his forehead and hair, he looks left, and he holds the hair at the back of his head. Protect the movement from explanation and from becoming an announced callback to VII.
 
 ## [[The Crowning — Novella/02 — What Cannot Be Returned|II. What Cannot Be Returned]]
 

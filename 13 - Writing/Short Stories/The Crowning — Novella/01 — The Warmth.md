@@ -14,6 +14,8 @@ You looked at it.
 
 Then you placed your own hand on the wall and continued down.
 
+I put the hand to my forehead, smoothed the hair at my temple, and looked to the left. Then I closed my whole hand around the hair at the back of my head and held it there.
+
 I went first. There was room for that interpretation too.
 
 I have called it a crown since the hour I put it there. I have been waiting for you to make the name true.[^c1-g1]
@@ -112,8 +114,8 @@ Edit the story above normally. These boxes are suggestions; you do not need to c
 > [!warning] CHOOSE — How much does he know?
 > Decide how conscious he is of the previous descents before the seventh gate. His feet may know; his interpretation should not. Mark any sentence here that makes him consciously understand the loop too early.
 
-> [!question] ADD IF TRUE — Supply the embarrassing body
-> After she chooses the wall instead of his hand, what does his unused hand actually do? Do not give it symbolism. Write the small movement you would normally omit.
+> [!success] RESOLVED — The unused hand
+> After she chooses the wall instead of his hand, he smooths the hair at his temple, looks left, and holds the hair at the back of his head. Keep the movement uninterpreted and do not connect it explicitly to VII.
 
 > [!success] KEEP — Protect
 > Keep the false syllogism, the crown at neck temperature, the inexplicable Matthew-and-Mark sentence, her attempt to fit the broken piece back into the stair, the separate left-foot antecedent, the returning wear, and the familiar footstep. Do not explain Matthew and Mark anywhere.

@@ -34,6 +34,8 @@ I took it. Only to test it, I had already told him—no. I took it.
 
 It was warm and the voice began before I had settled the weight, joy coming out against my chest, and I knew it had nothing to do with me, I knew the face had not turned, I knew he was about to take it back, all three things were true and for one breath they did not alter the warmth.
 
+The back of my neck tightened down into the tops of my shoulders. Both hands wanted to go there. They were full.
+
 Then the wrist moved against my sleeve and my arms tightened.
 
 I thought—
@@ -44,7 +46,7 @@ I wanted him to go away and leave it with me.[^c2-g1]
 
 You were looking at my hands again.
 
-I returned the shape. The man received it without thanks. The joy continued from his arms as we walked away.
+I returned the shape. The man received it without thanks. When my hands were empty, one rose toward my shoulder and stopped. I widened my back, tightened my stomach, and let the hand fall. The voice rose again from the man's arms in three even bursts as we walked away.
 
 Farther in, the shapes had been held longer. Their faces had softened where they were repeatedly turned toward the holder. One had acquired the expression expected of it: concern at the correct angle of the eyebrows, tenderness around the mouth, attention held without blinking. The person holding it spoke, paused, and pressed one thumb beneath its eye until the concern deepened.
 
