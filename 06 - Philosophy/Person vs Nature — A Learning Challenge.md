@@ -1,8 +1,15 @@
 ---
-tags: [challenge, philosophy, person, nature, hypostasis, channel, curriculum]
+tags:
+  - challenge
+  - philosophy
+  - person
+  - nature
+  - hypostasis
+  - channel
+  - curriculum
 status: active
-started:
-thesis: "How do we tell a person apart from their nature, and why does everything depend on getting that distinction right?"
+started: YEH
+thesis: How do we tell a person apart from their nature, and why does everything depend on getting that distinction right?
 ---
 
 # Person vs Nature — A Learning Challenge
@@ -143,6 +150,8 @@ Because humans are made and composite, and God is unmade and simple
 What is the procession of the Spirit? You tell me what is the unbegottenness of the Father, and then I will explain the generation of the Son and the procession of the Spirit, and we shall both of us be stricken with madness for prying into the mystery of God.
 
  but: what is the minimum it takes to make two whos two? Is a difference in where-you-came-from enough, or do you need the two to stand in a relation to each other? That's your entire "person vs nature" question boiled to its hardest form, and the two greatest halves of Christendom gave opposite answers. That is a channel with a spine.
+
+> **Grown into its own track, 2026-08-23:** [[00 - The Plan|The Church Question]] in `07 - Theological issues`. That is where this paragraph gets answered.
 
 
 ---

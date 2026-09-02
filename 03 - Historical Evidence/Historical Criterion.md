@@ -1,4 +1,11 @@
-Here is Criterion 1 built completely from the ground up — every layer, every sub-question, every reason it is structured the way it is, and every escape route closed.
+> [!warning] Audited 5 Aug 2026. Read this header before using the file.
+> This is the older grid, written before Layer 2 of the interlock project was run. Four things in it did not survive my own scoring and are corrected inline below, marked **AUDIT**. Where this file and [[Resurrection — Minimal Facts]] disagree, the newer file wins.
+>
+> The corrections are: the Matthew 28:13 attestation move (scored cost 3), the "most critical scholars agree" framing (G1 fired, cost 4), the point weights (chosen after the fact, never pre-registered), and one citation that looks backwards.
+>
+> The register of the original also needs watching. "Every escape route closed" and "why none of them survive" are the kind of sentences the instrument exists to stop me writing.
+
+Criterion 1, built from the ground up. Every layer, every sub-question, and the reason it is structured the way it is.
 
 After we finish, I actually want you to go ask any AI or any website:
 
@@ -67,7 +74,7 @@ Criterion 1: “Coverage of agreed historical data” asks one question:
 
 This is not a trick. It is exactly what historians already do when they compare theories.
 
-Virtually all critical scholars (including atheist/agnostic ones like Ehrman, Lüdemann, Sanders) accept at least these facts that any explanation must face:
+Items 1 to 5 below are granted by critical scholars across the spectrum, including Ehrman, Lüdemann and Sanders. **Item 6 is not, and the split matters more than the list.** Everything from item 6 down is contested and has to be argued rather than assumed, and the version of this file that presented all six as agreed was making the claim that G1 fired on.
 
 1. Jesus was executed by crucifixion under Pontius Pilate.[](https://www.bartehrman.com/jesus-resurrection/)​
     
@@ -131,13 +138,19 @@ Any explanation that does not start with this as a non-negotiable foundation sco
 
 Why it is agreed:
 
-- Even hostile accounts in the New Testament acknowledge the tomb was empty — the counter-claim was not "his body is still there" but "the disciples stole it" (Matthew 28:13)
+- ~~Even hostile accounts in the New Testament acknowledge the tomb was empty, the counter-claim was not "his body is still there" but "the disciples stole it" (Matthew 28:13)~~
     
-- This is a double-attestation: enemies of the movement do not dispute the empty tomb, they dispute the explanation for it
+- ~~This is a double-attestation: enemies of the movement do not dispute the empty tomb, they dispute the explanation for it~~
+
+> [!failure] **AUDIT: cut both of the above. Scored cost 3 in Layer 2 round 1.**
+> Matthew reporting his opponents' explanation is Matthew, not the opponents. Matthew 28:12-13 is single-source guards material, and both Justin and Tertullian had Matthew in front of them, so they are not independent confirmation of it either. This is the single most common bad move in the popular case and it is the one a prepared critic will reach for first. Delete it from the spoken version.
+
+- The earliest and most natural way to destroy the resurrection claim would have been to produce the body, and it was not produced. **Keep, but state it as a fact about what did not happen rather than as attestation.** An unproduced body is consistent with several explanations, including a grave nobody could locate within a generation.
     
-- The earliest and most natural way to destroy the resurrection claim would have been to produce the body — it was not produced
-    
-- Jewish scholar Pinchas Lapide, a non-Christian, accepts the empty tomb as a historical fact
+- Pinchas Lapide, a Jewish scholar who was not a Christian, accepted the empty tomb as historical (*The Resurrection of Jesus: A Jewish Perspective*, 1983). **Tier K, citation unverified.** One named scholar is one datum. Do not let him carry the weight the consensus claim used to carry.
+
+> [!warning] **AUDIT: this data point is contested, not agreed, and the file must say so.**
+> Allison accepts the empty tomb. Ehrman, Crossan and Lüdemann do not. There is no consensus here. Presenting it inside a list headed "facts even non-Christian scholars accept" is the move **G1 fired on at cost 4**, and it is the weakest structural point in the entire grid because everything downstream inherits it. Argue the empty tomb as a contested item you think is well supported, which is honest and still useful, and stop calling it agreed.
     
 
 What it contributes:
@@ -343,9 +356,9 @@ For each data point, ask three questions:
 
 ---
 
-## Fourth Step: Why This Cannot Be Rejected as Unreliable
+## Fourth Step: The Objections, and How Far Each Answer Actually Goes
 
-Here are every possible objection and why none of them survive:
+Four objections, with what the answer buys and what it does not. Two of the original answers were wrong and are struck through below.
 
 **Objection 1: "You chose the data points to favor the resurrection."**
 
@@ -370,12 +383,24 @@ Response: This is the selective skepticism trap. Ask him:
     
 - The resurrection data is more multiply-attested than most events of the same period
     
-- If he rejects these data points, he must also reject Julius Caesar's crossing of the Rubicon, Socrates' trial, and virtually all ancient history
+- ~~If he rejects these data points, he must also reject Julius Caesar's crossing of the Rubicon, Socrates' trial, and virtually all ancient history~~
+
+> [!failure] **AUDIT: cut the Rubicon move. It loses.**
+> Caesar crossing the Rubicon is not a miracle claim, so the prior going in is nothing like the prior on a resurrection. Nobody is applying a double standard by accepting ordinary testimony for an ordinary event and demanding more for an extraordinary one. That is just how evidence works, and a reader who knows it will conclude the rest of the file is the same quality.
+>
+> What survives is the narrower version. The specific claim that the appearance tradition is early and traceable does not depend on trusting the gospels as narratives, because 1 Corinthians 15:3-8 is a letter nobody disputes the authorship or date of. So the reply is not "your standard would destroy all history," it is "this particular item does not need the standard you are objecting to." See [[Naturalism as a Presupposition — Not a Conclusion]] for why the prior, not the standard, is the actual disagreement.
     
 
 **Objection 3: "The point values are arbitrary."**
 
-Response: The point values reflect the relative explanatory difficulty of each data point for natural explanations, agreed on by secular scholars themselves. Lüdemann says the appearance to 500 is his greatest challenge. Ehrman says the rapid Jewish Christology is historically unusual. The weights reflect the scholarly consensus about which facts are hardest to explain, not a Christian preference.
+~~Response: The point values reflect the relative explanatory difficulty of each data point for natural explanations, agreed on by secular scholars themselves. Lüdemann says the appearance to 500 is his greatest challenge. Ehrman says the rapid Jewish Christology is historically unusual. The weights reflect the scholarly consensus about which facts are hardest to explain, not a Christian preference.~~
+
+> [!failure] **AUDIT: the objection is correct and the old answer was false.**
+> The weights do not reflect a scholarly consensus. They reflect my judgement, and they were chosen after I already knew which explanation I wanted to come out ahead. That is exactly the defect `DESIGN-RATIONALE.md` decision 1 exists to prevent, and the reason the rule there is that a rulebook written afterwards gets shaped by what was found while **the shaping is invisible from the inside**.
+>
+> Also, the Lüdemann claim looks backwards. He treats the appearance to the five hundred as a doublet of Pentecost and a case of mass ecstasy, which is an item he thinks he has handled, not his greatest challenge. **Verify before this line is ever repeated.** It is load-bearing for the weights, which makes it the worst possible place to have an unchecked citation.
+>
+> **The honest answer to the objection.** Either pre-register the weights in writing before scoring anything, and publish the timestamp so someone who distrusts me can check it, or drop the numbers entirely and use ranked confidence tiers instead. Tiers are weaker and they are honest, and a grid whose weights were set after the fact is not a discipline tool, it is a way of making a preference look like arithmetic.
 
 **Objection 4: "You're not being fair to naturalistic explanations."**
 

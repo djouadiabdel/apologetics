@@ -1,3 +1,5 @@
+> Superseded by `00 — Runbook` in `09 - Purpose`. The day-type skeleton survives there; the Hours frame, the Tim Mackie slot, the fan fic block and the Python block do not describe what is running as of 21 Aug 2026.
+
 **NEXT 2 WEEKS — day types:**
 
 **Type A — Gym day:** First Hour → eat while Tim Mackie session → gym → shower + food → Third Hour → French Girard 30 min → Sixth Hour → fan fic 50 min → YouTube if posting day or whatever pulls → Ninth Hour → Christology/whatever pulls you → Vespers → entertainment → French audiobook → Compline → sleep

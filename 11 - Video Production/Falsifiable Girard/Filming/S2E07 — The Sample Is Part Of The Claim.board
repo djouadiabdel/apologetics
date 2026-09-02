@@ -1,0 +1,259 @@
+@@ HOOK
+:: verbatim
+A man builds a test. He writes down what he expects, in public, before he looks.
+Then he runs it and he loses.
+
+Weeks later, fixing something unrelated, he finds a page his script never
+downloaded. That page belongs to the side that beat him.
+
+Fixing it turns his failure into a success. Every step of fixing it is correct.
+Watch where this goes.
+:: then
+Say the title. Say what the channel is.
+"Nothing in this video needs you to know who Girard is."
+:: must
+What was the Diodorus decision, and what exactly was decided?
+Why can a chain of locally defensible steps end somewhere indefensible?
+How does the sample relate to the pre-registration, and why is that new?
+:: ref
+research  S2E07 p.1   the story, July, the two bugs before it
+research  S2E07 p.2   the five statements, and 13.95 -> 13.67
+research  S2E07 p.3   the rule, and post-hoc exclusion criteria
+research  S2E07 p.4   the length rule that was in a doc and not in the code
+source    ~/Myths/CORRECTION-1.md   the five statements, in his words
+context   S2E03 p.2   what a timestamp proves, for the "invisible from inside" line
+deeper    Assumed Knowledge  Q13 one-tailed, Q35 ASV/KJV, not needed here
+
+@@ PAGE 1 — THE TEXT
+:: pos  Falsifiable Girard  ·  the opener
+:: head A GUY FIXES A BUG. THAT IS THE WHOLE STORY.
+:: ladder
+1. SAY | I want to tell you about somebody fixing a small mistake. No theory, no Bible, no philosophy. A guy fixed a bug in a computer script.
+2. SAY | He is testing an idea about myths. To test it he needs a pile of old Greek texts on his computer.
+3. SHOW | the two piles, and the numbers on them
+4. SAY | He predicted the second pile would score higher than the first. He wrote that down before he looked.
+5. SAY | He was wrong. 13.95 against 13.88. He lost by four hundredths and he published that he lost.
+6. ASK | Now hold that. He has already lost, in public. Written down.
+7. SAY | Weeks later he is fixing something completely different, and he notices a page of one text never got downloaded. The script missed a link.
+8. LAND | And the missing page belongs to the pile that beat him.
+:: cold
+MYTHOGRAPHY | 13.95 | he predicted LOWER
+TRAGEDY | 13.88 | he predicted HIGHER
+
+lost by | 0.04
+already published | as a failure
+
+---
+
+what was missing | one page of Diodorus
+why | a script did not follow a link
+is it real | yes, part of the text
+did anyone hide it | no
+:: hot
+"No theory yet. Just a guy and a bug."
+
+"Say the number out loud. Nought point nought four. That is nothing. And nothing still loses."
+
+Gear: So. Weeks later.
+:: zone draw: two bars, 13.95 and 13.88, then circle the tiny gap
+:: foot corpus2 · mythography n=8 · tragedy n=12 · CORRECTION-1.md
+:: loop I am going to put five sentences up, and every one of them is true.
+
+@@ PAGE 2 — THE DIFFICULTY
+:: pos  the trap, at full strength
+:: head FIVE SENTENCES. REJECT ONE.
+:: ladder
+1. SAY | I am going to read five sentences. Every one is true. Every one is what a careful person would say.
+2. SHOW | the five, one at a time, do not rush
+3. ASK | Which one do you reject?
+4. WAIT | actually stop. let them try it.
+5. SAY | Let us go along the row and try rejecting each one out loud.
+6. SHOW | the four rejections, and how stupid each sounds
+7. THEY | "Obviously you fix the bug. That is just being careful."
+8. SAY | Yes. That is exactly what makes this hard.
+9. LAND | Four of the five cannot be rejected by anybody.
+:: cold
+1 | The page really is part of that text.
+2 | The fetcher really did have a bug, and the bug is now fixed.
+3 | Fixing bugs in your pipeline is what you are supposed to do.
+4 | The corrected corpus is more accurate than the one you scored.
+5 | Therefore rescore with the corrected corpus.
+
+---
+
+reject 1 | a page of Diodorus is not part of Diodorus
+reject 2 | a bug you found and fixed was not a bug
+reject 3 | pipelines should be left broken
+reject 4 | the corpus missing a page is the more accurate one
+:: hot
+"Say it in your head before I do."
+
+"You already know which one has to go. You just cannot say why yet."
+
+"Every one of these is what a careful person does."
+:: zone draw: the row of five, cross out four
+:: foot the five, from CORRECTION-1.md
+:: loop So what happens if you just follow all five like a normal careful person.
+
+@@ PAGE 3 — THE TURN
+:: pos  the turn
+:: head THE FAILED PREDICTION PASSES
+:: ladder
+1. SAY | So he does it. He follows all five. He fixes the bug and rescores.
+2. SHOW | the before and after
+3. SAY | 13.95 becomes 13.67. The other number does not move.
+4. ASK | What just happened to his prediction?
+5. WAIT | let them see it themselves
+6. SAY | It passed. The thing he published as a failure is now a success, and he did nothing wrong at any point.
+7. SHOW | the quote, read it slowly
+8. LAND | "None of it felt like cheating."
+:: cold
+MYTHOGRAPHY | 13.95 | → | 13.67
+TRAGEDY | 13.88 | → | 13.88
+
+prediction | FAIL | → | PASS
+
+---
+
+from the correction file, written by the person it happened to:
+
+"It would have been entirely defensible as a bug fix,
+and it is exactly the move pre-registration exists
+to make impossible."
+:: hot
+"Read it again. Not: I was tempted and I resisted."
+
+"Not: I noticed what I was about to do."
+
+"It did not feel like anything. That is the whole problem."
+:: refrain NONE OF IT FELT LIKE CHEATING | 1 of 3
+:: zone draw: arrow 13.95 down to 13.67, then across the tragedy line
+:: foot 13.95 → 13.67 · tragedy 13.88 · CORRECTION-1.md
+:: loop Now, here is why being a good person does not save you from this.
+
+@@ PAGE 4 — PRESSURE, TEST ONE
+:: pos  test one
+:: head WHY BEING CAREFUL IS WHAT GETS YOU
+:: ladder
+1. ASK | If you wanted to stop this happening to you, what would you rely on?
+2. THEY | "I would just be honest about it."
+3. NO | Nothing here was dishonest. Not one false sentence was written.
+4. THEY | "I would be careful."
+5. NO | The whole sequence IS being careful. Fixing the bug was the careful act.
+6. SHOW | the rest of the defences, and why each one is useless
+7. ASK | So what was he actually doing at the moment it happened?
+8. SAY | Maintenance. He was not looking at the prediction at all.
+9. LAND | The habits that protect you everywhere else are what walk you in here.
+:: cold
+the defence | why it fails here
+honesty | no false statement occurs anywhere
+integrity | nothing presented itself as a choice about it
+care | the whole sequence IS care
+expertise | the chain is only visible if you watch for it
+
+---
+
+what he was doing | fixing a bug he had just found
+what he was not doing | looking at the prediction
+:: hot
+"Watch which defence you reach for first. I reached for honesty."
+
+"Every one of them is a virtue and every one of them is useless."
+
+"If you are thinking you would have caught it, hold that. I will come back to it."
+:: refrain NONE OF IT FELT LIKE CHEATING | 2 of 3
+:: zone draw: the chain, link by link, no branch points
+:: foot S2E3 "the shaping is invisible from the inside" · CORRECTION-1.md
+:: loop There is a character everybody knows who is this exact chain.
+
+@@ PAGE 5 — PRESSURE, TEST TWO
+:: pos  test two
+:: head POINT AT THE DECISION. GO ON.
+:: ladder
+1. SAY | Think about Walter White. Just the early episodes, before anything big.
+2. ASK | Point at the scene where he decides to become a criminal.
+3. WAIT | genuinely wait. they will try.
+4. THEY | "The pilot? When he cooks the first batch?"
+5. NO | He is dying and broke and wants to leave money behind. That is a reasonable thing for a man in that spot.
+6. SAY | Every single step is a sensible answer to the step before it. There is no scene. There is a chain.
+7. ASK | So how does anybody in that story know where they are?
+8. SAY | In the show, you know, because you are watching from outside and you can see it going somewhere.
+9. LAND | In a research project nobody is watching from outside, because the destination is a number that came out slightly different.
+:: cold
+no scene | in which he chooses to become a criminal
+every step | a reasonable response to the step before
+answer | there isn't one
+
+---
+
+the show | the audience can see where it goes
+a research project | nobody can
+the five statements | the same chain, one afternoon
+:: hot
+"Point at it. Go on."
+
+"In the show you get sixty hours and a soundtrack. Here you get one afternoon and a spreadsheet."
+
+Gear: Now watch what he actually did.
+:: zone draw: chain again, label where the afternoon sits
+:: foot five statements · S2E7
+:: loop So what do you do, when four of five cannot be rejected.
+
+@@ PAGE 6 — PRESSURE, TEST THREE
+:: pos  test three
+:: head HE KEEPS THE BROKEN VERSION ON PURPOSE
+:: ladder
+1. SAY | Here is what he actually did, and it is strange. He fetched the missing page. It is on his disk right now.
+2. SAY | And he refuses to use it.
+3. ASK | Why would anybody keep the worse version?
+4. THEY | "That is stupid. You have the better data right there."
+5. SAY | He rejects statement 5. Only statement 5. Only for this round.
+6. SAY | So he publishes a number computed on a corpus he knows is missing a page, while the fixed corpus sits on the same machine.
+7. SAY | And the page becomes available again the moment a new prediction is written down first.
+8. LAND | The instrument is kept less accurate than it could be, on purpose, and that is the right call.
+:: cold
+the page was fetched | it is on the disk
+the page is excluded | from the analysis
+
+permanently | from this round
+available to | a future round whose predictions are committed first
+
+---
+
+reject statement | 5
+only statement | 5
+only for | this round
+:: hot
+"Say how strange that is out loud. Do not smooth it."
+
+"It is the right call and nothing about it feels right while you are doing it."
+
+"You would have rescored. So would I. That is the point of the whole video."
+:: refrain NONE OF IT FELT LIKE CHEATING | 3 of 3
+:: zone draw: two disks, one used, one not
+:: foot on disk, excluded · round 2 only
+:: loop And out of this, a rule got written that had not existed before.
+
+@@ PAGE 7 — THE LANDING
+:: pos  the landing
+:: head THE SAMPLE IS PART OF THE CLAIM
+:: ladder
+1. SAY | Everybody already knows one version of this rule.
+2. SAY | You cannot change your hypothesis after you have seen the data. Everyone nods at that.
+3. ASK | So why does almost nobody say the other half?
+4. LAND | You cannot change your sample either.
+5. SAY | Not the instrument. The sample. The texts themselves are part of what you promised.
+6. SAY | And I will tell you why this one stayed with me all week.
+:: cold
+everyone knows | you cannot change your hypothesis after seeing the data
+
+far fewer know | you cannot change your sample either
+
+not just the instrument | the sample is part of the registration
+:: hot
+"This is the one that has bothered me since I read it."
+
+"He is not a fraud. He is the most careful person in this story."
+:: zone
+:: foot CORRECTION-1.md · the rule, July 2026
+:: loop

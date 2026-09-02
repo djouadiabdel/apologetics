@@ -1,0 +1,280 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@page { size: A4 landscape; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: "Helvetica Neue", Arial, sans-serif; color: #14161a; background: #fff; }
+
+.page {
+  width: 297mm; height: 210mm; padding: 9mm 11mm 8mm 11mm;
+  page-break-after: always; display: flex; flex-direction: column;
+  position: relative; background: #fff;
+}
+.page:last-child { page-break-after: auto; }
+
+/* header */
+.hd { display: flex; align-items: baseline; justify-content: space-between;
+      border-bottom: 2.5px solid #14161a; padding-bottom: 3mm; margin-bottom: 5mm; }
+.pos { font-size: 10pt; letter-spacing: .16em; text-transform: uppercase; color: #6b7280; font-weight: 700; }
+.beat { font-size: 25pt; font-weight: 800; letter-spacing: -.02em; line-height: 1; margin-top: 1.5mm; }
+.pg { font-size: 9pt; color: #9ca3af; letter-spacing: .1em; }
+
+/* body split */
+.main { flex: 1; display: grid; grid-template-columns: 1fr 62mm; gap: 7mm; min-height: 0; }
+.cold { display: flex; flex-direction: column; gap: 3.5mm; min-height: 0; }
+
+/* hot strip */
+.hot { background: #fdf6e8; border-left: 3px solid #c98a2b; padding: 4mm 4mm 4mm 4.5mm;
+       display: flex; flex-direction: column; gap: 3.5mm; }
+.hot .lbl { font-size: 8pt; letter-spacing: .14em; text-transform: uppercase;
+            color: #a9761f; font-weight: 700; margin-bottom: .5mm; }
+.hot p { font-family: Georgia, serif; font-size: 11.5pt; line-height: 1.36; color: #6b4410; }
+
+/* scripture */
+.scr { font-family: Georgia, serif; font-size: 12.5pt; line-height: 1.5; }
+.scr .v { font-weight: 700; color: #7b1d1d; margin-right: 1.5mm; }
+.big { font-family: Georgia, serif; font-size: 15pt; line-height: 1.42;
+       border-left: 3px solid #7b1d1d; padding-left: 4mm; }
+
+/* two-column adjacency */
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 6mm; }
+.cols .ch { font-size: 10.5pt; font-weight: 800; letter-spacing: .06em; text-transform: uppercase;
+            border-bottom: 1.5px solid #14161a; padding-bottom: 1.5mm; margin-bottom: 2.5mm; }
+.cols ul { list-style: none; }
+.cols li { font-size: 12pt; line-height: 1.5; font-family: Georgia, serif; }
+.cols li b { color: #7b1d1d; font-weight: 700; }
+.note { font-size: 11pt; font-style: italic; color: #4b5563; font-family: Georgia, serif; margin-top: 2mm; }
+
+.line { font-size: 12pt; font-family: Georgia, serif; line-height: 1.45; }
+.line b { color: #7b1d1d; }
+.tight { display: flex; flex-direction: column; gap: 1.5mm; }
+
+/* drawing zone */
+.zone { border: 1.6px dashed #b9bfc7; border-radius: 2mm; flex: 1; min-height: 22mm;
+        display: flex; align-items: flex-end; padding: 3mm; }
+.zone span { font-size: 8.5pt; color: #aeb4bc; letter-spacing: .04em; }
+
+/* refrain */
+.ref { margin-top: 4mm; background: #14161a; color: #fff; padding: 3.5mm 5mm;
+       display: flex; align-items: baseline; justify-content: space-between; border-radius: 1mm; }
+.ref .t { font-family: Georgia, serif; font-size: 16pt; font-weight: 700; letter-spacing: .01em; }
+.ref .n { font-size: 8.5pt; color: #8b9199; letter-spacing: .12em; }
+
+/* foot */
+.ft { margin-top: 4mm; border-top: 1.2px solid #d6dae0; padding-top: 2.5mm;
+      display: flex; justify-content: space-between; align-items: baseline; gap: 8mm; }
+.cite { font-size: 9.5pt; color: #6b7280; letter-spacing: .03em; }
+.loop { font-family: Georgia, serif; font-style: italic; font-size: 11pt; color: #14161a; text-align: right; }
+.loop::before { content: "→ "; color: #c98a2b; font-style: normal; font-weight: 700; }
+</style></head><body>
+
+<!-- 1 -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 2 · read whole, no commentary</div><div class="beat">THE TEXT</div></div><div class="pg">1 / 7</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="scr">
+        <span class="v">14</span>What good is it, my brothers and sisters, if someone claims to have faith but has no deeds? Can such faith save them?
+        <span class="v">15</span>Suppose a brother or a sister is without clothes and daily food.
+        <span class="v">16</span>If one of you says to them, "Go in peace; keep warm and well fed," but does nothing about their physical needs, what good is it?
+        <span class="v">17</span>In the same way, faith by itself, if it is not accompanied by action, is dead.
+        <span class="v">18</span>But someone will say, "You have faith; I have deeds." Show me your faith without deeds, and I will show you my faith by my deeds.
+        <span class="v">19</span>You believe that there is one God. Good! Even the demons believe that, and shudder.
+        <span class="v">20</span>You foolish person, do you want evidence that faith without deeds is useless?
+        <span class="v">21</span>Was not our father Abraham considered righteous for what he did when he offered his son Isaac on the altar?
+        <span class="v">22</span>You see that his faith and his actions were working together, and his faith was made complete by what he did.
+        <span class="v">23</span>And the scripture was fulfilled that says, "Abraham believed God, and it was credited to him as righteousness," and he was called God's friend.
+        <span class="v">24</span>You see that a person is considered righteous by what they do and not by faith alone.
+        <span class="v">25</span>In the same way, was not even Rahab the prostitute considered righteous for what she did when she gave lodging to the spies and sent them off in a different direction?
+        <span class="v">26</span>As the body without the spirit is dead, so faith without deeds is dead.
+      </div>
+    </div>
+    <div class="hot">
+      <div><div class="lbl">Say these</div>
+        <p>Read it whole. No commentary, no annotation while reading.</p></div>
+      <p>Let it sit for a beat afterward.</p>
+    </div>
+  </div>
+  <div class="ft"><div class="cite">James 2:14-26 · NIV</div>
+    <div class="loop">Now the problem, and I am not going to soften it.</div></div>
+</div>
+
+<!-- 2 -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 3 · say it at full strength</div><div class="beat">THE DIFFICULTY</div></div><div class="pg">2 / 7</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="cols">
+        <div><div class="ch">James 2:24</div>
+          <div class="big" style="font-size:13pt">"a person is considered righteous by what they do and <b>not by faith alone</b>"</div></div>
+        <div><div class="ch">Paul · Romans 3:28</div>
+          <div class="big" style="font-size:13pt">"a person is justified <b>by faith apart from</b> the works of the law"</div></div>
+      </div>
+      <div class="tight" style="margin-top:2mm">
+        <div class="line">same words, opposite things</div>
+        <div class="line">both reach for <b>Abraham</b> to prove it</div>
+        <div class="line">both quote <b>the same verse</b> about Abraham, Gen 15:6</div>
+        <div class="line" style="margin-top:2mm">Luther: <i>epistle of straw</i>, wanted it out of the canon</div>
+      </div>
+      <div class="zone"><span>draw the collision, 2:24 ←→ Rom 3:28</span></div>
+    </div>
+    <div class="hot">
+      <div><div class="lbl">Say these</div>
+        <p>"I am not going to soften it, because everybody softens it and you can always tell."</p></div>
+      <p>"Those are not two shades of emphasis."</p>
+      <p>"This is not a manufactured problem invented by people looking for trouble. It split the church."</p>
+      <p>"If your answer is that the tension is only apparent and we should all calm down, you have not felt the problem yet."</p>
+    </div>
+  </div>
+  <div class="ft"><div class="cite">Jas 2:24 · Rom 3:28 · Gen 15:6 · Luther</div>
+    <div class="loop">He tells you which faith he is killing. Five verses before he kills it.</div></div>
+</div>
+
+<!-- 3 -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 4 · one move</div><div class="beat">THE TURN</div></div><div class="pg">3 / 7</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="big"><b>2:19</b> &nbsp;"You believe that there is one God. Good! Even the demons believe that, and shudder."</div>
+      <div class="tight">
+        <div class="line">the <b>Shema</b>, Deut 6:4 · said twice a day · bedrock of the religion</div>
+        <div class="line">the single most correct sentence a human being can say</div>
+        <div class="line">theology exact, not approximate. they are not guessing.</div>
+      </div>
+      <div class="cols" style="margin-top:1mm">
+        <div><div class="ch">2:24, "faith alone"</div>
+          <ul><li>= the faith of <b>2:19</b></li><li>assent. signing the proposition.</li></ul></div>
+        <div><div class="ch">Paul · Gal 5:6</div>
+          <ul><li>"faith expressing itself through love"</li><li>trust that acts. works already inside.</li></ul></div>
+      </div>
+      <div class="zone"><span>draw the arrow, 2:19 → 2:24</span></div>
+    </div>
+    <div class="hot">
+      <div><div class="lbl">Say these</div>
+        <p>"Almost nobody reads verse 24 in the light of verse 19."</p></div>
+      <p>"Sit on what he just did."</p>
+      <p>"He reaches for the best creed available to a Jew. And he hands it to demons."</p>
+      <p>"Their theology is better than yours."</p>
+    </div>
+  </div>
+  <div class="ref"><div class="t">Perfect belief. Zero communion.</div><div class="n">1 OF 3</div></div>
+  <div class="ft"><div class="cite">2:19 · 2:24 · Deut 6:4 · Gal 5:6</div>
+    <div class="loop">Three tests. If the turn is right, it has to survive all three.</div></div>
+</div>
+
+<!-- 4 -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 5 · test one</div><div class="beat">DOES THE OTHER WORD HOLD UP?</div></div><div class="pg">4 / 7</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="cols">
+        <div><div class="ch">James · works</div>
+          <ul>
+            <li><b>2:16</b> clothe the naked, feed the hungry</li>
+            <li><b>2:25</b> Rahab hides the spies, sends them out safe</li>
+            <li><b>1:27</b> orphans and widows in their distress</li>
+          </ul>
+          <div class="note">every one a mercy done to a body</div></div>
+        <div><div class="ch">Paul · works of the law</div>
+          <ul><li>circumcision</li><li>food laws</li><li>sabbath</li><li>calendar</li></ul>
+          <div class="note">every one a Torah boundary marker, Jew from Gentile</div></div>
+      </div>
+      <div class="tight" style="margin-top:2mm">
+        <div class="line">Paul asks: what makes a Gentile a member of the people of God</div>
+        <div class="line">James asks: whether the faith you claim is alive</div>
+      </div>
+      <div class="zone"><span>two circles, then the gap between them</span></div>
+    </div>
+    <div class="hot">
+      <div><div class="lbl">Say these</div>
+        <p>"If faith is two different objects, works had better be too, or the fix is half a fix."</p></div>
+      <p>"Watch what James counts as a work. Every single time he gives an example."</p>
+      <p>"Different questions, different objects, same English word twice over."</p>
+    </div>
+  </div>
+  <div class="ref"><div class="t">Perfect belief. Zero communion.</div><div class="n">2 OF 3</div></div>
+  <div class="ft"><div class="cite">2:16 · 2:25 · 1:27</div>
+    <div class="loop">That is one word. Now the two witnesses, and the pairing should be insane.</div></div>
+</div>
+
+<!-- 5 -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 5 · test two</div><div class="beat">THEN WHY THESE TWO WITNESSES?</div></div><div class="pg">5 / 7</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="cols">
+        <div><div class="ch">Abraham · 2:21</div>
+          <ul><li>the founding insider</li><li>patriarch, father of the nation</li><li>the most respectable name a Jew can say</li></ul></div>
+        <div><div class="ch">Rahab · 2:25</div>
+          <ul><li>the total outsider</li><li>foreign, a woman, a Canaanite, a prostitute</li><li>no lineage, no standing, no patron, no ring</li></ul></div>
+      </div>
+      <div class="big" style="margin-top:2mm; font-size:13pt">both <b>"considered righteous for what they did"</b><br>same verdict, same breath, priced identically</div>
+      <div class="line" style="margin-top:1mm">nothing comparable to weigh between them</div>
+      <div class="zone"><span>two circles, a price tag on each, the same number on both</span></div>
+    </div>
+    <div class="hot">
+      <div><div class="lbl">Say these</div>
+        <p>"If works meant earning, that pairing is insane."</p></div>
+      <p>"In the language of last episode, a person with no face the world would receive."</p>
+      <p>"And notice what he does inside his own proof."</p>
+    </div>
+  </div>
+  <div class="ft"><div class="cite">2:21 · 2:25 · back to 2:1</div>
+    <div class="loop">Test three. The one that should break it.</div></div>
+</div>
+
+<!-- 6 -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 5 · test three</div><div class="beat">THE SAME VERSE, TWO DAYS</div></div><div class="pg">6 / 7</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="big" style="font-size:13.5pt"><b>Gen 15:6</b> &nbsp;"Abraham believed God, and it was credited to him as righteousness"<br>
+        <span style="font-size:11pt; color:#4b5563">quoted by both men</span></div>
+      <div class="cols" style="margin-top:1mm">
+        <div><div class="ch">Paul reads it where it sits</div>
+          <ul><li>Genesis 15, the night of the stars</li><li>before Isaac</li><li>before circumcision</li><li><b>Rom 4</b>, the whole point is the timing</li></ul></div>
+        <div><div class="ch">James reads it forward</div>
+          <ul><li>Genesis 22, the knife on the mountain</li><li><b>thirty years later</b></li><li><b>2:22-23</b> "made complete" / "was fulfilled"</li></ul></div>
+      </div>
+      <div class="zone"><span>one timeline, mark 15 and 22, thirty years between</span></div>
+    </div>
+    <div class="hot">
+      <div><div class="lbl">Say these</div>
+        <p>"They are quoting it about two different days."</p></div>
+      <p>"And listen to his verbs."</p>
+      <p>"The faith that was real at fifteen is the faith that walked up the hill at twenty-two."</p>
+      <p>"One life, filmed at two moments, by two men who each needed a different frame."</p>
+    </div>
+  </div>
+  <div class="ft"><div class="cite">Gen 15:6 · Gen 22 · Rom 4 · Jas 2:22-23</div>
+    <div class="loop">Now the word James actually uses.</div></div>
+</div>
+
+<!-- 7 -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 6 · the hand stops</div><div class="beat">THE LANDING</div></div><div class="pg">7 / 7</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="big" style="font-size:16pt; margin-top:4mm"><b>2:26</b> &nbsp;"As the body without the spirit is dead, so faith without deeds is dead."</div>
+      <div class="tight" style="margin-top:5mm">
+        <div class="line" style="font-size:15pt"><b>nekra</b> &nbsp; a corpse</div>
+        <div class="line" style="margin-top:2mm">not weak. not immature. not incomplete.</div>
+        <div class="line" style="margin-top:4mm"><b>1:18</b> "he chose to give us birth through the word of truth"</div>
+        <div class="line">chose, and birth</div>
+      </div>
+    </div>
+    <div class="hot">
+      <div><div class="lbl">Say these</div>
+        <p>"That analogy is not moral, it is ontological."</p></div>
+      <p>"It has the shape of the living thing exactly, every feature in the right place, and it is the opposite of the living thing."</p>
+      <p>"Here is what I want to leave on you, because it is the thing that has bothered me all week."</p>
+      <p>"There is only one instrument James gives you."</p>
+      <p>"That is not a comfortable place to end and I am not going to pretend otherwise."</p>
+    </div>
+  </div>
+  <div class="ref"><div class="t">Perfect belief. Zero communion.</div><div class="n">3 OF 3</div></div>
+  <div class="ft"><div class="cite">2:26 · 1:18 · Zizioulas</div>
+    <div class="loop">The body is dead in verse 26. In chapter 3 we find out which organ killed it.</div></div>
+</div>
+
+</body></html>

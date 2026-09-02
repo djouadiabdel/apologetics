@@ -2,3 +2,12 @@
 # These hold raw personal source material, not prose for publication.
 The Crowning — Character Material.md
 The Crowning — I-II Physical Detail Workshop.md
+The Crowning — III-VI-VIII Workshop.md
+
+# Never commit audio/media — private voice material (and >GitHub 100MB limit)
+*.opus
+.aider*
+
+# Private. Personal archive and raw message export — never commit; this repo is public.
+The OLD life/
+13 - Writing/Record/

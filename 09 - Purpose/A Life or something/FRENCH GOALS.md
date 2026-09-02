@@ -1,3 +1,5 @@
+> Written April 2026. Still the only place the December targets live, but two of its three daily inputs are not in the current day. See `00 — Runbook`, French track.
+
 **FRENCH GOALS — April to December 2026 (36 weeks)**
 
 **Daily non-negotiables (already in your schedule):**

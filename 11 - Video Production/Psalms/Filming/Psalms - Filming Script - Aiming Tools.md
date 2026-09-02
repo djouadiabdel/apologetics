@@ -20,6 +20,8 @@ That appetite is not a defect. It is standard equipment, and it is enormous, and
 
 That is the condition this psalm is about, and the man who wrote it names it in the second line.
 
+One thing to hold as we read. He is not watching a person. He is watching a class, the wicked, plural, all the way through. If yours is one specific human being, that changes nothing about the mechanism. It only makes it harder to see, because a class is obviously an abstraction and a face is not.
+
 ---
 
 ## 2. The text
@@ -72,7 +74,19 @@ Watch the mechanism in the text.
 
 > **73:2-3.** "But as for me, my feet had almost slipped; I had nearly lost my foothold. For I envied the arrogant when I saw the prosperity of the wicked."
 
-He is not describing doubt about doctrine. He is describing envy. He has a model, and it is the wicked, and he is copying them. Sixteen verses of watching them, cataloguing their bodies and their ease and their mouths.
+He is not describing doubt about doctrine. He is describing envy, which is the one appetite that cannot exist without a model. Rage at injustice does not need anybody to copy. Envy is nothing but copying. And he spends sixteen verses watching them, cataloguing their bodies and their ease and their mouths.
+
+Notice also what he envies. Where our translation has prosperity, the Greek psalter has peace. He is not envying their possessions. He is envying their untroubledness, the fact that nothing inside them is asking a question.
+
+Then two verses that decide whether this is really about wanting, or about justice.
+
+> **73:13.** "Surely in vain I have kept my heart pure and have washed my hands in innocence."
+
+Hear what the complaint actually is. Not that the wicked are hurting anyone. That his own purity bought him nothing. That is not moral outrage, it is a wage dispute. And the Greek is blunter than the English. Mataiōs edikaiōsa tēn kardian mou. In vain I justified my heart. He had been running his own righteousness as a payment scheme, and he was watching other men get paid without paying.
+
+> **73:22.** "I was senseless and ignorant; I was a brute beast before you."
+
+That is his own verdict, delivered after the sanctuary, on the state he was just in. If the problem had been righteous anger at injustice, the sanctuary would have confirmed it and told him to be patient. It does not. It tells him he was ktēnōdēs, cattle. And an animal is precisely the thing that wants without knowing why it wants.
 
 Then:
 
@@ -112,6 +126,8 @@ The psalm does not end where you expect.
 
 He does not say the wicked turned out to be miserable. He does not say he stopped wanting. He says his flesh and his heart may fail, which is a man admitting the appetite is still there and still capable of taking him down, and then he names what it is for.
 
+And the Greek is harder than "may fail." The verb is past. Exelipen. My heart and my flesh failed, which is how the Orthodox psalter carries it. Not a risk he is warning you about. A collapse he has already been through. He is telling you this from the far side of it.
+
 And here is what this leaves on you.
 
 You are being formed into the shape of something right now. Not eventually, not if you get careless. Now, by whatever is in the slot, according to a law you did not consent to and cannot switch off. The question is never whether you are copying. It is only what.
@@ -123,3 +139,29 @@ It is the only lever you have.
 ---
 
 *Open loop, one sentence:* if you become what you look at, the next question is what happens to a man who looks at someone who does not grasp, and that is Philippians 2.
+
+---
+
+## Apparatus. Not spoken.
+
+Reference only, for the board and for questions afterwards. None of this goes to camera except the three transliterated words already in the body.
+
+**Numbering.** This is Psalm 73 in the Hebrew and in the NIV. It is **Psalm 72** in the Septuagint and in the Orthodox psalters. Verse numbers below are the Hebrew ones.
+
+**Sources.** NIV. Greek from Swete and Rahlfs, cross-checked. English of the Greek from the Staats LXX psalter (`~/Downloads/OrthodoxPsalter2.pdf`); the Seraphim psalter (`~/Downloads/psalter-3rd-ed-15july2013.pdf`) agrees at every point below.
+
+| v. | NIV | LXX in English | Greek | What the Greek adds |
+|---|---|---|---|---|
+| 3 | "I envied the arrogant when I saw the **prosperity** of the wicked" | "I was envious of the wicked, seeing the **peace** of sinners" | ὅτι ἐζήλωσα ἐπὶ τοῖς ἀνόμοις, **εἰρήνην** ἁμαρτωλῶν θεωρῶν | The object of envy is not goods but untroubledness. ἐζήλωσα is ζῆλος, the same root Paul puts in the vice lists and James puts at 3:14-16 |
+| 13 | "in vain I have **kept my heart pure**" | "I have **kept righteousness in my heart** to no avail" | ἄρα ματαίως **ἐδικαίωσα** τὴν καρδίαν μου | ἐδικαίωσα is *justified*, the Pauline verb. Makes the wage-complaint explicit, purity run as a payment scheme |
+| 16 | "it **troubled me deeply**" | "it was **too toilsome** for me" | τοῦτο **κόπος** ἐστὶν ἐναντίον μου | κόπος is labour, not distress. He worked at it and the work failed. Strengthens "not an argument, a location" |
+| 17 | "then I understood their **final destiny**" | "then understood I their **end**" | καὶ συνῶ **εἰς τὰ ἔσχατα** αὐτῶν | τὰ ἔσχατα, the eschata. The sanctuary gives him the end of the story, not a better argument |
+| 22 | "I was a **brute beast** before you" | "I became **like a beast** before thee" | **κτηνώδης** ἐγενόμην παρὰ σοί | κτῆνος is livestock. Not a wild beast raging, a domestic animal wanting. Hebrew has בְּהֵמוֹת, behemoth |
+| 25 | "earth has nothing I **desire** besides you" | "what on the earth **did I desire** but thee" | παρὰ σοῦ τί **ἠθέλησα** ἐπὶ τῆς γῆς | The landing is in the vocabulary of wanting, not of justice |
+| 26 | "my flesh and my heart **may fail**" | "my heart and my flesh **failed**" | **ἐξέλιπεν** ἡ καρδία μου καὶ ἡ σάρξ μου | Aorist. The collapse already happened. He speaks from after it, not before it |
+
+**Hebrew at v.3.** קִנֵּאתִי, *qinne'ti*, from קנא. Envy and jealousy are one word-field in both languages, which is why the psalm can be read as rage. The tell that it is envy and not rage is v.13, where the grievance turns out to be his own unpaid wages.
+
+**The objection this answers.** Someone will say the psalm is about theodicy and the prosperity of the wicked, not about desire. Two replies. First, proportion. v.17 settles the justice question in half a verse and the remaining eleven verses are about what he now wants. Second, v.22. The psalmist's own post-sanctuary verdict on his earlier state is not "I was right but impatient." It is "I was a beast." The psalm names its own disease and the name is not rage.
+
+**Deliberately left out.** vv.18-20, the judgment language, slippery ground and swept away and despised as fantasies. It is the strongest textual support for the rage reading and there is no room for it. If a comment raises it, the answer is that v.20 makes the wicked *a dream when one awakes*, which is an unreality verdict, not a punishment verdict, and unreality is exactly the complaint the model was supposed to solve.

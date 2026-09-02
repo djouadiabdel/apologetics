@@ -40,7 +40,7 @@
 The foundational architecture: desire is never S→O (Subject→Object). It is always S→M→O (Subject→Mediator→Object). The mediator is the hidden third. You cannot understand any of your own desires without first asking: *who told me to want this?* This concept alone is your entire autobiography series in compressed form.
 
 **Concept 4 — Internal Mediation (pp. 9–12)**
-When the mediator is *close enough to be a rival*, everything changes. The admiration becomes hidden, the desire becomes resentment, the relationship becomes strategic. This is the transition from your childhood (external mediators — distant heroes, historical figures) to your adult life (peers, colleagues, the person one step ahead of you on Upwork). This is the engine of Ep 10 and 11.
+When the mediator is *close enough to be a rival*, everything changes. The admiration becomes hidden, the desire becomes resentment, the relationship becomes strategic. This is the transition from your childhood (external mediators  distant heroes, historical figures) to your adult life (peers, colleagues, the person one step ahead of you on Upwork). This is the engine of Ep 10 and 11.
 
 **Concept 7 — Romantic vs. Novelistic (pp. 16–17)**
 The distinction that justifies your entire project. The "romantic" autobiography flatters the author — it presents his desires as original, his passion as spontaneous. The "novelistic" autobiography exposes the borrowed mechanism. Every episode you make is a choice: romantic (comfortable) or novelistic (true). This is why your series matters, and why it's harder to write than you think.

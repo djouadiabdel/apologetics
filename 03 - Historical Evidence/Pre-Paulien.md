@@ -1,4 +1,9 @@
-What these books establish as pre-Pauline is _divine Christology_, not _the Trinity_ as a doctrine. Those are different things. Divine Christology means Jesus is included within the identity of the one God of Israel, receives worship, and is identified with YHWH's actions. The Trinity as a fully articulated doctrine (one God, three persons, coequal, coeternal) is a later theological formulation — Nicaea in 325, Constantinople in 381.
+What these books establish as pre-Pauline is _divine Christology_, not _the Trinity_ as a doctrine. Those are different things. Divine Christology means Jesus is included within the identity of the one God of Israel, is identified with YHWH's actions, and is given the devotional practices Judaism reserved for God.
+
+> [!warning] Corrected 5 Aug 2026.
+> This sentence used to read "receives worship" as the second pillar. That version does not survive, because the word behind "worship" in the gospels is προσκυνέω, which the Septuagint uses for Lot before angels and for all Israel before King David. One verse, 1 Chr 29:20, invalidates the inference. Full working in [[Worship — Proskyneo and Latreuo]].
+>
+> The pillar is repaired by stating it behaviourally rather than lexically. Hurtado's case was never a word study, and prayer to Jesus, calling on his name, *Maranatha*, doxologies to Christ and 1 Cor 8:6 are all untouched by the correction. Say "given the devotional practices reserved for God," never "receives worship," because the second version dies to a single verse and the first does not. The Trinity as a fully articulated doctrine (one God, three persons, coequal, coeternal) is a later theological formulation — Nicaea in 325, Constantinople in 381.
 
 Think of it this way: the early community was _doing_ something (worshipping Jesus as divine within Jewish monotheism) that the later councils then _explained_ theologically. The raw data is first-century. The systematic explanation is fourth-century. But the fourth-century explanation isn't an invention — it's an articulation of what was already happening.
 

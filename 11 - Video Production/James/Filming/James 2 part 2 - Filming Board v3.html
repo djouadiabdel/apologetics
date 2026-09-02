@@ -1,0 +1,466 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@page { size: A4 landscape; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: "Helvetica Neue", Arial, sans-serif; color: #14161a; background: #fff; }
+
+.page {
+  width: 297mm; height: 210mm; padding: 8mm 10mm 6mm 10mm;
+  page-break-after: always; display: flex; flex-direction: column;
+  position: relative; background: #fff; overflow: hidden;
+}
+.page:last-child { page-break-after: auto; }
+
+/* header */
+.hd { display: flex; align-items: baseline; justify-content: space-between;
+      border-bottom: 2.5px solid #14161a; padding-bottom: 2.5mm; margin-bottom: 4mm; }
+.pos { font-size: 9.5pt; letter-spacing: .16em; text-transform: uppercase; color: #6b7280; font-weight: 700; }
+.beat { font-size: 24pt; font-weight: 800; letter-spacing: -.02em; line-height: 1.02; margin-top: 1.2mm; }
+.pg { font-size: 9pt; color: #9ca3af; letter-spacing: .1em; white-space: nowrap; }
+
+/* body split */
+.main { flex: 1; display: grid; grid-template-columns: 1fr 58mm; gap: 6mm; min-height: 0; }
+.cold { display: flex; flex-direction: column; gap: 3mm; min-height: 0; }
+
+/* hot strip · no label, the strip itself is the signal */
+.hot { background: #fdf6e8; border-left: 3px solid #c98a2b; padding: 4mm 3.5mm 3.5mm 4mm;
+       display: flex; flex-direction: column; gap: 3mm; }
+.hot p { font-family: Georgia, serif; font-size: 11pt; line-height: 1.34; color: #6b4410; }
+.hot .sep { border-top: 1px solid #e6d6b4; margin-top: 1mm; padding-top: 2.5mm; }
+.hot.dense { gap: 2mm; }
+.hot.dense p { font-size: 10pt; line-height: 1.28; }
+.hot .care { font-family: Georgia, serif; font-size: 10pt; line-height: 1.3; color: #7a5a2a; }
+
+/* MARKER HIGHLIGHT · this is the emphasis cue, replaces "pause here" notes */
+.hl { background: linear-gradient(transparent 14%, #f7dd9c 14%, #f7dd9c 97%, transparent 97%);
+      padding: 0 1mm; border-radius: .6mm; }
+.hl.red { background: linear-gradient(transparent 14%, #f3c4bd 14%, #f3c4bd 97%, transparent 97%); }
+
+/* HOOKED ARROW · the drawing under a highlight that traces the logic */
+.hook { display: flex; align-items: flex-start; gap: 1.5mm; margin: 1mm 0 0 5mm; }
+.hook .el { flex: 0 0 auto; width: 7mm; height: 4.2mm; margin-top: -1mm;
+            border-left: 1.4px solid #c98a2b; border-bottom: 1.4px solid #c98a2b;
+            border-bottom-left-radius: 2.5mm; position: relative; }
+.hook .el::after { content: ""; position: absolute; right: -4.5px; bottom: -3.4px;
+                   border-left: 5px solid #c98a2b; border-top: 3.6px solid transparent; border-bottom: 3.6px solid transparent; }
+.hook .tt { font-family: Georgia, serif; font-style: italic; font-size: 10.5pt;
+            color: #8a5d12; line-height: 1.3; margin-top: 1.4mm; }
+
+/* scripture */
+.scr { font-family: Georgia, serif; font-size: 15.5pt; line-height: 1.48; }
+.scr .v { font-weight: 700; color: #7b1d1d; margin-right: 1.2mm; }
+.scr .pan { display: block; height: 0; border-top: 1.2px dashed #d6dae0; margin: 3mm 0; }
+.panlbl { font-size: 7pt; letter-spacing: .13em; text-transform: uppercase; color: #b9bfc7;
+          font-weight: 700; font-family: "Helvetica Neue", Arial, sans-serif; }
+.big { font-family: Georgia, serif; font-size: 14.5pt; line-height: 1.4;
+       border-left: 3px solid #7b1d1d; padding-left: 4mm; }
+.big b { color: #7b1d1d; }
+
+/* two-column adjacency */
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 5mm; }
+.cols.div > div:first-child { border-right: 1.2px dashed #c9ced6; padding-right: 5mm; }
+.ch { font-size: 10pt; font-weight: 800; letter-spacing: .05em; text-transform: uppercase;
+      border-bottom: 1.5px solid #14161a; padding-bottom: 1.2mm; margin-bottom: 2.2mm; }
+.ch.gold { border-bottom-color: #c98a2b; color: #8a5d12; }
+.ch.red  { border-bottom-color: #7b1d1d; color: #7b1d1d; }
+.cols ul { list-style: none; }
+.cols li { font-size: 11.5pt; line-height: 1.45; font-family: Georgia, serif; }
+.cols li b { color: #7b1d1d; font-weight: 700; }
+.note { font-size: 10.5pt; font-style: italic; color: #4b5563; font-family: Georgia, serif; margin-top: 2mm; }
+.sub { font-size: 8pt; letter-spacing: .11em; text-transform: uppercase; color: #8a5d12;
+       font-weight: 700; margin: 1.5mm 0 1mm 0; }
+.sub:first-of-type { margin-top: 0; }
+.cols .sub + ul { border-left: 1.5px solid #e3d3ae; padding-left: 3mm; }
+
+.line { font-size: 11.5pt; font-family: Georgia, serif; line-height: 1.42; }
+.line b { color: #7b1d1d; }
+.tight { display: flex; flex-direction: column; gap: 1.2mm; }
+.kicker { font-size: 11pt; color: #4b5563; font-family: Georgia, serif; font-style: italic; margin-bottom: 1mm; }
+
+/* half-built diagram */
+.dia { border: 1.2px solid #e3e6ea; border-radius: 2mm; background: #fafbfc;
+       padding: 5mm; display: flex; align-items: center; justify-content: center; gap: 5mm; flex: 1; min-height: 0; }
+.node { border: 1.6px solid #14161a; border-radius: 2mm; padding: 3.5mm 5mm; background: #fff; text-align: center; }
+.node .nl { font-size: 7.5pt; letter-spacing: .13em; text-transform: uppercase; color: #6b7280; font-weight: 700; margin-bottom: 1.5mm; }
+.node .nt { font-family: Georgia, serif; font-size: 13pt; line-height: 1.25; }
+.node.ok { border-color: #4a6b3d; }
+.node .tick { display: inline-block; margin-top: 2mm; font-size: 9pt; letter-spacing: .1em;
+              text-transform: uppercase; color: #4a6b3d; font-weight: 700; }
+.arrow { display: flex; flex-direction: column; align-items: center; color: #c98a2b; flex-shrink: 0; }
+.arrow .abar { width: 20mm; height: 0; border-top: 2px solid #c98a2b; position: relative; }
+.arrow .abar::after { content: ""; position: absolute; right: -1px; top: -3.2px;
+                      border-left: 4.5px solid #c98a2b; border-top: 3.5px solid transparent; border-bottom: 3.5px solid transparent; }
+.arrow .alb { font-size: 8pt; letter-spacing: .14em; text-transform: uppercase; font-weight: 700; margin-bottom: 1.5mm; }
+
+/* blank slot he fills live */
+.slot { border: 1.8px dashed #b9bfc7; border-radius: 2mm; background: #fff;
+        padding: 3.5mm 5mm; text-align: center; min-width: 46mm; }
+.slot .sl { font-size: 7.5pt; letter-spacing: .13em; text-transform: uppercase; color: #aeb4bc; font-weight: 700; }
+.slot .rule { border-bottom: 1.2px solid #d6dae0; height: 8mm; margin-top: 1.5mm; }
+.slot.tall .rule { height: 14mm; }
+.clash { font-size: 17pt; font-weight: 800; color: #c98a2b; flex-shrink: 0; }
+
+/* checklist */
+.chk { font-family: Georgia, serif; font-size: 11.5pt; line-height: 1.65; text-align: left; }
+.chk .y { color: #4a6b3d; font-weight: 700; }
+.chk .q { color: #b9bfc7; font-weight: 700; }
+.chk .qt { color: #9ca3af; }
+
+/* timeline */
+.tl { position: relative; padding: 7mm 0 17mm 0; }
+.tl .bar { border-top: 2px solid #14161a; margin: 0 12mm; position: relative; }
+.tl .pt { position: absolute; top: -4.4mm; width: 9mm; height: 9mm; border-radius: 50%;
+          color: #fff; font-size: 10pt; font-weight: 800; line-height: 9mm; text-align: center; }
+.tl .pt.a { left: 6%; background: #c98a2b; }
+.tl .pt.b { right: 6%; background: #7b1d1d; }
+.tl .cap { position: absolute; top: 7mm; font-size: 10pt; font-family: Georgia, serif; width: 62mm; }
+.tl .cap.a { left: 2%; } .tl .cap.b { right: 2%; text-align: right; }
+.tl .mid { position: absolute; top: -8mm; left: 50%; transform: translateX(-50%);
+           font-size: 9pt; letter-spacing: .1em; text-transform: uppercase; color: #6b7280; font-weight: 700; }
+
+/* refrain */
+.ref { margin-top: 3mm; background: #14161a; color: #fff; padding: 3mm 5mm;
+       display: flex; align-items: center; justify-content: space-between; border-radius: 1mm; min-height: 12mm; }
+.ref .t { font-family: Georgia, serif; font-size: 15.5pt; font-weight: 700; }
+.ref .n { font-size: 8pt; color: #8b9199; letter-spacing: .12em; }
+.ref.blank { background: #fff; border: 1.8px dashed #14161a; color: #14161a; }
+.ref.blank .t { color: #b9bfc7; font-size: 9pt; font-family: "Helvetica Neue", Arial, sans-serif;
+                letter-spacing: .13em; text-transform: uppercase; font-weight: 700; }
+.ref.blank .n { color: #b9bfc7; }
+
+/* honesty marker */
+.hon { border-left: 3px solid #6b7280; background: #f4f5f7; padding: 2.5mm 4mm;
+       font-size: 10pt; font-family: Georgia, serif; color: #4b5563; line-height: 1.4; }
+.hon b { color: #14161a; font-style: normal; }
+
+/* foot */
+.ft { margin-top: 3mm; border-top: 1.2px solid #d6dae0; padding-top: 2.2mm;
+      display: flex; justify-content: space-between; align-items: baseline; gap: 8mm; }
+.cite { font-size: 9pt; color: #6b7280; letter-spacing: .03em; }
+.loop { font-family: Georgia, serif; font-style: italic; font-size: 11pt; color: #14161a; text-align: right; }
+.loop::before { content: "→ "; color: #c98a2b; font-style: normal; font-weight: 700; }
+
+/* cue strip · prep notes only, deliberately near-invisible on camera */
+.cue { position: absolute; left: 10mm; right: 10mm; bottom: 1.8mm;
+       font-size: 6.5pt; color: #dcdfe4; letter-spacing: .07em; line-height: 1.3; }
+</style></head><body>
+
+<!-- 1 · THE ADDRESS -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 1 · the address · under a minute</div><div class="beat">YOU BELIEVE THE RIGHT THINGS</div></div><div class="pg">1 / 8</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="dia">
+        <div class="node ok">
+          <div class="nl">What you can check</div>
+          <div class="nt">YOUR DOCTRINE<br>"There is one God"</div>
+          <div class="tick">✓ correct</div>
+        </div>
+        <div class="arrow"><div class="alb">cannot answer</div><div class="abar"></div></div>
+        <div class="slot tall">
+          <div class="sl">what the passage asks</div>
+          <div class="rule"></div>
+        </div>
+      </div>
+      <div class="tight">
+        <div class="line">not whether it is <b>true</b>. whether it is <span class="hl"><b>alive</b></span>.</div>
+        <div class="hook"><div class="el"></div><div class="tt">that word goes in the empty box, and not before you say it</div></div>
+        <div class="line" style="margin-top:1mm">no way to answer it by checking doctrine · in this case the doctrine is perfect</div>
+      </div>
+    </div>
+    <div class="hot">
+      <p>"That is not flattery, I mean it as a description."</p>
+      <p>"If I asked you tonight whether there is one God, you would say yes, and you would be correct, and you would not have to think about it."</p>
+      <p>"A question your correctness cannot answer."</p>
+    </div>
+  </div>
+  <div class="ft"><div class="cite">Jas 2:14-26 · Deut 6:4</div>
+    <div class="loop">Let me read the whole thing first.</div></div>
+  <div class="cue">slot: ALIVE · open on his condition, not the text · do not name the demons yet · straight into camera, no Bible in hand</div>
+</div>
+
+<!-- 2 · THE TEXT -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 2 · read whole · no commentary while reading</div><div class="beat">THE TEXT</div></div><div class="pg">2 / 8</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="scr">
+        <span class="v">14</span>What good is it, my brothers and sisters, if someone claims to have faith but has no deeds? Can such faith save them?
+        <span class="v">15</span>Suppose a brother or a sister is without clothes and daily food.
+        <span class="v">16</span>If one of you says to them, "Go in peace; keep warm and well fed," but does nothing about their physical needs, what good is it?
+        <span class="v">17</span>In the same way, faith by itself, if it is not accompanied by action, is dead.
+        <span class="v">18</span>But someone will say, "You have faith; I have deeds." Show me your faith without deeds, and I will show you my faith by my deeds.
+        <span class="v">19</span>You believe that there is one God. Good! Even the demons believe that, and shudder.
+        <span class="pan"></span><span class="panlbl">pan down here</span><br>
+        <span class="v">20</span>You foolish person, do you want evidence that faith without deeds is useless?
+        <span class="v">21</span>Was not our father Abraham considered righteous for what he did when he offered his son Isaac on the altar?
+        <span class="v">22</span>You see that his faith and his actions were working together, and his faith was made complete by what he did.
+        <span class="v">23</span>And the scripture was fulfilled that says, "Abraham believed God, and it was credited to him as righteousness," and he was called God's friend.
+        <span class="v">24</span>You see that a person is considered righteous by what they do and not by faith alone.
+        <span class="v">25</span>In the same way, was not even Rahab the prostitute considered righteous for what she did when she gave lodging to the spies and sent them off in a different direction?
+        <span class="v">26</span>As the body without the spirit is dead, so faith without deeds is dead.
+      </div>
+    </div>
+    <div class="hot">
+      <p class="care">Nothing is highlighted on this page on purpose. It is read flat and whole, and verse 19 has to arrive cold on page 4.</p>
+      <div class="sep">
+        <p>"Now the problem, and I am not going to soften it."</p></div>
+    </div>
+  </div>
+  <div class="ft"><div class="cite">James 2:14-26 · NIV</div>
+    <div class="loop">Everybody softens this one, and you can always tell.</div></div>
+  <div class="cue">camera: zoom to 14-19 to start, whole page is unreadable on a phone · pan down at 20, read 20-26 at that size · zoom back out before "now the problem" · let it sit a beat after the read</div>
+</div>
+
+<!-- 3 · THE DIFFICULTY -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 3 · say it at full strength</div><div class="beat">THE COLLISION</div></div><div class="pg">3 / 8</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="cols div">
+        <div><div class="ch red">James 2:24</div>
+          <div class="big" style="font-size:13pt">"a person is considered righteous by what they do and <span class="hl red"><b>not by faith alone</b></span>"</div></div>
+        <div><div class="ch red">Paul · Romans 3:28</div>
+          <div class="big" style="font-size:13pt">"a person is justified <span class="hl red"><b>by faith apart from</b></span> the works of the law"</div></div>
+      </div>
+      <div class="hook"><div class="el"></div><div class="tt">those two phrases go into the two slots, slow, one at a time. then draw the collision between them.</div></div>
+      <div class="dia" style="flex-direction:column; justify-content:flex-start; gap:5mm; padding:4mm; max-height:82mm">
+        <div style="display:flex; align-items:center; justify-content:center; gap:4mm">
+          <div class="node" style="padding:2.5mm 4mm"><div class="nt" style="font-size:11.5pt">same words</div></div>
+          <div class="node" style="padding:2.5mm 4mm"><div class="nt" style="font-size:11.5pt">same <b style="color:#7b1d1d">Abraham</b></div></div>
+          <div class="node" style="padding:2.5mm 4mm"><div class="nt" style="font-size:11.5pt">same verse · <b style="color:#7b1d1d">Gen 15:6</b></div></div>
+        </div>
+        <div style="display:flex; align-items:center; justify-content:center; gap:4mm; width:100%; margin-top:auto">
+          <div class="slot" style="flex:1"><div class="sl">James · his verdict</div><div class="rule"></div></div>
+          <div class="clash">↔</div>
+          <div class="slot" style="flex:1"><div class="sl">Paul · his verdict</div><div class="rule"></div></div>
+        </div>
+      </div>
+      <div class="hon"><b>Luther.</b> Called James an <i>epistle of straw</i>. Placed it among the disputed books at the end of his New Testament, and argued that its use of Abraham against Paul damaged its claim to apostolic authority.</div>
+    </div>
+    <div class="hot">
+      <p>"Those are not two shades of emphasis."</p>
+      <p>"They use the same words to say opposite things, and they both reach for Abraham to prove it."</p>
+      <p>"This is not a manufactured problem invented by people looking for trouble. It split the church."</p>
+      <p>"If your answer is that the tension is only apparent and we should all calm down, you have not felt the problem yet."</p>
+    </div>
+  </div>
+  <div class="ft"><div class="cite">Jas 2:24 · Rom 3:28 · Gen 15:6 · Luther, 1522 preface</div>
+    <div class="loop">He tells you which faith he is killing. Five verses before he kills it.</div></div>
+  <div class="cue">slots: NOT BY FAITH ALONE ←→ APART FROM WORKS · do not resolve it, let him sit in it</div>
+</div>
+
+<!-- 4 · THE TURN -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 4 · one hinge</div><div class="beat">WHICH FAITH IS HE KILLING?</div></div><div class="pg">4 / 8</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="big" style="font-size:13.5pt"><b>2:19</b> &nbsp;"You believe that there is one God. <span class="hl">Good!</span> Even the demons believe that, and <span class="hl red">shudder</span>."</div>
+      <div class="hook"><div class="el"></div><div class="tt">the whole hinge is the gap between those two highlights. land on the second one and stop.</div></div>
+      <div class="tight" style="margin-top:1mm">
+        <div class="line">the <b>Shema</b> · Deut 6:4 · said twice a day · bedrock of the whole religion</div>
+        <div class="line">the single most correct sentence a human being can say. and he hands it to demons.</div>
+      </div>
+      <div class="dia" style="padding:4mm">
+        <div class="node" style="text-align:left; padding:3mm 5mm">
+          <div class="nl">The demons</div>
+          <div class="chk">
+            <span class="y">✓</span> knowledge<br>
+            <span class="y">✓</span> certainty · they are not guessing<br>
+            <span class="q">?</span> <span class="qt">trust</span><br>
+            <span class="q">?</span> <span class="qt">love</span><br>
+            <span class="q">?</span> <span class="qt">obedience</span>
+          </div>
+        </div>
+        <div class="arrow"><div class="alb">produces</div><div class="abar"></div></div>
+        <div class="slot"><div class="sl">what it produces in them</div><div class="rule"></div></div>
+      </div>
+      <div class="cols" style="margin-top:1mm">
+        <div><div class="ch">2:24 · "faith alone"</div>
+          <ul><li>= the faith of <b>2:19</b>. assent. signing the proposition.</li></ul></div>
+        <div><div class="ch gold">Paul · Gal 5:6</div>
+          <ul><li>"faith expressing itself through love" · not bare assent</li></ul></div>
+      </div>
+    </div>
+    <div class="hot">
+      <p>"Almost nobody reads verse 24 in the light of verse 19."</p>
+      <p>"Sit on what he just did. He reaches for the best creed available to a Jew."</p>
+      <p>"Their theology is exact. It is better than yours, because they are not guessing."</p>
+      <p>"Not two claims about one thing. Two interior acts that share an English word."</p>
+      <p>"Whatever else Paul means by faith, he does not mean a proposition sitting alone in the mind. His faith has a direction. It expresses itself through love."</p>
+    </div>
+  </div>
+  <div class="ref blank"><div class="t">write the refrain here</div><div class="n">1 OF 3</div></div>
+  <div class="ft"><div class="cite">2:19 · 2:24 · Deut 6:4 · Gal 5:6</div>
+    <div class="loop">If faith is two words, works had better be two words too. Or the fix is half a fix.</div></div>
+  <div class="cue">refrain: PERFECT BELIEF. ZERO COMMUNION. · slot: SHUDDERING · write the refrain yourself, first of three, as you say it</div>
+</div>
+
+<!-- 5 · PRESSURE ONE -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 5 · test one · the other word</div><div class="beat">ARE THESE THE SAME WORKS?</div></div><div class="pg">5 / 8</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="cols div">
+        <div><div class="ch gold">James · what he counts as a work</div>
+          <div class="sub">mercy toward vulnerable bodies</div>
+          <ul>
+            <li><b>2:16</b> clothe the naked, feed the hungry</li>
+            <li><b>2:25</b> Rahab hides the spies, sends them out safe</li>
+            <li><b>1:27</b> orphans and widows in their distress</li>
+          </ul>
+          <div class="sub">costly obedience to God</div>
+          <ul>
+            <li><b>2:21</b> Abraham on the mountain, the knife raised</li>
+          </ul>
+          <div class="note">every one is <span class="hl">something a body did</span>, not a verbal claim</div></div>
+        <div><div class="ch red">Paul · the works he is fighting about</div>
+          <ul><li>circumcision</li><li>food laws</li><li>sabbath</li><li>calendar</li></ul>
+          <div class="note">every one a <span class="hl red">boundary marker</span>, Jew from Gentile</div></div>
+      </div>
+      <div class="hook"><div class="el"></div><div class="tt">two different objects wearing one English word. draw the gap between the questions below, and do not close it.</div></div>
+      <div class="dia" style="padding:4mm; max-height:66mm">
+        <div class="node" style="padding:3mm 5mm"><div class="nl">Paul is asking</div><div class="nt" style="font-size:11.5pt">what makes a Gentile<br>a member of the people of God?</div></div>
+        <div class="slot" style="min-width:34mm"><div class="sl">same word?</div><div class="rule"></div></div>
+        <div class="node" style="padding:3mm 5mm"><div class="nl">James is asking</div><div class="nt" style="font-size:11.5pt">is the faith you claim<br>alive?</div></div>
+      </div>
+      <div class="hon"><b>Keep honest.</b> Do not say Paul's "works" are <i>only</i> ceremonial boundary markers. That is one reading and it is contested. Say the contrast is contextual: Paul rejects law-performance as the ground of righteousness, James rejects assent that never becomes obedience.</div>
+    </div>
+    <div class="hot">
+      <p>"Watch what James counts as a work. Every single time he gives an example."</p>
+      <p>"Not one of them is a verbal claim. Every one is something a body did."</p>
+      <p>"So this is not merely philanthropy. It is claimed trust becoming bodily action."</p>
+      <p>"Different questions, different objects, same English word twice over."</p>
+    </div>
+  </div>
+  <div class="ref"><div class="t">Perfect belief. Zero communion.</div><div class="n">2 OF 3</div></div>
+  <div class="ft"><div class="cite">2:16 · 2:21 · 2:25 · 1:27 · Rom 3-4 · Gal 2-5</div>
+    <div class="loop">Then his own two witnesses should embarrass him. A patriarch and a prostitute.</div></div>
+  <div class="cue">slot: DIFFERENT QUESTION · say the honest caveat out loud, it makes the argument stronger not weaker</div>
+</div>
+
+<!-- 6 · PRESSURE TWO -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 5 · test two · the witnesses</div><div class="beat">THE PATRIARCH AND THE PROSTITUTE</div></div><div class="pg">6 / 8</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="kicker">If James judged by the face, this pairing is insane.</div>
+      <div class="dia" style="flex-direction:column; gap:3mm; padding:4mm">
+        <div style="display:flex; align-items:stretch; justify-content:center; gap:5mm; width:100%">
+          <div class="node" style="flex:1; text-align:left; padding:3mm 5mm">
+            <div class="nl">Abraham · 2:21</div>
+            <div class="chk" style="font-size:11pt">the founding insider<br>patriarch, father of the nation<br>the most respectable name a Jew can say</div>
+          </div>
+          <div class="node" style="flex:1; text-align:left; padding:3mm 5mm">
+            <div class="nl">Rahab · 2:25</div>
+            <div class="chk" style="font-size:11pt">the total outsider<br>foreign · a woman · a Canaanite · a prostitute<br>no lineage, no standing, no patron, <span class="hl red"><b>no ring</b></span></div>
+          </div>
+        </div>
+        <div style="display:flex; align-items:center; justify-content:center; gap:5mm; width:100%">
+          <div class="slot" style="flex:1"><div class="sl">the verdict James gives him</div><div class="rule"></div></div>
+          <div class="slot" style="flex:1"><div class="sl">the verdict James gives her</div><div class="rule"></div></div>
+        </div>
+      </div>
+      <div class="hook"><div class="el"></div><div class="tt">same words into both slots, same size. the second one slower.</div></div>
+      <div class="tight" style="margin-top:1mm">
+        <div class="line">both <span class="hl"><b>"considered righteous for what they did"</b></span> · same verdict, same breath</div>
+        <div class="line">nothing comparable in inherited standing · yet James gives them the same verdict</div>
+        <div class="line">back to <b>2:1</b>: he refuses to receive the face <i>while choosing his own witnesses</i></div>
+      </div>
+    </div>
+    <div class="hot">
+      <p>"In the language of last episode, a person with no face the world would receive."</p>
+      <p>"He sets them side by side and prices them identically."</p>
+      <p>"Whatever James is testing, it is not ancestry, respectability or social value."</p>
+      <p>"It is something that can appear identically in a patriarch and in a prostitute."</p>
+      <p>"Notice what he is doing inside his own proof."</p>
+    </div>
+  </div>
+  <div class="ft"><div class="cite">2:21 · 2:25 · Josh 2 · back to 2:1-13</div>
+    <div class="loop">Last test. Both men quote the same verse, so one of them is misusing it.</div></div>
+  <div class="cue">both slots: RIGHTEOUS · claim only what this page proves, not standing, not face · the earning question is the next page</div>
+</div>
+
+<!-- 7 · PRESSURE THREE -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 5 · test three · the one that should break it</div><div class="beat">ONE VERSE, TWO DAYS</div></div><div class="pg">7 / 8</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="big" style="font-size:13pt"><b>Gen 15:6</b> &nbsp;"Abraham believed God, and it was credited to him as righteousness"
+        <span style="display:block; font-size:10.5pt; color:#4b5563; font-family:'Helvetica Neue',Arial,sans-serif; margin-top:1.5mm">quoted by both men · Rom 4:3 · Jas 2:23</span></div>
+      <div class="dia" style="flex:1 1 auto; flex-direction:column; justify-content:flex-start; padding:3mm 5mm 4mm 5mm">
+        <div class="tl" style="width:100%">
+          <div class="bar">
+            <div class="pt a">15</div><div class="pt b">22</div>
+            <div class="mid">decades later</div>
+            <div class="cap a"><b>the stars.</b> he trusts the promise. before Isaac, before circumcision. righteousness credited.</div>
+            <div class="cap b"><b>the mountain.</b> the knife. that same trust becomes costly obedience.</div>
+          </div>
+        </div>
+        <div class="slot" style="min-width:52mm; margin-top:auto"><div class="sl">how many lives?</div><div class="rule"></div></div>
+      </div>
+      <div class="cols div" style="margin-top:1mm">
+        <div><div class="ch red">Paul reads it where it sits</div>
+          <ul><li><b>Rom 4</b> · the whole point is the timing</li><li>the credit came first, on nothing but trust</li></ul></div>
+        <div><div class="ch gold">James reads it forward</div>
+          <ul><li><b>2:22-23</b> <span class="hl">"made complete"</span> · <span class="hl">"was fulfilled"</span></li><li>not a second verdict. the sentence written at Gen 15 came true at Gen 22.</li></ul></div>
+      </div>
+      <div class="hook"><div class="el"></div><div class="tt">those are the two verbs. a transaction cannot be fulfilled, so Gen 15:6 was pointing forward all along.</div></div>
+      <div class="dia" style="padding:3mm; flex:0 0 auto">
+        <div class="node" style="padding:2.5mm 5mm"><div class="nt" style="font-size:11.5pt">Paul freezes the frame</div></div>
+        <div class="node" style="padding:2.5mm 5mm"><div class="nt" style="font-size:11.5pt">James runs the tape</div></div>
+      </div>
+    </div>
+    <div class="hot">
+      <p>"They are quoting it about two different days."</p>
+      <p>"And listen to his verbs."</p>
+      <p>"The faith that was real in Genesis 15 is the faith that walked up the hill in Genesis 22."</p>
+      <p>"One life, filmed at two moments, by two men who each needed a different frame."</p>
+    </div>
+  </div>
+  <div class="ft"><div class="cite">Gen 15:6 · Gen 22 · Rom 4 · Jas 2:22-23</div>
+    <div class="loop">Now the word James actually uses.</div></div>
+  <div class="cue">slot: ONE · do not say Genesis 22 earns a second verdict, it completes the first</div>
+</div>
+
+<!-- 8 · THE LANDING -->
+<div class="page">
+  <div class="hd"><div><div class="pos">Move 6 · the landing · costs him something</div><div class="beat">THE HAND STOPS</div></div><div class="pg">8 / 8</div></div>
+  <div class="main">
+    <div class="cold">
+      <div class="big" style="font-size:15pt"><b>2:26</b> &nbsp;"As the body without the spirit is dead, so faith without deeds is <span class="hl red">dead</span>."</div>
+      <div class="tight" style="margin-top:1mm">
+        <div class="line" style="font-size:14pt"><span class="hl"><b>nekra</b></span> &nbsp; a corpse. not weak, not immature, not incomplete.</div>
+        <div class="line">a corpse has every feature of the living thing in the right place, and is its opposite</div>
+        <div class="line" style="margin-top:2mm"><b>1:18</b> "he chose to give us birth through the word of truth" · <i>chose</i>, and <i>birth</i></div>
+        <div class="line">a new birth makes a new nature, and a nature moves. living faith does not stay motionless by nature.</div>
+      </div>
+      <div class="dia" style="padding:4mm">
+        <div class="node" style="padding:3mm 5mm"><div class="nl">not this</div><div class="nt" style="font-size:11.5pt">works as payment<br>laid on top of a nature</div></div>
+        <div class="arrow"><div class="abar"></div></div>
+        <div class="slot"><div class="sl">works are the</div><div class="rule"></div></div>
+      </div>
+      <div class="tight">
+        <div class="line">the concrete instrument this chapter puts in your hand · <span class="hl"><b>does anything in you move toward the person with nothing?</b></span></div>
+        <div class="hook"><div class="el"></div><div class="tt">ask it, then immediately give the qualifier. do not leave the question hanging over someone it will injure.</div></div>
+      </div>
+    </div>
+    <div class="hot dense">
+      <p>"James is not comparing weak faith with strong faith. He is comparing a living thing with a corpse."</p>
+      <p>"The distinction is not degree. It is life and death."</p>
+      <p>"You cannot detect the demon's faith by checking your beliefs. That is the whole horror of verse 19."</p>
+      <p>"Finding your creed correct will tell you nothing, because correctness is exactly what the dead version has."</p>
+      <p>"Here is what I want to leave on you, because it is the thing that has bothered me all week."</p>
+      <div class="sep">
+        <p>"And if that question is torturing you, you are not the person James is writing to, and I mean that medically as well as pastorally. He is writing to people who are comfortable."</p></div>
+      <p>"That is not a comfortable place to end and I am not going to pretend otherwise."</p>
+    </div>
+  </div>
+  <div class="ref"><div class="t">Perfect belief. Zero communion.</div><div class="n">3 OF 3</div></div>
+  <div class="ft"><div class="cite">2:26 · 2:19 · 1:18 · Zizioulas, Being as Communion</div>
+    <div class="loop">The body is dead in verse 26. In chapter 3 we find out which organ killed it.</div></div>
+  <div class="cue">slot: PULSE · refrain printed, say it, do not write it · do not explain Zizioulas, the corpse carries the ontology · hold two seconds after the last question, then the loop, then cut</div>
+</div>
+
+</body></html>

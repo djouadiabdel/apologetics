@@ -1,0 +1,153 @@
+@@ HOOK
+:: verbatim
+TODO 30 seconds, word for word. 60-68 words. Concrete, no jargon,
+no theory. End on a reason to keep watching.
+:: then
+TODO title, channel, one line on why this needs no background
+:: must
+What is a p-value, correctly stated?
+Why are the two common definitions wrong?
+How does 0.05 relate to Fisher rather than to mathematics?
+:: ref
+research  S3E09 p.1   Why this episode is here / So before the number that matters, the tool.
+research  S3E09 p.2   Now build one, with no formula, using the actual case / The device: build the null in four steps
+research  S3E09 p.3   The four things it is not, said one at a time / Where 0.05 comes from, and it is not from mathematics
+research  S3E09 p.4   And the thing that breaks p-values, which is coming later / What would count against this episode
+research  S3E09 p.5   Questions
+
+@@ PAGE 1 — THE TEXT
+:: pos  the text
+:: head TODO
+:: ladder
+1. SAY | TODO
+2. ASK | TODO
+3. THEY | TODO the answer they will give
+4. NO | TODO why it is not that
+5. LAND | TODO the rung this beat exists for
+:: cold
+step | what you do | round 2's number
+1 | measure the real thing | separation of **6.10
+2 | build one fake world where nothing is going on | 66 random frequency-matched words
+3 | do it two thousand times | fakes centre on **−0.16**, spread **2.95
+4 | count how many fakes beat the real one | 8 of 2000
+
+:: hot
+"TODO a line that fires delivery"
+:: zone TODO what to draw
+:: ref research S3E09 p.TODO
+:: foot TODO citations
+:: loop TODO hand to the next beat
+
+@@ PAGE 2 — THE DIFFICULTY
+:: pos  the difficulty
+:: head TODO
+:: ladder
+1. SAY | TODO
+2. ASK | TODO
+3. THEY | TODO the answer they will give
+4. NO | TODO why it is not that
+5. LAND | TODO the rung this beat exists for
+:: cold
+ | the question | a huge effect the wrong way
+two-sided | is there a difference | counts
+one-sided | is it bigger, as predicted | returns nothing
+
+There is nothing behind 0.05 except that it is a round fraction and somebody
+influential said it out loud. One in twenty. It could as easily have been one
+:: hot
+"TODO a line that fires delivery"
+:: zone TODO what to draw
+:: ref research S3E09 p.TODO
+:: foot TODO citations
+:: loop TODO hand to the next beat
+
+@@ PAGE 3 — THE TURN
+:: pos  the turn
+:: head TODO
+:: ladder
+1. SAY | TODO
+2. ASK | TODO
+3. THEY | TODO the answer they will give
+4. NO | TODO why it is not that
+5. LAND | TODO the rung this beat exists for
+:: cold
+in ten or one in a hundred, and in fields that care more, it is.
+And a one-sided p-value is exactly half its two-sided equivalent on the same
+:: hot
+"TODO a line that fires delivery"
+:: zone TODO what to draw
+:: ref research S3E09 p.TODO
+:: foot TODO citations
+:: loop TODO hand to the next beat
+
+@@ PAGE 4 — TEST ONE
+:: pos  test one
+:: head TODO
+:: ladder
+1. SAY | TODO
+2. ASK | TODO
+3. THEY | TODO the answer they will give
+4. NO | TODO why it is not that
+5. LAND | TODO the rung this beat exists for
+:: cold
+TODO
+:: hot
+"TODO a line that fires delivery"
+:: zone TODO what to draw
+:: ref research S3E09 p.TODO
+:: foot TODO citations
+:: loop TODO hand to the next beat
+
+@@ PAGE 5 — TEST TWO
+:: pos  test two
+:: head TODO
+:: ladder
+1. SAY | TODO
+2. ASK | TODO
+3. THEY | TODO the answer they will give
+4. NO | TODO why it is not that
+5. LAND | TODO the rung this beat exists for
+:: cold
+TODO
+:: hot
+"TODO a line that fires delivery"
+:: zone TODO what to draw
+:: ref research S3E09 p.TODO
+:: foot TODO citations
+:: loop TODO hand to the next beat
+
+@@ PAGE 6 — TEST THREE
+:: pos  test three
+:: head TODO
+:: ladder
+1. SAY | TODO
+2. ASK | TODO
+3. THEY | TODO the answer they will give
+4. NO | TODO why it is not that
+5. LAND | TODO the rung this beat exists for
+:: cold
+TODO
+:: hot
+"TODO a line that fires delivery"
+:: zone TODO what to draw
+:: ref research S3E09 p.TODO
+:: foot TODO citations
+:: loop TODO hand to the next beat
+
+@@ PAGE 7 — THE LANDING
+:: pos  the landing
+:: head TODO
+:: ladder
+1. SAY | TODO
+2. ASK | TODO
+3. THEY | TODO the answer they will give
+4. NO | TODO why it is not that
+5. LAND | TODO the rung this beat exists for
+:: cold
+TODO
+:: hot
+"TODO a line that fires delivery"
+:: zone TODO what to draw
+:: ref research S3E09 p.TODO
+:: foot TODO citations
+:: loop TODO hand to the next beat

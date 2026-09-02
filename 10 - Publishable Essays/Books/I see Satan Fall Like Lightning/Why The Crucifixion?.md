@@ -2,6 +2,9 @@
 
 _[suggested title — change it to whatever you want]_
 
+> [!warning] Amendment owed, 29 Aug 2026
+> This essay rests on the innocence reading. The instrument in [[Myths — Forensic Record]] does not find it. The `core` concepts, innocent and guiltless and false witness, carry none of the effect in either translation, and restricting to them collapses GOSPEL over MYTH from p = 0.0003 to p = 0.254. What survived two nulls and the KJV swap is broken unanimity, not exoneration. See [[01 - The Whole Argument]] section 3.1 before this goes anywhere public again.
+
 > _None of the rulers of this age understood this, for if they had, they would not have crucified the Lord of glory._ (1 Corinthians 2:8)
 
 If you read the history of mankind and look at the violence of the ancient days, you would see that every event rests on the same idea: the winner takes it all, and the winner is the one who writes history. [Hold onto that, because a myth is exactly that — history written by the winners, told over the body of the one they killed.]

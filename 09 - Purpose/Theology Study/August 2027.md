@@ -1,3 +1,5 @@
+> Plan of record. Module 2 is nominally running 11 Aug to 15 Dec 2026 and has not been verified against reality. See `00 — Runbook`, theology track.
+
 ### Updated 15-Month Plan (exact dates & books)
 
 **MODULE 1 – Foundations** **Dates:** 23 April 2026 – 10 August 2026 (≈ 3.5 months) **BibleProject courses (First-Pass):**

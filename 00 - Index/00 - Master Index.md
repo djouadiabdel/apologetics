@@ -1,4 +1,7 @@
 # Apologetics Master Index
+
+> Vault map is now `00 — Start Here` at the vault root. This file is the argument chain for folders 01 to 08 only, and its file count is stale.
+> **The spine is now [[01 - The Whole Argument]]**, which says how the folders fit, what has been tested, and where the case can lose. It supersedes the reading order below for anything load-bearing.
 Vault: 40 files | Last updated: March 2026
 Purpose: Christian apologetics — philosophical, historical, and Islamic debate preparation
 
@@ -15,7 +18,7 @@ Cosmological Argument (coming) — That mind caused existence itself
 [Psalm 110 — Two Divine Persons](Psalm%20110%20—%20Two%20Divine%20Persons) — David called his descendant "my Lord"
 [Is paulien creed pre-paulien?](Is%20paulien%20creed%20pre-paulien%3F) — The resurrection is pre-legend
 [The Crucifixion — The Burden of Proof](The%20Crucifixion%20—%20The%20Burden%20of%20Proof) — The death is certain
-[Paul Was Not a Liar](Paul%20Was%20Not%20a%20Liar) — The witnesses are credible
+[Sincerity Is Not Truth](Sincerity%20Is%20Not%20Truth) — Sincerity removes fraud and nothing else. Replaces the retired "Paul Was Not a Liar"
 
 ---
 
@@ -40,10 +43,16 @@ File | Core Claim
 | [the Gospel writers were accurate reporters](the%20Gospel%20writers%20were%20accurate%20reporters) | Eyewitness reliability          |
 | [The Crucifixion — The Burden of Proof](The%20Crucifixion%20—%20The%20Burden%20of%20Proof)         | Death is historically certain   |
 | [Is paulien creed pre-paulien?](Is%20paulien%20creed%20pre-paulien%3F)                             | 1 Cor 15 creed within 2-5 years |
-| [Paul Was Not a Liar](Paul%20Was%20Not%20a%20Liar)                                                 | Paul's testimony is credible    |
+| [Sincerity Is Not Truth](Sincerity%20Is%20Not%20Truth)                                           | Sincerity removes fraud and proves nothing else. Argue three martyrdoms, not twelve |
 | [Paul Invented Christianity](Paul%20Invented%20Christianity)                                       | The opposing argument refuted   |
 | [[Ehrman's Real Arguments — What He Actually Says]]                                                |                                 |
-|                                                                                                    |                                 |
+| [Resurrection — Minimal Facts](Resurrection%20—%20Minimal%20Facts)                                 | My own Layer 2 scoring. What failed, what to drop, what survives |
+| [Dead Sea Scrolls](Dead%20Sea%20Scrolls)                                                           | Dating, pluriformity, the two Isaiahs, and the forgeries |
+| [Textual Variants — What They Are and Aren't](Textual%20Variants%20—%20What%20They%20Are%20and%20Aren't) | 2,600 variants in 1QIsaᵃ. Stop saying "word for word identical" |
+| [Canon Formation](Canon%20Formation)                                                               | No list for two centuries. The disputes are preserved by the winners |
+| [Naturalism as a Presupposition — Not a Conclusion](Naturalism%20as%20a%20Presupposition%20—%20Not%20a%20Conclusion) | Once the facts are fixed the prior decides. The ceiling on everything above. Earman is the one thing you get back |
+| [Historical Criterion](Historical%20Criterion)                                                     | The older scoring grid. **Audited 5 Aug, four corrections inline.** Read the header before using it |
+| [Worship — Proskyneo and Latreuo](Worship%20—%20Proskyneo%20and%20Latreuo)                         | "Jesus accepted worship therefore God" dies to 1 Chr 29:20. Argue the practice, not the word |
 
 ---
 
@@ -54,9 +63,8 @@ File | Core Claim
 [Zechariah 12-10 — God Pierced](Zechariah%2012-10%20—%20God%20Pierced) | YHWH speaks in first person about being pierced
 [Psalm 110 — Two Divine Persons](Psalm%20110%20—%20Two%20Divine%20Persons) | David calls his descendant "my Lord" — divine and human
 [The Divine Messiah in the Old Testament Isaiah 53, Isaiah 9-6, and Micah 5-2](The%20Divine%20Messiah%20in%20the%20Old%20Testament%20Isaiah%2053%2C%20Isaiah%209-6%2C%20and%20Micah%205-2) | Isaiah 53, El Gibbor, eternal origins — one portrait, one fulfillment
-[Daniel 9 — The Timed Prophecy](Daniel%209%20—%20The%20Timed%20Prophecy) | 483 years land on Jesus exactly — window closed
-[Isaiah 53](Isaiah%2053) | Full verse by verse breakdown
-[Isaiah 53 and the Divine Messiah](Isaiah%2053%20and%20the%20Divine%20Messiah) | Combined case
+[Daniel 9 — The Timed Prophecy](Daniel%209%20—%20The%20Timed%20Prophecy) | Anointed One dies before the city falls in AD 70. Sequence, not arithmetic. Do not use the 483 year calculation
+[Isaiah 53 and the Divine Messiah](Isaiah%2053%20and%20the%20Divine%20Messiah) | Dating settled at Qumran. The real fight is the corporate Israel reading, and 49:5-6 is the answer
 [Option D: He simply does not address it](Option%20D%3A%20He%20simply%20does%20not%20address%20it) | Unanswered prophecy argument
 
 ---
